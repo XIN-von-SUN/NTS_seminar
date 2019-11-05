@@ -1,0 +1,6 @@
+1	资产 负债率 <num> <num> <num> <num> - <num>
+1	利息 保障 倍数 <num> <num> <num> <num> <num>
+1	应收 账款 周转率 <num> <num> <num> <num> <num>
+1	存货 周转率 <num> <num> <num> <num> - <num>
+1	销售 利润率 <num> <num> <num> <num> <num>
+1	净资产 收益率 <num> <num> <num> <num> <num>

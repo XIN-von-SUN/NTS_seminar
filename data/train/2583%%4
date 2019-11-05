@@ -1,0 +1,90 @@
+0	( 本 段 具体 描述 已 在 第 <num> 部分 “ 关联 交易 ” 中 阐述 )
+0	借款 人 主要 下游 客户 分析 如下 表 : ( 至少 前 <num> 大 且 合计 占 总 销售 <num> 以上 ,
+0	按 年 供应量 占 比 排序 )
+0	主要 下游 客户 销售 金额 ( <num> 元 业务 占 比 ( <num> ) 结算 方式 合作 年限 ( 年 )
+0	张 <num> limited <num> <num> tt <tim>
+0	张 <num> co · ltd <num> <num> tt <tim>
+0	张 <num> corporation <num> <num> tt <num>
+0	张 <num> energy global private limited <num> <num> tt <tim>
+0	张 <num> developers private limited <num> <num> tt <tim>
+1	下游 客户 原来 以 欧洲 地区 为主 ,
+1	现在 以 新兴 市场 为主 ,
+1	主要 是 日本 、 美国 、 韩国 等 国家 。
+1	欧洲 市场 的 需求量 仍 较 大 ,
+1	但 受 李 <num> 反倾销 影响 ,
+1	欧洲 市场 份额 已 逐渐 下降 ,
+0	但 企业 未 放弃 欧洲 市场 ,
+0	现 阶段 欧洲 市场 的 关系 维护 主要 由 张 <num> 维护 。
+0	定价 采用 的 是 全球 转让 定价 策略 ,
+0	终端 销售 价格 是 销售 和 客户 根据 市场 价格 商谈 。
+0	以下 <num> 表 为 全球 销售 占 比
+0	单位 : <num> 元
+0	国外 市场 占 比 <tim> <tim> <tim> <tim>
+0	japan — 日本 <num> <num> <num> <num> <num> <num> <num> <num>
+0	india - - 印度 <num> <num> <num> <num> <num> <num> <num> <num>
+0	turkey — 土耳其 <num> <num> <num> <num> <num> <num> <tim> <num>
+0	korea — 韩国 <num> <num> <num> <num> <num> <num> <num> <num>
+0	australia - 澳大利亚 <num> <num> <num> <num> <num> <num> <num> <num>
+0	uruguay - 乌拉圭 <num> <num> <num> <num> <num> <num> <num> <num>
+0	israel — 以色列 <tim> <num> <tim> <num> <tim> <num> <tim> <num>
+0	senegal - 塞内加尔 <tim> <num> <num> <num> <num> <num> <num> <num>
+0	其他 地区 <num> <num> <num> <num> <tim> <num> <tim> <num>
+0	合计 <num> <num> <num> <num> <num> <num> <num> <num>
+0	国内 市场 <tim> <tim> <tim> <tim>
+0	<org> <num> <num> <num> <num> <num> <num> <num>
+0	b 张 <num> 有限 责任 公司 <num> <num> <num> <tim> <num> <tim> <num>
+0	c 张 <num> <org> 有限 公司 <num> <num> <num> <num> <num> <num> <num>
+0	<org> <num> <num> <num> <num> <num> <num> <num>
+0	e 市 <org> <num> <num> <num> <num> <num> <num> <num>
+0	f 张 <num> 电力 有限 公司 <num> <num> <num> <num> <num> <num> <num>
+0	<org> <num> <num> <num> <num> <num> <num> <num> <num>
+0	其他 客户 <num> <num> <num> <num> <tim> <num> <num> <num>
+0	合计 <num> <num> <num> <num>
+0	<num> 非 财务 因素 分析
+0	文字 分析 :
+0	近期 重大 事项 披露 :
+0	<num> 、 集团 因素 :
+0	<tim> 张 <num> co <num> ,
+0	ltd 公司 名称 正式 更名 为 张 <num> ( 张 <num> 有限 公司 ) ( <tim> 张 <num> chemical 收购 solar fun <num> 的 股份 ,
+0	成为 第 <num> 大 股东 ,
+0	这 是 更名 的 原因 。
+0	张 <num> 是 韩国 第 <num> 大 企业 集团 ,
+0	总资产 超 <num> 美元 ,
+0	其 业务 遍布 全球 ) ,
+0	<tim> 张 <num> solarone 正式 启用 新 的 股票 交易 代码 ( hsol ) ,
+0	<tim> 张 <org> 新能源 也 正式 更名 为 张 <num> 有限 公司 。
+0	后 公司 <per> 增资 ,
+0	<tim> 公司 一共 计划 增资 <num> 美元 目前 已 落实 ,
+0	<tim> 增资 <num> 美元 已 落实 ,
+0	<tim> 增资 至 现在 的 注册 资本 <num> 美元 ,
+0	<tim> 增资 <num> 美元 至 <num> 美元 ,
+0	<tim> 增资 <num> 美元 至 <num> 美元 。
+0	<num> 、 原材料 价格 因素 :
+0	<tim> 两年 随着 <org> 行业 的 快速 发展 ,
+0	对 <org> 硅片 的 需求 急剧 增长 ,
+0	导致 <org> 硅片 供应 十分 紧张 ,
+0	<org> 硅片 供应 出现 脱节 或 价格 上涨 ,
+0	随着 硅 原材料 产 能 的 快速 扩大 ,
+0	使 光伏 电池 片 生产 所需 主要 原材料 多晶硅 现货 价格 大幅 下滑 ,
+0	硅片 价格 也 相应 地 下滑 ,
+0	从而 给 光伏 企业 形成 了 较 大 的 经营 风险 。
+0	从 客户 产品 的 成本 结构 来 看 ,
+0	硅 材料 成本 约 占 平均 成本 的 <num> ,
+0	原材料 的 供应 和 供应 价格 的 任何 变化 均 会 对 该 公司 的 正常 经营 产生 较 大 影响 。
+0	目前 硅 料 的 市场 价格 在 <num> 美元 - <num> 美元 / 公斤 上下 波动 ,
+0	跌幅 超过 <num> 。
+0	公司 目光 长远 ,
+0	对 产业链 进行 了 延伸 ,
+0	所需 原材料 <num> 由 子公司 <org> 供应 ,
+0	国外 采购 占 <num> ,
+0	国内 其余 厂商 采购 占 <num> 。
+0	对 原材料 供应 及 价格 波动 风险 ,
+0	该 公司 与 国内外 原材料 供应商 建立 而 长久 的 合作 关系 ,
+0	在 比较 价格 和 质量 的 基础 上 ,
+0	形成 稳定 供货 渠道 ,
+0	达成 长期 合作 的 意向 ,
+0	目前 已 与 数 家 原料 生产 企业 达成 合作 协议 ,
+0	另外 公司 通过 集中 采购 等 方式 降低 原材料 供应 成本 ;
+0	该 公司 将 加强 存货 管理 和 原材料 消耗 定额 管理 和 精细 化 管理 ,
+0	降低 主要 原材料 消耗 在 制造 成本 中 的 比重 。
+0	<num> 、 汇率 因素 :

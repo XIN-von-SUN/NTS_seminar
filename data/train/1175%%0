@@ -1,0 +1,41 @@
+0	" <num> 、 申请 人 财务 情况
+0	为 全面 了解 申请 人 经营 情况 ,
+0	现 从 申请 人 的 资产 负债 结构 、 各项 财务 指标 、 企业 偿债 能力 等 方面 对 申请 人 财务 情况 进行 全面 分析 :
+1	截至 <tim> 末 ,
+1	申请 人 资产 合计 <num> 元 ,
+1	负债 合计 <num> 元 ,
+1	所有者 权益 合计 <num> 元 ,
+1	资产 负债率 为 <num> ,
+1	流动 比率 <num> ,
+1	速 动比率 <num> 。
+0	资产 负债表 单位 : <num> 元
+1	资产 <tim> 年 <tim> 年 <num> 负债 所有者 权益 <tim> 年 <tim> 年 <num>
+0	货币 资金 <num> <num> ,
+0	<num> <num> 应付 账款 <num> <num> <num>
+0	短期 投资 - <num> <num> 应付 职工 薪酬 <num> <num> <num>
+0	应收 账款 <num> <num> <num> 预 收 账款 <num> <num> <num>
+0	预付 款项 <num> <num> <num> ,
+0	<num> 应交 税费 <num> <num> <num>
+0	其他 应收款 <num> <num> <num> 其他 应付款 <num> ,
+0	<num> <num> ,
+0	<num> <num>
+0	存货 <num> <num> <num> 流动 负债 合计 <num> ,
+0	<num> <num> <num>
+0	待 摊 费用 <num> <num> <num> 长期 借款 <num> <num>
+0	流动 资产 合计 <num> ,
+0	<num> <num> ,
+0	<num> <num> 非 流动 负债 <num> <num> ,
+0	<num>
+0	长期 股权 投资 <num> <num> <num> 负债 合计 <num> ,
+0	<num> <num> <num>
+0	固定 资产 原值 <num> <num> ,
+0	<num> <num> 实收 资本 <num> <num> <num>
+0	累计 折旧 <num> <num> <num> 资本 公 积 - - <num>
+0	固定 资产 净值 <num> <num> <num> 盈余 公积金 <num> <num> <num>
+0	递延 资产 - - - 未 分配 利润 - - - <num>
+0	无形 资产 <num> <num> ,
+0	<num> <num> 所有者 权益 合计 <num> <num> <num>
+1	资产 总计 <num> ,
+1	<num> <num> ,
+1	<num> <num> 负债 所有者 权益 合计 <num> <num> ,
+0	<num> <num> "

@@ -1,0 +1,26 @@
+1	资产 负债率 <num> <num> <num> <num> <num>
+1	流动 比率 <num> <num> <num> <num>
+1	速 动比率 <num> <num> <num> <num>
+0	应收 周转 天数 <num> <num> <num> <num>
+0	存货 周转 天数 <num> <num> <num> <num>
+0	( <num> ) 损益表 ( 单位 : <num> 元 )
+1	科目 说明 ( <tim> )
+1	<tim> <tim> <tim> <tim>
+1	营业 收入 <num> <num> <num> <num>
+0	营业 成本 <num> <num> <num> <num>
+0	营业 税金 及
+0	附加 <num> <num> <num> <num>
+0	销售 费用 <num> <num> <num> <num>
+0	管理 费用 <num> <num> <num> <num>
+0	财务 费用 <num> <num> <num> <num>
+0	资产 减值 损失
+0	投资 收益
+0	营业 利润 <num> <num> <num> <num>
+0	营业 外 收入
+0	营业 外 支出
+0	利润 总额 <num> <num> <num> <num>
+1	净利润 <num> <num> <num> <num>
+1	销售 利润率 <num> <num> <num> <num> <num>
+0	企业 销售 情况 核实 : <tim> 企业 纳税 申报表 显示 其 销售 总额 为 <num> 元 ,
+0	<tim> 企业 纳税 申报表 显示 其 销售 总额 为 <num> 元 。
+0	<tim> 企业 全年 总 电费 为 <num> 元 。

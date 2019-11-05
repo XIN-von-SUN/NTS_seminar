@@ -1,0 +1,90 @@
+0	单位 : <num> 元
+0	项目 名称 金额
+0	某某 <num>
+0	某某 化学 <num>
+0	空气 自动 站 <num>
+0	( <num> ) 应付 账款 <num> 元 ,
+0	比上 年末 减幅 <num> ,
+0	主要 构成 如下 :
+0	单位 : <num> 元
+0	客户 名称 金额
+0	动迁 抵扣 款 <num>
+0	张 <num> 村 <num>
+0	<num> <num>
+0	( <num> ) 预 收 账款 <num> 元 ,
+0	比上 年末 增幅 <num> ,
+0	主要 构成 如下 :
+0	单位 : <num> 元
+0	客户 名称 金额
+0	张 <num> 公司 <num>
+0	张 <num> 公司 <num>
+0	张 <num> 公司 <num>
+0	张 <num> 公司 <num>
+0	发 凯 <num>
+0	( <num> ) 其他 应付款 <num> 元 ,
+0	比上 年末 增幅 <num> ,
+0	主要 构成 如下 :
+0	单位 : <num> 元
+0	科目 名称 金额
+0	某某 张 <num> 卫 房地产 经营 有限 公司 <num>
+0	张 <num> 公司 <tim>
+0	某某 <num>
+0	<per> <tim>
+0	某某 化学 <num>
+0	<num> 、 偿债 能力 分析
+1	授信 客户 <tim> 及 即期 主要 偿债 能力 指标 表
+1	指标 名称 <tim> <tim> <tim> <tim>
+0	短期 偿债 指标
+1	流动 比率 <num> <num> <num> <num>
+1	速 动比率 <num> <num> <num> <num>
+1	现金 流量 比率 <num> <num> <num> <num>
+0	长期 偿债 指标
+1	资产 负债率 <num> <num> <num> <num> <num>
+1	利息 保障 倍数 <num>
+0	<num> 、 盈利 能力 分析
+1	授信 客户 <tim> 及 即期 主要 盈利 能力 指标 表
+1	指标 名称 <tim> <tim> <tim> <tim>
+1	主营 业务 增长率 <num> <num> - <num> - <num>
+1	主营 业务 毛利率 <num> <num> <num> <num> <num>
+1	销售 净 利率 <num> <num> <num> <num> - <num>
+1	净资产 收益率 <num> <num> <num> <num> - <num>
+0	<num> 、 运营 能力 分析
+1	授信 客户 <tim> 及 即期 主要 营运 能力 指标 表
+1	指标 名称 <tim> <tim> <tim> <tim>
+1	总资产 周转率 <num> <num> <num> <num>
+1	应收 账款 周转率 <num> <num> <num> <num>
+1	存货 周转率 <num> <num> <num> <num>
+0	<num> 、 授信 客户 银行 融资 情况 分析
+0	<num> 借款 人 银行 融资 及 担保 情况
+0	截至 <tim> ,
+0	该 客户 在 银行 融资 共 <num> 元 。
+0	具体 明细 如下 表 :
+0	银行 贷款 总额 贷款 余额 期限 利率 担保 形式
+0	<org> <num> <num> <tim> - <tim> 下浮 <num> 保证 担保
+0	<num> <num> <tim> - <tim> 下浮 <num> 保证 担保
+0	<num> <num> <tim> - <tim> 基准 保证 担保
+0	<org> <num> <num> <tim> - <tim> 基准 保证 担保
+0	<num> <num> <tim> - <tim> 基准 保证 担保
+0	<num> <num> <tim> - <tim> 基准 保证 担保
+0	<num> <num> <tim> - <tim> 基准 保证 担保
+0	某某 银行 <num> <num> <tim> - <tim> 下浮 <num> 保证 担保
+0	<num> <num> <tim> - <tim> 下浮 <num> 保证 担保
+0	<num> <num> <tim> - <tim> 下浮 <num> 保证 担保
+0	某某 银行 <num> <num> <tim> - <tim> 基准 保证 担保
+0	<num> <num> <tim> - <tim> 基准 保证 担保
+0	农 商行 <num> <tim> <tim> - <tim> 基准 保证 担保
+0	某某 银行 <num> <num> <tim> - <tim> 基准 保证 担保
+0	某某 银行 <num> <num> <tim> - <tim> 基准 保证 担保
+0	某某 银行 <num> <num> <tim> - <tim> 基准 保证 担保
+0	某某 银行 <num> <num> <tim> - <tim> 下浮 <num> 保证 担保
+0	总计 <num> <num>
+0	由上 可见 ,
+0	公司 作为 国有 独资 ,
+0	自身 质地 较 好 ,
+0	发展 潜力 巨大 ,
+0	且 为 政府 重点 支持 ,
+0	为 众多 银行 争抢 的 战略 客户 。
+0	公司 银行 融资 成本 一直 处于 较 低 水平 ,
+0	本次 与 我 行 合作 ,
+0	条件 优 于 所有 银行 。
+0	<num> 关联 企业 在 我 行 授信 及 担保 情况

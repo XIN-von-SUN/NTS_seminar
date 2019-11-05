@@ -1,0 +1,90 @@
+0	开户行 <num> 基本 户 ( 银行 及 账号 ) : <org> 某某 市 西 支行 ,
+0	<num>
+0	一般 结算 户 ( 银行 及 账号 ) :
+0	授信 情况 <org> 授信 总额
+0	( <num> 元 ) 授信 品种 单 笔 贷款 期限
+0	( 起止 日 ) 贷款 利率 担保 方式 <num> 授信 用途 备注 ( 人行 征信 系统 查询 差异 原因 )
+0	某某 银行 <num> 短期 流 贷 <num> - <num> 基准 利率 上浮 <num> 保证 ,
+0	不 足额 抵押 日常 经营
+0	某某 银行 <num> 短期 流 贷 <num> - <num> 基准 利率 上浮 <num> 保证 ,
+0	股权 质押 日常 经营
+0	合计 <num>
+0	对外 担保 情况 担保 企业 担保 总额
+0	( <num> 元 ) 单 笔 贷款 期限
+0	( 起止 日 ) 备注 ( 如 有为 <per> 担保 需 特别 说明 )
+0	张 <num> 公司 担保 总额 <num> 元 ,
+0	实际 余额 <num> 元 。
+0	<per> 担保
+0	<num> 、 银 企 与 我 行 合作 情况
+0	因 租金 收入 结算 在 银团 牵头 行 办理 ,
+0	故 在 我 行 无 结算 。
+0	<num> <num>
+0	张 <num> 公司 <num> <num>
+0	张 <num> 公司 <num> <num>
+0	许 <num> <num> <num>
+0	张 <num> 公司 <num> <num>
+0	某某 某某 <org> <num> <num>
+0	王 <num> <num> <num>
+0	沙 <num> <num> <num>
+0	张 <num> 公司 <num> <num>
+0	王 <num> s3 - <num> - - <num> <num> <num>
+0	孙 <num> s3 - <num> - - <num> <num> <num>
+0	陈 <num> <num> <num>
+0	范 <num> s3 - <num> - - <num> <num> <num>
+0	阚 <num> <num> <num>
+0	尹 <num> <num> <num>
+0	展位 商 <num> <num>
+0	张 <num> 公司 <num> <num>
+0	<per> s7 - <num> - <num> <num> <num>
+0	夏 小 <num> <num>
+0	熊 <num> <num> <num>
+0	<per> <num> <num>
+0	张 <num> 公司 <num> <num>
+0	秦 <num> 、 金 <num> b12 # <num> - <num> - <num> <num> <num>
+0	小计 <num> <num>
+0	<num> 、 其他 应付款 : 本期 余额 _ _ <num> _ <num> 元 ,
+0	比上 年末 减 _ <num> _ <num> 元 ,
+0	减幅 _ <num> _ _ _ <num> 。
+0	主要 增减 原因 分析 :
+0	主要 构成 如下 :
+0	企业 名称 金额 ( <num> 元 ) 账 龄 比例 原因
+0	张 <num> 公司 <num> <num> 年 <num>
+0	张 <num> 公司 股份 有限 公司 某某 分行 <num> <num> 年 <num>
+0	<org> <num> <num> 年 <num>
+0	连锁店 <num> <num> 年 <num>
+0	张 <num> 某某 居家 用品 超市 有限 公司 某某 路 店 <num> <num> 年 <num>
+0	某某 张 <org> <num> <num> 年 <num>
+0	某某 某某 张 <num> 港 商业 中心 有限 公司 <num> <num> 年 <num>
+0	小计 <num> <num>
+0	<num> 、 长期 借款 : 本期 余额 _ <num> _ _ <num> 元 ,
+0	比上 年末 减少 _ _ <num> _ _ <num> 元 ,
+0	减幅 _ <num> _ _ <num> 。
+0	主要 增减 原因 分析 :
+0	主要 构成 如下 :
+0	项目 余额 ( <num> 元 ) 担保 方式
+0	张 <num> 公司 <num> 抵押 担保 、 质押 担保
+0	张 <num> 公司 <num> 抵押 担保
+0	某某 <num> 期 项目 贷款 <num> 抵押 担保
+0	张 <num> 公司 <num> 抵押 担保 、 保证 担保
+0	张 <num> 公司
+0	<num> 抵押 担保 、 保证 担保
+0	张 <num> 公司 <num> 抵押 担保 、 保证 担保
+0	张 <num> 公司 <num> 抵押 担保 、 保证 担保
+0	张 <num> 某某 有限 公司 <num> 抵押 担保 、 保证 担保
+0	张 <num> 公司 <num> 抵押 担保 、 保证 担保
+0	小计 <num>
+0	<num> 、 资本 公 积 : 本期 余额 _ _ <num> _ <num> 元 ,
+0	比上 年末 减少 _ _ <num> _ _ <num> 元 ,
+0	减幅 _ <num> _ _ <num> 。
+0	<num> 、 投资 性 房地产 : 本期 余额 _ _ <num> _ _ <num> 元 ,
+0	比上 年末 增 _ <num> _ _ _ _ <num> 元 ,
+0	增幅 _ <num> _ _ _ <num> 。
+0	主要 增减 原因 分析 : 公允 价值 变动
+0	主要 构成 如下 :
+0	项目 金额 ( <num> 元 ) 情况 说明
+0	张 <num> 公司 <tim>
+0	张 <num> 公司 <num>
+0	张 <num> 公司 <num>
+0	张 <num> 港 投资 有限 公司 <num>
+0	小计 <num>
+0	<num> 、 专项 应付款 : 本期 余额 _ _ <num> _ _ <num> 元 ,

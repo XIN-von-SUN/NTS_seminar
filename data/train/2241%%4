@@ -1,0 +1,90 @@
+0	应付 水电费 <num> <num>
+0	应付 修理费 <num> <num>
+0	应付 土地 出让金 <num> <num>
+0	其他 <num> <num>
+0	合计 <num> <num>
+0	截止 <tim> 末 公司 货币 资金 总额 为 <num> ,
+0	<num> ,
+0	<num> 元 ,
+0	比 年初 减少 <num> 。
+0	( <num> ) 长期 借款 <tim> 总额 为 <num> ,
+0	<num> ,
+0	<num> 元 ,
+0	减少 <num> 。
+0	截止 <tim> 末 该 余额 为 <num> ,
+0	<num> ,
+0	<num> 元 ,
+0	比 年初 增加 <num>
+0	单位 : <num> 元 币种 : 人民币
+0	项目 年末 余额 年初 余额
+0	质押 借款 <num> <num>
+0	抵押 借款 <num> <num>
+0	信用 借款 <num> <num>
+0	合计 <num> <num>
+0	减 : <num> 年 内 到期 的 长期 借款 <num> <num>
+0	其中 : 质押 借款 <num> <num>
+0	抵押 借款 <num> <num>
+0	信用 借款 <num> <num>
+0	<num> 年 后 到期 的 长期 借款 <num> <num>
+0	<num> 年 以上 的 长期 借款 到期 日 分析
+0	单位 : <num> 元 币种 : 人民币
+0	到期 日 年末 余额 年初 余额
+0	<num> 至 两年 <num> <num>
+0	<num> 至 <num> 年 <num> <num>
+0	<num> 年 以上 <num> <num>
+0	合计 <num> <num>
+0	<num> 财务 指标 分析
+0	( <num> ) 偿债 能力 分析
+1	授信 客户 <tim> 及 即期 主要 偿债 能力 指标 表
+1	项目 <tim> <tim> <tim> <tim> 行业 平均值
+1	短期 偿债 指标 流动 比率 <num>   <num> <num> <num>
+1	速 动比率 <num> <num> <num> <num>
+1	现金 流量 比率 ( <num> ) <num> <num> <num> - <num>
+1	长期 偿债 指标 资产 负债率 ( <num> ) <num> <num> <num> <num>
+1	利息 保障 倍数 <num> <num> <num>   <num>
+1	现金 流量 利息 保障 倍数 <num> <num>   <num> - <num>
+0	( <num> ) 盈利 能力 分析
+1	授信 客户 <tim> 及 即期 主要 盈利 能力 指标 表
+1	项目 <tim> <tim> <tim> <tim>
+0	<tim> 行业 平均值
+1	主营 业务 增长率 ( <num> ) - <num> <num> <num> -
+1	主营 业务 毛利率 ( <num> ) <num>   <num> <num> <num>
+1	销售 净 利率 ( <num> ) <num> <num> <num>   <num>
+1	净资产 收益率 ( <num> ) <num>   <num> <num> <num>
+0	( <num> ) 运营 能力 分析
+1	授信 客户 <tim> 及 即期 主要 营运 能力 指标 表
+1	项目 <tim> <tim> <tim> <tim> 行业 平均值
+1	总资产 周转率 <num>   <num> <num> <num>
+1	应收 账款 周转率 <num>   <num> <num> <num>
+1	存货 周转率 <num> <num> <num> /
+0	( <num> ) 现金 流量 分析
+0	公司 <tim> 及 <num> 期 合并 报表 现金 流量 情况
+0	单位 : <num> 元
+0	项目 <tim> <tim> <tim> <tim>
+1	经营 活动 现金 净 流量 <num> <num> <num> - <num>
+0	其中 : 现金 流入 量 <num> <num> <num> <num>
+0	现金 流出 量 <num> <num> <num> <num>
+1	投资 活动 现金 净 流量 <num> - <num> - <num> <num>
+0	其中 : 现金 流入 量 <num> <num> <num> <num>
+0	现金 流出 量 <num> <num> <num> <num>
+1	筹资 活动 现金 净 流量 - <num> - <num> - <num> <num>
+0	其中 : 现金 流入 量 <num> <num> <num> <num>
+0	现金 流出 量 <num> <num> <num> <num>
+1	现金 及 现金 净 增加 额 - <num> - <num> <num> 6520.1 - <num> 8901.4
+0	经营 活动 现金流 分析
+2	<tim> 经营 活动 现金 净 流量 为 正数 ,
+2	主要 原因 是 以前 年度 项目 逐渐 进入 回 款 期 ,
+2	同时 加大 了 对 应收 款项 的 清欠 回收 力 度 。
+2	<tim> 公司 经营 活动 现金 净 流量 为 负数 ,
+2	主要 因为 公司 年度 新增 项目 较多 ,
+2	各项 回 款 暂未 结清 。
+0	投资 活动 现金流 分析
+0	<tim> 投资 活动 现金流 净额 为 正数 ,
+0	主要 是 公司 加强 加大 投资 管理 ,
+0	在 投资 收益 和 处置 资产 上 取得 了 较 好 的 效果 。
+2	<tim> 现金流 为 正数 ,
+2	反映 其 投资 合理 、 收益 较 好 。
+0	筹资 活动 现金流 分析
+0	<tim> 筹资 活动 现金 净 流量 均 为 负数 ,
+0	主要 每年 偿还 银行 当期 到期 债务 。
+2	<tim> ,

@@ -1,0 +1,11 @@
+0	" <num> 、 还款 计划 :
+1	计划 提款 后 <tim> 还款 <num> 元 ,
+1	<tim> 还款 <num> 元 ,
+1	<tim> 还款 <num> 元 ,
+1	<tim> 还款 <num> ,
+1	到期 日 还款 <num> 元 。
+0	( <num> ) 还款 计划 ( 单位 : <num> 元 )
+0	日期 <tim> <tim> <tim>
+0	<tim> <tim> <num>
+0	<tim> <tim> <num> <num>
+0	合计 <tim> <num> <num>

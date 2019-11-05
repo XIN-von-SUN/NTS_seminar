@@ -1,0 +1,90 @@
+1	" 科目 合并 说明
+0	( <tim> )
+1	<tim> <tim> <tim> <num>
+1	资产 总额 <num> <num> <num> <num>
+0	流动 资产 合计 <num> <num> <num> <num>
+0	货币 资金 <num> <num> <num> <num> 子 甲 甲子 <per> <num> 元 、 子 甲 丙 银行 <num> 元 、 子 <per> 行 <num> 元 、 子 辛丑 银行 <num> 元 、 子 辛 癸 银行 <num> 、 子 <per> 银行 <num>
+0	交易 性 金融 资产 <num> <num> <num>
+0	应收 票据 <num> <num> <num> <num>
+0	应收 账款 <num> <num> <num> <num> 企业 项目 较多 ,
+0	故 应收 账款 家 数 较多 ,
+0	达到 近 <num> 余 户 ,
+0	以下 为 主要 名 系 : 子 乙 辛 市 <org> <num> 元 ,
+0	子 甲 甲 县 第 <num> 中学 <num> 元 ,
+0	子 丙丁 市 子 丙 戊 区 住房 和 城乡 建设局 <num> 元 ,
+0	子 甲乙 子 辛卯 置业 有限 公司 <num> 元 ,
+0	销售 石材 客户 欠款 <num> 元
+0	其他 应收款 <num> <tim> <num> <num> 开发 企业 交纳 的 各项 保证金 共计 <num> 元 ,
+0	交纳 的 工期 和 质量 保证金 <num> 元 ,
+0	公司 优秀 员工 住房 款项 <num> 元 ,
+0	按照 合同 约定 <num> 年 内 分期 付款
+0	预付 款项 <num> <num> <num> <tim> 子 乙 <per> 戊 <num> ,
+0	二期 <num> ,
+0	子 甲 甲子 乙 戊 <num> 期 <num> ,
+0	子 丙 己 <num> ,
+0	子 乙卯 子 丙 卯 <num> ,
+0	子 丙丁 子 乙 戊 <num> ,
+0	子 乙 辛 市 媒体 中心 <num> ,
+0	子 癸 甲 体育馆 <num> ,
+0	子 癸 乙 医院 <num> ,
+0	其他 工程 <num>
+0	存货 <num> <num> <num> <num> 子 乙 <per> 戊 二期 <num> ,
+0	<num> 期 <num> ,
+0	子 甲 卯 子 乙 甲 <num> ,
+0	子 甲 甲子 丙 卯 <num> ,
+0	子 甲 甲子 丁 甲 <num> ,
+0	子 乙卯 子 丙 卯 <num> ,
+0	子 丙丁 子 丙 卯 <num> ,
+0	施工 材料 : 刚才 <num> ,
+0	周转 材料 : <num> ,
+0	尚未 结转 零星 工程 成本 <num> ,
+0	木材 <num> ,
+0	其他 材料 <num> ;
+0	石材 加工 企业 在 加工 的 产品 以及 库存 原材料 为 <num> 元
+0	长期 投资 <num> <num> <num>
+0	投资 性 房地产 <num> <num> <num>
+0	固定 资产 <num> <num> <num> <num>
+0	在 建 工程 <num> <num> <num> <tim>
+0	工程 物资 <num> <num> <num> <tim>
+0	无形 资产 <num> <num> <num> <num>
+0	长期 待 摊 费用 <num> <num> <num>
+0	负债 总额 <num> <num> <num> <num>
+0	流动 负债 合计 <num> <num> <num> <num>
+0	短期 借款 <num> <num> <num> <num> 详见 负债 明细
+0	应付 票据 <num> <num> <num> <num> 详见 负债 明细
+0	应付 账款 <num> <num> <num> <num> 子 甲 卯 子 戊 丑 有限 公司 <num> 元 ;
+0	子 甲 甲 县 子 癸 丙 公司 <num> 元 ;
+0	<org> <num> 元 ;
+0	子 戊 辛 子 癸 丁 有限 公司 <num> 元 ;
+0	<org> <num> 元 ;
+0	其它 零星 客户 总计 <num> 元
+0	预收款 项 <num> <num> <num> <num> 房地产 开发 企业 <num> 元 ,
+0	施工 企业 收取 的 甲方 支付 的 工程款 ,
+0	共计 <num> 元 ,
+0	子 癸 己 企业 收取 的 货款 订金 <num> 元
+0	应付 职工 薪酬 <tim> <num> <num> <tim>
+0	应交 税费 <tim> <num> <num> <tim>
+0	其他 应付款 <tim> <num> <tim> <tim>
+0	<num> 年 内 到期 非 流动 负债 <num> <num> <num>
+0	长期 借款 <num> <num> <num> <num> 详见 负债 明细
+0	应付 债券 <num> <num> <num>
+0	长期 应付款 <num> <num> <num>
+0	专项 应付款 <num> <num> <num>
+0	其他 非 流动 负债 <num> <num> <num>
+0	股东 权益 合计 <num> <tim> <num> <num>
+0	实收 资本 <num> <num> <num> <num>
+0	资本 公 积 <num> <num> <num> <num>
+0	盈余 公 积 <num> <num> <num> <num>
+0	未 分配 利润 <num> <tim> <num> <num>
+0	少数 股东 权益 <num> <num> <num>
+0	财务 指标
+1	资产 负债率 <num> <num> <num> <num>
+1	流动 比率 <num> <num> <num> <num>
+1	速 动比率 <num> <num> <num> <num>
+1	应收 周转 天数 <num> <num> <num> <num>
+1	存货 周转 天数 <num> <num> <num> <num>
+0	( <num> ) 损益表 ( 单位 : 元 )
+1	科目 合并
+1	<tim> <tim> <tim> <num>
+1	营业 收入 <num> <num> <num> <num>
+0	营业 成本 <num> <num> <num> <num>

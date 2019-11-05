@@ -1,0 +1,83 @@
+0	" <num> 、 征信 查询 情况 :
+1	<tim> ,
+1	经 查询 企业 征信 显示 ,
+1	目前 企业 贷款 正常 类 余额 <num> 元 ,
+1	关注 类 余额 <num> 元 ,
+1	关注 类 保理 余额 <num> 元 。
+1	欠 息 金额 <num> 元 ,
+1	垫款 金额 <num> 元 。
+0	企业 及 关联 公司 实际 融资 及 对外 担保 情况 如下 表 :
+0	序号 银行 主体 贷款 金额 ( <num> 元 ) 利率 ( <num> ) 贷款 形式 起止 时间
+0	<num> 某某 银行 某某某 某某某 有限 公司 <num> <num> 流 贷 <num> - <num>
+0	<num> 某某某 某某某 有限 公司 <num> <num> 流 贷 <num> - <num>
+0	<num> 某某 某某 银行 乙 支行 <org> <num> <num> 流 贷 <num> - <num>
+0	<num> <org> <num> <num> 流 贷 <num> - <num>
+0	<num> <org> <tim> <num> 流 贷 <num> - <num>
+0	<num> 某某 某某 银行 某某某 某某某 有限 公司 <num> <num> 保证金 银行 承兑 汇票 <num> - <num>
+0	<num> 某某某 某某 有限 责任 公司 <tim> <num> 流 贷 <num> - <num>
+0	<num> <org> <num> <num> 流 贷 <num> - <num>
+0	<num> 某某 某某 银行 甲 东 分行 <org> <num> <num> 保理 <num> - <num>
+0	<num> <org> 某某某 某某某 有限 公司 <num> <num> 流 贷 <num> - <num>
+0	<num> 某某 某某 银行 <org> <num> <num> 保证金 银行 承兑 汇票 <num> - <num>
+0	<num> <org> <num> <num> 流 贷 <num> - <num>
+0	<num> 某某某 某某 有限 责任 公司 <num> <num> 流 贷 <num> - <num>
+0	<num> 某某某 某某 有限 责任 公司 <num> <num> 流 贷 <num> - <num>
+0	<num> 某某某 某某 有限 责任 公司 <num> <num> 流 贷 <num> - <num>
+0	<num> 某某某 某某 有限 责任 公司 <num> <num> 存单 质押 银行 承兑 汇票 <num> - <num>
+0	<num> 某某 某某 银行 石家庄 新华路 支行 <org> <tim> <num> 流 贷 <num> - <num>
+0	<num> <num> <num> 流 贷 <num> - <num>
+0	<num> <num> <num> 流 贷 <num> - <num>
+0	<num> <num> <num> 流 贷 <num> - <num>
+0	<num> <num> <num> 流 贷 <num> - <num>
+0	<num> 某某 银行 安次区 支行 <org> <num> <num> 流 贷 <num> - <num>
+0	<num> 某某 银行 安次区 支行 <org> <num> <num> 流 贷 <num> - <num>
+0	<num> 某某 银行 甲 东 分行 <org> <num> <num> 流 贷 <num> - <num>
+0	<num> 某某 银行 甲 东 分行 <org> <num> <num> 流 贷 <num> - <num>
+0	<num> 某某 银行 甲 东 分行 <org> <num> <num> 流 贷 <num> - <num>
+0	<num> 某某 某某 信托 <org> <num> <num> 流 贷 <num> - <num>
+0	<num> 某某 银行 某某某 某某某 有限 公司 <num> <num> 流 贷 <num> - <num>
+0	<num> 某某 银行 甲 西 分行 <org> <tim> <num> 流 贷 <num> - <num>
+0	<num> 某某 银行 甲 西 分行 <org> <tim> <num> 保证金 银行 承兑 汇票 <num> - <num>
+0	<num> 某某 银行 甲 西 分行 <org> <num> <num> 保证金 银行 承兑 汇票 <num> - <num>
+0	<num> 某某 银行 甲 西 分行 <org> <tim> <num> 流 贷 <num> - <num>
+0	<num> 某某 银行 甲 西 分行 <org> <tim> <num> 保证金 银行 承兑 汇票 <num> - <num>
+0	<num> 某某 银行 甲 西 分行 <org> <num> <num> 流 贷 <num> - <num>
+0	<num> 某某 银行 甲 西 分行 <org> <num> <num> 流 贷 <num> - <num>
+0	<num> 某某 银行 甲 西 分行 <org> <tim> <num> 流 贷 <num> - <num>
+0	<num> 某某 银行 甲 西 分行 <org> <tim> <num> 流 贷 <num> - <num>
+0	<num> 某某 银行 甲 西 分行 <org> <tim> <num> 保证金 银行 承兑 汇票 <num> - <num>
+0	<num> 某某 银行 甲 西 分行 <org> <tim> <num> 保证金 银行 承兑 汇票 <num> - <num>
+0	<num> 某某 银行 甲 西 分行 <org> <tim> <num> 保证金 银行 承兑 汇票 <num> - <num>
+0	<num> 某某 银行 甲 西 分行 <org> <num> <num> 流 贷 <num> - <num>
+0	<num> 某某 银行 甲 西 分行 <org> <tim> <num> 保证金 银行 承兑 汇票 <num> - <num>
+0	<num> 某某 银行 甲 西 分行 <org> <num> <num> 保证金 银行 承兑 汇票 <num> - <num>
+0	<num> 某某 银行 甲 西 分行 <org> <tim> <num> 保证金 银行 承兑 汇票 <num> - <num>
+0	<num> 某某 某某 银行 <org> <tim> <num> 流 贷 <num> - <num>
+0	<num> 某某 某某 银行 <org> <num> <num> 流 贷 <num> - <num>
+0	截止 目前 ,
+1	企业 及其 关联 公司 融资 金额 额度 共计 <num> 元 ,
+1	敞口 <num> 元 ,
+1	其中 贷款 风险 敞口 <num> 元 ,
+1	银 承 风险 敞口 <num> 元 。
+1	企业 对外 担保 明细 :
+1	序号 被 担保 单位 名称 金额
+1	( <num> 元 ) 期限 <num> 级 分类 <org>
+0	<num> 某某某 某某 有限 责任 公司 <num> <num> - <num> 正常 某某 某某 银行 石家庄 分行
+0	<num> 某某某 某某某 有限 公司 <num> <tim> , <num> , <num> - <num> 关注 <org>
+0	<num> <org> <num> <num> - <num> 正常 某某 某某 银行 武汉 分行
+0	<num> 某某某 某某某 有限 公司 <num> <num> - <num> 正常 某某 某某 银行 石家庄 分行
+0	<num> <org> <num> <num> - <num> 正常 某某 银行 甲 西 x 支行
+0	<num> 某某某 某某某 有限 公司 <tim> <num> - <num> 正常 <org>
+0	<num> <org> <num> <num> - <num> 关注 某某 某某 银行 武汉 分行
+0	<num> 某某某 某某某 有限 公司 <num> <num> - <num> 关注 <org>
+0	<num> <org> 某某 分公司 <num> <num> - <num> 正常 <org> 某某 分行
+0	<num> 某某某 某某某 有限 公司 <num> <num> - <num> 正常 某某 银行 天津 滨海 新 区 支行
+0	<num> <org> <tim> <num> - <num> 关注 某某 某某 银行 武汉 分行
+0	<num> <org> <tim> <num> - <num> 关注 <org>
+0	<num> 某某某 某某 有限 责任 公司 <tim> <num> - <num> 正常 某某 某某 银行 天津 北辰 支行
+0	<num> <org> <tim> <num> - <num> 正常 <org>
+0	<num> <org> <num> <num> - <num> 正常 某某 某某 银行 珠海 分行
+0	<num> 某某某 某某某 有限 公司 <num> <num> - <num> 正常 青岛 某某 某某 银行
+0	<num> 某某某 某某某 有限 公司 <tim> <num> - <num> 正常 <org>
+0	<num> 某某某 某某某 有限 公司 <tim> <num> - <num> 正常 某某 某某 银行 石家庄 分行
+0	合 计 <num>

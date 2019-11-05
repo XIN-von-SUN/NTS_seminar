@@ -1,0 +1,59 @@
+1	收回 资金 <num> 元 ,
+1	<tim> 共 支付 经营性 费用 <num> 元 。
+0	按照 采购 成本 合同 项 下 框 算 ,
+1	毛利 约 为 <num> 元 / 吨 ,
+1	<tim> 毛利 约 为 <num> 元 ,
+1	财务 费用 约 为 <num> 元 ,
+1	管理 费用 约 为 <num> 元 ,
+1	利润 总额 约 为 - <num> 元 。
+0	( <num> ) <tim> <num> - <tim> 的 经营 情况
+0	<tim> <num> - <tim> 甲乙 丙丁 累计 销售 <num> 吨 ,
+0	金额 <num> 元 ,
+0	收回 资金 <num> 元 ,
+0	共 支付 经营性 费用 <num> 元 ,
+0	毛利 约 <num> 元 / 吨 ,
+0	毛利 约 <num> 元 ,
+0	财务 费用 <num> 元 ,
+0	管理 费用 <num> 元 ,
+0	利润 总额 约 - <num> 元 。
+0	进货 吨数 ( <num> 吨 ) 销售 吨数 ( <num> 吨 ) 销售 收入 ( <num> 元 ) 库存 存货 ( <num> 吨 ) 存款 ( <num> 元 ) 应收 账款 ( <num> 元 ) 销售 利润 ( <num> 元 ) 利润 总额 ( <num> 元 )
+0	<tim> <num> <num> <num> <num> <num> <num> <tim> - <tim>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <num>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <tim>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <num>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <num>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <num>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <num>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <num>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <tim>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <num>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <num>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <num>
+0	<tim> <num> <num> <num> <num> <tim> <num> <num> - <num>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <num>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <num>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <num>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <tim>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <num>
+0	<tim> 春节 后 ,
+0	甲乙 丙丁 经营 团队 中 张 某某 总经理 已 离任 ,
+0	不再 担任 甲乙 丙丁 总经理 ,
+0	统筹 管理 甲乙 丙丁 的 经营 问题 。
+0	<tim> 初 ,
+0	主管 销售 的 副 总经理 林 某某 也 向 股东 林 某某 、 林 某某 和 法人 代表 林 某某 提出 辞职 ,
+0	表示 在 <tim> 后 不再 回 甲乙 丙丁 上班 。
+0	贸易 部门 也 存在 部分 员工 辞职 的 趋势 。
+0	就 目前 公司 经营 情况 看 ,
+0	甲乙 丙丁 面临 内外 危机 两重 危机 ,
+1	<num> 是 内部 管理层 行业 经营 能力 不足 ,
+1	原有 管理层 的 总经理 张 某某 和 主管 销售 的 副 总经理 林 某某 已 离职 ,
+1	部分 员工 也 出现 辞职 的 情况 ,
+1	经营 团队 人员 人心 不 稳 ,
+1	<num> 是 目前 我国 煤炭 库存量 价 高 ,
+1	产 能 严重 过剩 ,
+1	价格 不断 下滑 ,
+1	进口 煤炭 在 国内 已 无 优势 ,
+1	甲乙 丙丁 再 加上 每月 <per> <tim> 多 <num> 的 银团 贷款 财务 费用 ,
+1	未来 要 实现 盈利 将 非常 困难 ,
+1	如 甲乙 丙丁 无法 在 短期 内 引入 强 有力 的 管理层 人员 和 外部 资金 介入 ,
+1	未来 甲乙 丙丁 将 面临 破产 的 可能 。

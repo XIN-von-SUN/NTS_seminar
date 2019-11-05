@@ -1,0 +1,90 @@
+0	<num> 某某 有限 公司 <num>
+0	<num> 某某 有限 公司 <num>
+0	( <num> ) 保证 人 征信 情况
+0	经 <org> 征信 系统 查询 ,
+0	截至 <tim> ,
+0	保证 人 未 结清 信贷 业务 余额 <num> 元 ,
+0	其中 贷款 <num> 笔 ,
+0	共计 <num> 元 ;
+0	银行 承兑 汇票 <num> 笔 ,
+0	共计 <num> 元 ,
+0	业务 状态 均 为 正常 ;
+0	保证 人 对外 保证 担保 <num> 笔 ,
+0	余额 合计 <num> 元 ,
+0	对外 质押 担保 <num> 笔 ,
+0	合计 <num> 元 ,
+0	状态 正常 。
+1	保证 人 无 诉讼 、 欠 息 、 逾期 和 违约 等 不良 信用 记录 ,
+1	无 其他 经济 纠纷 ,
+1	综合 资信 状况 良好 。
+1	我 行 内 评为 aa 。
+0	截至 <tim> 末 ,
+0	保证 人 融资 情况 :
+0	融资 机构 融资 类型 融资 余额 起始 曰 到期 日 担保 方式
+0	<org> 流动 资金 贷款 <num> <tim> <tim> 质押
+0	<org> 流动 资金 贷款 <num> <tim> <tim> 质押
+0	<org> 流动 资金 贷款 <num> <tim> <tim> 质押
+0	<org> 流动 资金 贷款 <num> <tim> <tim> 质押
+0	<org> 并购 贷款 <num> <tim> <tim> 质押
+0	<org> 并购 贷款 <num> <tim> <tim> 质押
+0	<org>
+0	<org> 债 项 融资 <num> <tim> <tim> 质押
+0	<org> 流动 资金 贷款 <num> <tim> <tim> 质押
+0	国 开 金融 - <org>
+0	<org> 委托 贷款 <num> <tim> <tim> 质押
+0	<org> / 银行 间 交易
+0	<org> 债 项 融资 <num> <tim> <tim> 保证
+0	<org> -
+0	<org> 基金 <num> <tim> <tim> 保证
+0	<org> -
+0	<org> 基金 <num> <tim> <tim> 保证
+0	<org> -
+0	<org> 基金 <num> <tim> <tim> 保证
+0	<org> -
+0	<org> 基金 <num> <tim> <tim> 保证
+0	<org> 资产 管理 有
+0	限 公司 河北 分公司 信托 计划 / 资 管 计
+0	划 <num> <tim> <tim> 抵押
+0	<org> 流动 资金 贷款 <num> <tim> <tim> 质押
+0	<org> 流动 资金 贷款 <num> <tim> <tim> 信用
+0	<org> 流动 资金 贷款 <num> <tim> <tim> 质押
+0	<org> 流动 资金 贷款 <num> <tim> <tim> 保证
+0	深圳 新华 富 时 资产 管理 信托 计划 / 资 管 计
+0	划 <num> <tim> <tim> 质押
+0	深圳 新华 富 时 资产 管理 信托 计划 / 资 管 计
+0	划 <num> <tim> <tim> 质押
+0	深圳 新华 富 时 资产 管理 信托 计划 / 资 管 计
+0	划 <num> <tim> <tim> 质押
+0	深圳 新华 富 时 资产 管理 信托 计划 / 资 管 计
+0	划 <num> <tim> <tim> 质押
+0	深圳 新华 富 时 资产 管理 信托 计划 / 资 管 计
+0	划 <num> <tim> <tim> 质押
+0	深圳 新华 富 时 资产 管理 信托 计划 / 资 管 计
+0	划 <num> <tim> <tim> 质押
+0	深圳 新华 富 时 资产 管理 信托 计划 / 资 管 计
+0	划 <num> <tim> <tim> 质押
+0	深圳 新华 富 时 资产 管理 信托 计划 / 资 管 计
+0	划 <num> <tim> <tim> 质押
+0	<org> 资产
+0	管理 计划 - 海口 联合 农村 商
+0	<org> 委托 贷款 <num> <tim> <tim> 质押
+0	<org> 委托 贷款 <num> <tim> <tim> 保证
+0	<org> 流动 资金 贷款 <num> <tim> <tim> 质押
+0	<org> 流动 资金 贷款 <num> <tim> <tim> 质押
+0	<org> 流动 资金 贷款 <num> <tim> <tim> 质押
+0	<org> 信托 贷款 <num> <tim> <tim> 质押
+0	<org> 信托 贷款 <num> <tim> <tim> 质押
+0	<org> 信托 贷款 <num> <tim> <tim> 质押
+0	<org> 俏 托 贷款 <num> <tim> <tim> 质押
+0	<org> 信托 贷款 <num> <tim> <tim> 质押
+0	<org> 信托 贷款 <num> <tim> <tim> 质押
+0	<org> 信托 贷款 <num> <tim> <tim> 质押
+0	<org> 信托 贷款 <num> <tim> <tim> 信用
+0	合计 <num>
+0	( <num> ) 保证 人 主体 资格 情况
+2	保证 人 的 营业 执照 、 组织 机构 代码证 、 税务 登记证 、 贷款卡 等 各项 证照 均 已 办理 正常 年检 ,
+2	各 种 证照 <per> 、 合法 、 有效 ,
+2	具备 授信 担保 要求 。
+0	( <num> ) 保证 人 经营 情况
+0	<num> 、 经营 概况
+0	保证 人 某某 前身 注册 成立 于 某 年 某 月 某 日 。

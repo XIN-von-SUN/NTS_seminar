@@ -1,0 +1,63 @@
+0	" 最新 财务 数据 ( 退回 时 可 更新 最新 财务 数据 )
+1	报告 期 <tim> ( <tim> / <num> ) 上年 ( <tim> / <num> ) 本年 <num> ( <tim> / <num> ) 本年 <num> ( <tim> / <num> ) 本年 <num> ( <tim> / <num> ) 本次 ( <tim> / <num> )
+1	总资产 <num> <num> <num> <num> <num> <num>
+0	流动 资产 <num> <num> <num> <num> <num> <num>
+0	应收 帐款 <num> <num> <num> <num> <num> <num>
+0	其他 应收款 <num> <num> <num> <num> <num> <num>
+0	存货 <num> <num> <num> <num> <num> <num>
+0	长期 投资 <num> <num> <num> <num> <num> <num>
+0	固定 资产 ( 净值 ) <num> <num> <num> <num> <num> <num>
+0	流动 负债 <num> <num> <num> <num> <num> <num>
+0	短期 借款 <num> <num> <num> <num> <num> <num>
+0	应付 票据 <num> <num> <num> <num> <num> <num>
+0	应付 帐款 <num> <num> <num> <num> <num> <num>
+0	长期 借款 <num> <num> <num> <num> <num> <num>
+0	所有者 权益 <num> <num> <num> <num> <num> <num>
+0	长期 负债 合计 <num> <num> <num> <num> <num> <num>
+1	主营 业务 收入 <num> <num> <num> <num> <num> <num>
+0	主营 业务 成本 <num> <num> <num> <num> <num> <num>
+1	净利润 <num> <num> <num> <num> <num> <num>
+0	借款 人 基本 财务 指标
+1	主营 业务 利润率 <num> <num> <num> <num> <num> <num>
+1	息 税前 营业 利润率 <num> <num> <num> <num> <num> <num>
+1	总资产 收益率 <num> <num> <num> <num> <num> <num>
+1	净资产 收益率 <num> <num> <num> <num> <num> <num>
+1	存货 周转 天数 ( 天 ) <num> <num> <num> <num> <num> <num>
+1	应收 账款 周转 天数 ( 天 ) <num> <num> <num> <num> <num> <num>
+1	应付 账款 周转 天数 ( 天 ) <num> <num> <num> <num> <num> <num>
+1	总资产 周转率 <num> <num> <num> <num> <num> <num>
+1	盈余 现金 保障 倍数 <num> <num> <num> <num> <num> <num>
+1	留存 现金流 与 总 资本 支出 比 <num> <num> <num> <num> <num> <num>
+1	长期 资产 适合 率 ( 倍 ) <num> <num> <num> <num> <num> <num>
+1	息 税前 利润 利息 保障 倍数 <num> <num> <num> <num> <num> <num>
+1	流动 比率 ( 倍 ) <num> <num> <num> <num> <num> <num>
+1	速 动比率 ( 倍 ) <num> <num> <num> <num> <num> <num>
+1	资产 负债率 <num> <num> <num> <num> <num> <num>
+1	调整 后 的 资产 负债率 <num> <num> <num> <num> <num> <num>
+1	总 有 息 债务 / 留存 现金流 ( 倍 ) <num> <num> - <num> - <num> - <num> - <num>
+1	财务 分析 ( 借款 人 最新 报表 为 <tim> 报表 ) <tim> 销售 收入 为 <num> 元 ,
+1	同比 下降 了 <num> ,
+1	主营 业务 利润 为 <num> 元 ,
+1	毛利率 是 <num> ,
+1	<tim> 同期 是 <num> ;
+1	净利润 为 <num> 元 ,
+1	净 利率 为 <num> 。
+0	销售 下降 的 主要 原因 是 <tim> 产品 销售 价格 同比 有所 下降 使 账面 收入 减少 。
+0	<tim> 针织布 平均 价格 为 <num> 元 / kg ,
+0	同比 下降 了 <num> 。
+0	而 净利润 上升 ,
+0	<num> 方面 是 原材料 价格 下降 ,
+0	另 <num> 方面 是 受益 于 <tim> 银行 降息 ,
+0	财务 成本 同比 减少 了 <num> 元 ,
+0	企业 有 更 大 的 获利 空间 。
+0	目前 借款 人 产销量 稳定 。
+1	<tim> 末 流动 比率 为 <num> ,
+1	速 动比率 为 <num> ,
+2	速 动比率 较 低 原因 是 纺织 行业 特点 ,
+2	存货 一般 较 大 。
+1	应收 账款 为 <num> 元 ,
+1	存货 为 <num> 元 ,
+0	较 年初 均 持平 。
+1	资产 负债率 为 <num> ,
+2	保持 稳定 ,
+2	财务 状况 良好 。

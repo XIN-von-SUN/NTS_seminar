@@ -1,0 +1,90 @@
+0	" <num> 、 财务 情况
+0	<num> 、 财务 报表 情况
+0	期数 报表 周期 报表 口径 是否 审计 审计 机构 审计 意见
+0	<tim> / <num> 年报 本部 是 <org> 无 保留 意见
+0	<tim> / <num> 年报 本部 是 <org> 无 保留 意见
+0	<tim> / <num> 年报 本部 是 <org> 无 保留 意见
+0	<tim> / <num> 月报 本部
+0	<tim> / <num> 月报 本部
+0	报表 口径 不 一致 说明 :
+0	非 无 保留 意见 说明 :
+0	该 企业 <tim> - <tim> 年报 均 已 审计 ,
+0	且 无 保留 意见 。
+0	<num> 、 财务 报表
+0	( <num> ) 资产 负债表
+1	项目 \ 日期 <tim> / <num> <tim> / <num> <tim> / <num> <tim> / <num> <tim> / <num>
+1	资产 总计 <num> <num> <num> <num> - <num> <num> <num> - <num>
+0	流动 资产 合计 <num> <num> <num> <num> - <num> <num> <num> - <num>
+0	货币 资金 <tim> <tim> - <num> <tim> <num> <num> <tim> <num>
+0	短期 投资 <num> <num> <num> <num> <num> <num> <num> <num>
+0	应收 票据 <num> <num> <num> <num> <num> <num> <num> <num>
+1	应收 帐款 <num> <num> <num> <tim> - <num> <num> <num> - <num>
+0	预付 帐款 <num> <num> <num> <num> <num> <num> <num> <num>
+0	其他 应收款 <num> <tim> <num> <num> - <num> <tim> <num> - <num>
+0	存货 净额 <num> <tim> - <num> <tim> <num> <tim> <tim> - <num>
+0	长期 投资 合计 <num> <num> <num> <num> <num> <num> <num> <num>
+0	长期 投资 <num> <num> <num> <num> <num> <num> <num> <num>
+0	固定 资产 合计 <num> <num> <num> <num> - <num> <num> <num> - <num>
+0	固定 资产 净值 <num> <num> <num> <num> - <num> <num> <num> - <num>
+0	在 建 工程 <num> <num> <num> <num> <num> <num> <num> <num>
+0	工程 物资 <num> <num> <num> <num> <num> <num> <num> <num>
+0	无形 及 递延 资产 合计 <num> <num> <num> <num> <num> <num> <num> <num>
+1	负债 合计 <tim> <tim> - <num> <tim> <num> <tim> <tim> <num>
+0	短期 借款 <tim> <tim> <num> <tim> <num> <tim> <tim> <num>
+0	应付 票据 <num> <num> <num> <num> <num> <num> <num> <num>
+1	应付 帐款 <num> <num> - <num> <num> - <num> <num> <num> - <num>
+0	预 收 账款 <num> <num> <num> <num> <num> <num> <num> <num>
+0	其他 应付款 <num> <num> - <num> <num> - <num> <num> <num> - <num>
+0	预 提 费用 <num> <num> <num> <num> <num> <num> <num> <num>
+0	长期 借款 <num> <num> <num> <num> <num> <num> <num> <num>
+0	长期 应付款 <num> <num> <num> <num> <num> <num> <num> <num>
+1	所有者 权益 合计 <num> <num> <num> <num> - <num> <num> <num> - <num>
+0	实收 资本 <num> <num> <num> <num> <num> <num> <num> <num>
+0	资本 公 积 <tim> <tim> <num> <tim> <num> <tim> <tim> <num>
+0	盈余 公 积 <num> <num> <num> <num> <num> <num> <num> <num>
+0	未 分配 利润 <num> <num> <num> <tim> - <num> <num> <tim> - <num>
+0	<tim> 报表 科目 需要 说明 的 情况
+0	<num> 、 货币 资金 ( 单位 : <num> 元 )
+0	科目 金额
+0	现金 <num>
+0	银行 存款 <tim>
+0	合计 <tim>
+0	货币 资金 值 较 高 ,
+0	主要 是 近期 小麦 收割 在即 ,
+0	企业 加大 了 应收 账款 回收 力 度 ,
+0	并 向 亲友 员工 借 取 部分 资金 ,
+0	现在 资金 主要 用于 采购 粮食 ,
+0	维持 周转 ,
+0	其 货币 资金 与 借款 人 资产 规模 相 匹配 。
+0	<num> 、 应收 账款
+1	大额 应收 账款 明细表 ( 单位 : <num> 元 、 月 )
+1	欠款 单位 名称 金额 账 龄 欠款 原因 是否 为 关联 企业
+0	<org> <num> <num> 货款
+0	<org> <num> <num> 货款
+0	<org> <num> <num> 货款
+0	<org> <num> <num> 货款
+0	其他 <num> 货款
+0	合计 <num>
+0	应收 账款 说明 :
+0	欠款 单位 均 是 和 借款 人 长期 合作 的 客户 ,
+0	但 鉴于 <tim> 行情 ,
+0	各家 企业 都 延长 了 账 期 ,
+0	致使 企业 现在 回 款 困难 加剧 ,
+0	但是 鉴于 上述 几家 企业 采购 量 较 大 ,
+0	又 不能 停止 合作 。
+0	但 应收 账款 较 以往 有所 下降 ,
+0	主要 是 鉴于 当前 经济 形势 ,
+0	其 主动 减少 了 一般 散户 的 赊销 、 缩短 了 账 期 ,
+0	并 加大 了 账款 清 收 力 度 ,
+0	<tim> 同期 其他 散户 的 应收 账款 达 <num> 元 ,
+0	这 与 当前 实际 行情 相符 。
+0	<num> 、 预付 账款 ( 单位 : <num> 元 、 月 )
+0	无 预付 账款
+0	<num> 、 其他 应收 账款 ( 单位 : <num> 元 、 月 )
+0	欠款 单位 名称 金额 账 龄 欠款 原因 是否 为 关联 企业
+0	<per> <num> <num> 业务 采购 款
+0	a 粮 <num> <num> <num> 业务 采购 款
+0	b 粮 <num> <num> <num> 业务 采购 款
+0	总计 <num>
+0	其他 应收 账款 说明 :
+0	该 阶段 企业 其他 应收款 主要 为 各 分散 个体 粮 <num> 临时性 拆借 资金 。

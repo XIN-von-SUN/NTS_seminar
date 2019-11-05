@@ -1,0 +1,90 @@
+0	" <num> 、 财务 报表 情况
+0	期数 报表 周期 报表 口径 是否 审计 审计 机构 审计 意见
+0	<tim> / <num> 年报 本部 是 <org> 无 保留 意见
+0	<tim> / <num> 年报 本部 是 <org> 无 保留 意见
+0	<tim> / <num> 年报 本部 是 <org> 无 保留 意见
+0	<tim> / <num> 月报 本部
+0	<tim> / <num> 月报 本部
+0	报表 口径 不 一致 说明 :
+0	报表 口径 一致 。
+0	非 无 保留 意见 说明 :
+0	无 保留 意见 。
+0	<num> 、 资产 负债表 情况
+0	( <num> ) 资产 负债表 单位 : <num> 元
+1	项目 \ 日期 <tim> / <num> <tim> / <num> <tim> / <num> <tim> / <num> <tim> / <num>
+1	资产 总计 <num> <num> <num> <num> - <num> <num> <num> <num>
+0	流动 资产 合计 <num> <num> <num> <num> - <num> <num> <num> <num>
+0	货币 资金 <num> <num> <num> <num> <num> <num> <num> - <num>
+0	短期 投资 <num> <num> <num> <num> <num> <num> <num> <num>
+0	应收 票据 <tim> <tim> <num> <tim> <num> <tim> <tim> - <num>
+1	应收 帐款 <tim> <tim> <num> <tim> - <num> <tim> <num> - <num>
+0	预付 帐款 <num> <num> <num> <num> <num> <num> <num> <num>
+0	其他 应收款 <num> <num> <num> <num> - <num> <num> <num> <num>
+0	存货 净额 <tim> <num> <num> <tim> - <num> <tim> <num> <num>
+0	长期 投资 合计 <num> <num> <num> <num> <num> <num> <num> <num>
+0	长期 投资 <num> <num> <num> <num> <num> <num> <num> <num>
+0	固定 资产 合计 <tim> <num> <num> <num> <num> <num> <num> - <num>
+0	固定 资产 净值 <num> <num> - <num> <num> <num> <num> <num> - <num>
+0	在 建 工程 <tim> <num> <num> <num> - <num> <num> <num> <num>
+0	工程 物资 <num> <num> <num> <num> <num> <num> <num> <num>
+0	无形 及 递延 资产 合计 <num> <tim> <num> <tim> <num> <tim> <tim> <num>
+1	负债 合计 <tim> <num> <num> <num> - <num> <num> <num> - <num>
+0	短期 借款 <tim> <num> <num> <tim> - <num> <num> <tim> - <num>
+0	应付 票据 <num> <num> <num> <num> <num> <num> <num> <num>
+1	应付 帐款 <num> <num> <num> <num> <num> <num> <num> <num>
+0	预 收 账款 <num> <num> <num> <num> <num> <num> <num> <num>
+0	其他 应付款 <num> <num> <num> <tim> <num> <num> <tim> <num>
+0	预 提 费用 <num> <num> <num> <num> <num> <num> <num> <num>
+0	长期 借款 <num> <num> <num> <num> <num> <num> <num> <num>
+0	长期 应付款 <num> <num> <num> <num> <num> <num> <num> <num>
+1	所有者 权益 合计 <num> <num> <num> <num> <num> <num> <num> <num>
+0	实收 资本 <tim> <tim> <num> <tim> <num> <tim> <tim> <num>
+0	资本 公 积 <num> <num> <num> <num> <num> <num> <num> <num>
+0	盈余 公 积 <num> <num> <num> <num> <num> <num> <num> <num>
+0	未 分配 利润 <num> <num> <num> <num> <num> <num> <num> <num>
+0	( <num> ) <tim> 报表 科目 需要 说明 的 情况
+0	<num> 、 货币 资金 ( 单位 : <num> 元 )
+0	注 : 说明 货币 资金 是否 与 客户 资产 规模 、 付款 、 收款 方式 以及 现金 流量 相 匹配 。
+0	<num> 、 应收 账款
+1	应收 账款 账 龄 分析 表 ( 单位 : <num> 元 、 <num> )
+1	大额 应收 账款 明细表 ( 单位 : <num> 元 、 月 )
+0	注 : 表 中 所 列 应收 账款 需 按 年 金额 从 大 到 小 排列 ,
+0	所 列 应收 账款 合计 需 达到 客户 全部 应收 账款 的 <num> 以上 ( 含 ) ;
+0	若 欠款 单位 较为 分散 ,
+0	可 只 列 示 前 <num> 大 欠款 单位 。
+0	应收 账款 说明 :
+0	注 : 从 应收 账款 的 账 龄 、 主要 欠款 人 的 信用 情况 、 大额 长期 应收 账款 的 形成 原因 、 坏账 准备 的 计 提 等 方面 进行 分析 评价 ,
+0	说明 应收 账款 质量 如何 ,
+0	有 无 坏账 风险 。
+0	欠款 单位 均 为 大型 铁厂 ,
+0	形成 坏账 的 可能性 小 ,
+0	账 龄 在 <tim> 内 。
+0	<num> 、 预付 账款 ( 单位 : <num> 元 、 月 )
+0	<num> 、 其他 应收 账款 ( 单位 : <num> 元 、 月 )
+0	注 : 表 中 所 列 应收 账款 需 按 年 金额 从 大 到 小 排列 ,
+0	所 列 应收 账款 合计 需 达到 客户 全部 应收 账款 的 <num> 以上 ( 含 ) ;
+0	若 欠款 单位 较为 分散 ,
+0	可 只 列 示 前 <num> 大 欠款 单位 。
+0	其他 应收 账款 说明 :
+0	注 : 对 大额 或 长期 的 其他 应收款 应 主要 分析 欠款 时间 及 原因 ,
+0	对于 用于 投资 的 资金 ,
+0	应 分析 被 投资 企业 的 经营 情况 ,
+0	对于 关联 人 借款 ,
+0	应 分析 关联 人 借款 原因 以及 收回 的 可能性 。
+0	其他 应收 账款 为 业务员 采购 借款 ,
+0	由于 业务员 未到 会计 报账 ,
+0	暂时 以 其他 应收款 在 报表 中 反应 。
+0	<num> 、 存货 ( 单位 : <num> 元 、 <num> )
+0	存货 说明 :
+0	<num> 、 对 生产型 企业 ,
+0	按 上 表 分 原材料 、 半成品 、 产 成品 填写 ,
+0	如 客户 <tim> 存货 总量 或 存货 构成 增减 变化 明显 的 ,
+0	应 进行 解释 说明 ,
+0	并 结合 企业 生产 经营 情况 ,
+0	判断 存货 占用 是否 合理 ,
+0	是否 存在 销路 不 畅 、 导致 产 成品 大量 增加 、 滞销 的 现象 ,
+0	是否 存在 存货 价格 下跌 ,
+0	是否 按 规定 计 提 了 跌价 准备 。
+0	<num> 、 对 流通 型 企业 ,
+0	比照 上 表 按 主要 经营 产品 的 品种 填列 。
+0	存货 主要 包括 炉渣 <num> 元 ,

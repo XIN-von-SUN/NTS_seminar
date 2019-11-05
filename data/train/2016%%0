@@ -1,0 +1,90 @@
+0	客户 关联 关系
+0	客户 名称 : 张 <num> 公司
+0	<num> 、 高管
+0	关联 客户 名称 关联 客户 证件 类型 关联 客户 证件 号码 信息 来源 关联 关系
+0	李 <num> 身份证 <num> xxxxxxxx <org> 高管
+0	<num> 、 股权
+1	关联 客户 名称 关联 客户 证件 类型 关联 客户 证件 号码 出资 金额 出资 比例 信息 来源 关联 关系
+0	张 <num> 公司 组织 机构 代码证 <num> xxxxxxx <num> <org> 股东
+0	张 <num> 公司 组织 机构 代码证 <num> xxxxx - <num> <num> <org> 股东
+0	张 <num> 公司 组织 机构 代码证 <num> xxxxx - <num> <num> <org> 股东
+0	张 <num> 公司 组织 机构 代码证 <num> xxxxx - x <num> <org> 股东
+0	张 <num> 公司 组织 机构 代码证 <num> xxxxx - <num> <num> <org> 股东
+0	张 <num> 公司 组织 机构 代码证 <num> xxxxx - <num> <num> <org> 对外 投资
+0	张 <num> 公司 组织 机构 代码证 <num> xxxxx - <num> <num> <org> 股东
+0	<num> 、 担保
+1	关联 客户 名称 关联 客户 证件 类型 关联 客户 证件 号码 信息 来源 关联 关系
+0	李 <num> 身份证 <num> xxxxxxxx <org> 担保 人
+0	张 <num> 公司 组织 机构 代码证 <num> xxxxxxx <org> 担保 人
+0	张 <num> 公司 组织 机构 代码证 <num> xxxxx - <num> <org> 担保 人
+0	<num> 、 资金 往来
+1	关联 客户 名称 关联 客户 证件 类型 关联 客户 证件 号码 信息 来源 关联 关系
+0	张 <num> 公司 <num> 反 洗钱 资金 往来
+0	客户 历史 变更 信息
+0	客户 历史 变更 信息
+0	变更 日期 变更 事项 变更 前 内容 变更 后 内容
+0	<tim> 出资 比例 变更 张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	<tim> 出资 比例 变更 张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	<tim> 出资 比例 变更 张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	<tim> 出资 比例 变更 张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	<tim> 出资 比例 变更 张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	张 <num> 公司 出资 <num> 人民币 比例 <num> ;
+0	<tim> 出资 方式 变更 张 <num> 公司 货币 <num> 人民币 ;
+0	张 <num> 公司 货币 <num> 人民币 ;
+0	张 <num> 公司 货币 <num> 人民币 ;
+0	张 <num> 公司 货币 <num> 人民币 ;
+0	张 <num> 公司 货币 <num> 人民币 ;
+0	张 <num> 公司 货币 <num> 人民币 ;
+0	张 <num> 公司 货币 <num> 人民币 ;
+0	张 <num> 公司 货币 <num> 人民币 ;
+0	张 <num> 公司 货币 <num> 人民币 ;
+0	张 <num> 公司 货币 <num> 人民币 ;
+0	<tim> 出资 方式 变更 张 <num> 公司 货币 <num> 人民币 ;
+0	张 <num> 公司 货币 <num> 人民币 ;

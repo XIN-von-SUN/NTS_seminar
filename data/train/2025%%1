@@ -1,0 +1,42 @@
+1	甲 市 城市 建设 工程 总 指挥部 <num> xxxxxxx 反 洗钱 资金 往来
+1	甲 市 财政局 <num> xxxxxxx 反 洗钱 资金 往来
+1	贷款 平台 往来 <num> 反 洗钱 资金 往来
+1	<org> <num> 反 洗钱 资金 往来
+0	客户 授信 信息
+0	企业 客户 授信 信息
+0	<num> 、 企业 客户 我 行 授信 信息
+0	<num> 客户 授信 业务 概况
+1	授信 敞口 额度 ( <num> 元 ) <num>
+1	授信 敞口 余额 ( <num> 元 ) <num>
+0	<num> 、 企业 客户 在 金融 机构 授信 信息
+0	征信 报告 日期 <tim>
+1	授信 品种 正常 类 关注 类 不良 类 余额 合计 ( <num> 元 )
+1	笔 数 余额 ( <num> 元 ) 笔 数 余额 ( <num> 元 ) 笔 数 余额 ( <num> 元 )
+1	贷款 <num> <num> <num> <num> <num> <num> <num>
+1	贸易 融资 <num> <num> <num> <num> <num> <num> <num>
+1	保理 <num> <num> <num> <num> <num> <num> <num>
+1	票据 贴现 <num> <num> <num> <num> <num> <num> <num>
+1	银行 承兑 汇票 <num> <num> <num> <num> <num> <num> <num>
+1	信用证 <num> <num> <num> <num> <num> <num> <num>
+1	保函 <num> <num> <num> <num> <num> <num> <num>
+1	合计 <num> <num> <num> <num> <num> <num> <num>
+0	<num> 贷款
+0	授信 机构 种类 币种 借据 金额 ( <num> 元 ) 借据 余额 ( <num> 元 ) 放款 日期 到期 日期 <num> 级 分类 贷款 形式 担保 展期
+0	b <tim> 项目 融资 人民币 <num> <num> <tim> <tim> 新增 贷款 有
+0	b <tim> 项目 融资 人民币 <num> <num> <tim> <tim> 新增 贷款 有
+0	b28 固定 资产 贷款 人民币 <num> <num> <tim> <tim> 新增 贷款 有
+0	b582 其他 贷款 人民币 <num> <num> <tim> <tim> 新增 贷款 有
+0	b <tim> 项目 融资 人民币 <num> <num> <tim> <tim> 新增 贷款 有
+0	b28 固定 资产 贷款 人民币 <num> <num> <tim> <tim> 新增 贷款 有
+0	b <tim> 项目 融资 人民币 <num> <num> <tim> <tim> 新增 贷款 有
+0	本 机构 项目 融资 人民币 <num> <num> <tim> <tim> 新增 贷款 有
+0	b <tim> 项目 融资 人民币 <num> <num> <tim> <tim> 新增 贷款 有
+0	b28 其他 贷款 人民币 <num> <num> <tim> <tim> 新增 贷款 有
+0	b <tim> 流动 资金 贷款 人民币 <num> <num> <tim> <tim> 新增 贷款 无
+0	b <tim> 流动 资金 贷款 人民币 <num> <num> <tim> <tim> 新增 贷款 无
+0	b <tim> 固定 资产 贷款 人民币 <num> <num> <tim> <tim> 新增 贷款 无
+0	b <tim> 固定 资产 贷款 人民币 <num> <num> <tim> <tim> 新增 贷款 无
+0	b <tim> 项目 融资 人民币 <num> <num> <tim> <tim> 新增 贷款 有
+0	b <tim> 固定 资产 贷款 人民币 <num> <num> <tim> <tim> 新增 贷款 有
+0	b28 固定 资产 贷款 人民币 <num> <num> <tim> <tim> 新增 贷款 有
+0	b <tim> 固定 资产 贷款 人民币 <num> <num> <tim> <tim> 新增 贷款 无

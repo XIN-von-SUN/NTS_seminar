@@ -1,0 +1,90 @@
+0	" 借款 人 银行 融资 及 担保 情况
+1	截至 <tim> ,
+1	该 客户 共有 银行 融资 <num> 元 ,
+0	其中 : 短期 借款 <num> 元 ,
+0	银行 承兑 汇票 敞口 <num> 元 ;
+0	长期 借款 <num> 元 ;
+0	我 行 融资 <num> 元 。
+0	具体 融资 明细 如下 :
+0	授信 客户 最新 授信 情况 表
+0	单位 : <num> 元 、 <num>
+0	银行 名称 授信 品种 授信 敞口 总额 授信 敞口 余额 利率 / 保证金 担保 方式
+0	某某 银行 张 <org> 支行 综合 授信 <num> <num> <org> ;
+0	张 <num> 建 保证
+0	某某 银行 张 <org> 支行 综合 授信 <num>
+0	<num> 设备 安装 <num> 元 ;
+0	<per> 建安 <num> 元 ;
+0	张 <org> 协 翔 土地 抵押 <num> 元 ;
+0	张 <num> 控股 <num> 元 ;
+0	张 <num> 张 <num> 房地产 <num> 元 ;
+0	张 <num> 董事会 成员 <num> 元
+0	<org> 张 <org> 支行 综合 授信 <num>
+0	<num> 张 <org> 市 港口 发展 <num> 元 ;
+0	张 <num> 建 <num> 元
+0	张 <org> <org> 综合 授信
+0	<num>
+0	<num> 昊 翔 房产 ;
+0	张 <num> 张 <num> 置业 保证
+0	张 <org> <org> 综合 授信 <num>
+0	<num> 张 <num> 建 <num> 元 ;
+0	张 <org> 城 投 <num> 元
+0	张 <org> 农 商行 综合 授信 <num>
+0	<num>
+0	张 <num> 保证
+0	某 行 综合 授信 <num> <num> 张 <num> 公司 资产 抵押
+0	某 行 城中 支行 综合 授信 <num> <num> 张 <num> 房产 抵押
+0	某 支行 综合 授信 <tim> <tim> 某某 担保
+0	张 <num> 某 行 综合 授信 <tim> <tim> 张 <num> 建 担保
+0	合计 <num> <num>
+0	长期 借款 :
+0	长期 借款 为 张 <org> <org> <num> 元 ,
+0	担保 方式 为 张 <num> 张 <num> 置业 资产 抵押 。
+0	银行 承兑 汇票 :
+0	<org> 金额 保证金 比例 敞口 金额 敞口 担保 方式
+0	某某 银行 张 <org> 支行 <num> <num> <num> 张 <num> 控股 、 <num> 建 保证
+0	某某 银行 张 <org> 支行 <num> <num> <num> 张 <num> 建 保证
+0	某某 银行 张 <org> 支行 <num> <num> <tim> 张 <num> 保证
+0	某某 银行 张 <org> 支行 <num> <num> <num> 张 <org> 城 投 保证
+0	某某 银行 张 <org> 支行 <num> <num> <num> 张 <org> 城 投 保证
+0	某某 银行 张 <org> 支行 <num> <num> <num> 张 <org> 城 投 保证
+0	某某 银行 <num> <num> <num> 信用
+0	合计 <num> <num>
+0	截至 <tim> ,
+0	借款 企业 对外 担保 金额 为 <num> 元 ,
+0	借款 人 对外 担保 如下 :
+0	企业 名称 金额
+0	<org> <num>
+0	张 <num> 张 <org> <num>
+0	张 <num> 张 <org> <num>
+0	张 <num> 张 <org> <num>
+0	张 <num> 张 <org> <num>
+0	张 <num> 张 <org> <num>
+0	张 <num> 张 <org> <num>
+0	张 <num> 张 <org> <tim>
+0	张 <num> 张 <org> <tim>
+0	张 <num> 张 <org> <tim>
+0	张 <org> 市 港口 发展 有限 责任 公司 <num>
+0	张 <org> 市 <org> <num>
+0	<org> <num>
+0	<org> <num>
+0	<org> <num>
+0	<org> <num>
+0	<org> <tim>
+0	<org> <tim>
+0	<org> <tim>
+0	<org> <tim>
+0	张 <num> 市 安装 工程 有限 公司 <num>
+0	张 <num> 市 安装 工程 有限 公司 <tim>
+0	张 <num> 世纪 <org> <num>
+0	张 <num> 世纪 <org> <num>
+0	张 <num> 世纪 <org> <tim>
+0	张 <num> 世纪 <org> <tim>
+0	张 <num> 世纪 <org> <tim>
+0	张 <num> 世纪 <org> <tim>
+0	张 <org> 市 设备 安装 工程 有限 公司 <num>
+0	张 <org> 市 设备 安装 工程 有限 公司 <tim>
+0	张 <org> 市 设备 安装 工程 有限 公司 <tim>
+0	张 <org> 市 设备 安装 工程 有限 公司 <tim>
+0	张 <org> 市 设备 安装 工程 有限 公司 <num>
+0	<org> <tim>
+0	<org> <tim>

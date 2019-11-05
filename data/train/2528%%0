@@ -1,0 +1,23 @@
+0	" <num> 、 企业 客户 财务 信息
+0	基本 报表 信息
+0	客户 规模 报表 期 次 报表 口径 报表 周期 审计 状态 审计 意见 审计 机构 显示 单位
+0	/ <tim> / <num> 本部 年报 是 无 保留 意见 <org> <num> 元
+0	财务 数据 信息
+1	财务 指标 ( <tim> / <num> ) ( <tim> / <num> ) ( <tim> / <num> ) ( <tim> / <num> ) 增减 比例
+1	总资产 <num> <num> <num> <num> <num>
+0	货币 资金 <num> <num> <num> <num> <num>
+1	应收 账款 <num> <num> <num> <num> <num>
+0	其他 应收 账款 <num> <num> <num> <num> - <num>
+0	存货 <num> <num> <num> <num> <num>
+0	对外 投资 <num> <num> <num> <num> - <num>
+1	总 负债 <num> <num> <num> <num> - <num>
+0	借入 款项 <num> <num> <num> <num> - <num>
+0	应付 票据 <num> <num> <num> <num> <num>
+1	应付 账款 <num> <num> <num> <num> <num>
+0	其他 应付款 <num> <num> <num> <num> - <num>
+0	应 缴纳 预算 款 <num> <num> <num> <num> <num>
+0	应缴 财政 专户 款 <num> <num> <num> <num> <num>
+1	净资产 <num> <num> <num> <num> <num>
+1	收入 合计 <num> <num> <num> <num> <num>
+0	支出 合计 <num> <num> <num> <num> <num>
+1	结余 <num> <num> <num> - <num> <num>

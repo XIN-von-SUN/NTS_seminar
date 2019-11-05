@@ -1,0 +1,10 @@
+1	" 公司 的 主营 业务 为 建材 销售 及 自持 的 金 港 国际 物业 租赁 及 管理 。
+1	<tim> 公司 收入 <num> 元 ,
+1	其中 商品 销售 收入 <num> 元 ,
+1	房屋 租赁 收入 <num> 元 。
+1	产品 名称 销售 收入 ( <num> 元 ) 上年 本年 <num> — <tim> 同比 增长 <num> 毛利率 <num>
+0	石材 <num> <num> <num> <num> - <num>
+0	电缆 <num> <num> <num> <num> - <num>
+0	钢材 <num> <num> <num> <num> - <num>
+0	其他 <tim> <tim> <num> <num> - <num>
+0	合计 <num> <num>

@@ -1,0 +1,90 @@
+0	营业 税金 及
+0	附加 <num> <num> <num> <num>
+0	销售 费用 <num> <num> <num>
+0	管理 费用 <num> <num> <num> <num>
+0	财务 费用 <tim> <tim> <num> <num>
+0	资产 减值 损失 - - - - - - - -
+0	投资 收益 - - - - <num> - -
+0	营业 利润 <num> <num> <num> <num>
+0	营业 外 收入 - - - - - - - -
+0	营业 外 支出 - - - - - - - -
+0	利润 总额 <num> <num> <num> <num>
+0	净利润 <num> <num> <num> <num>
+0	销售 利润率 <num> <num> <num> <num>
+1	截至 <tim> 该 集团 公司 总资产 <num> 元 ,
+1	总 负债 <num> 元 ,
+1	净资产 <num> 元 ,
+1	负债率 为 <num> ,
+1	各项 财务 指标 均 优 于 同 行业 平均 标准 ,
+1	具备 一定 的 抗 风险 能力 。
+1	偿债 能力 分析 : <tim> 企业 资产 负债率 <num> ,
+1	说明 集团 长期 偿债 能力 比较 好 。
+1	该 公司 流动 比 <num> 、 速 动 比 <num> ,
+1	可以 看出 集团 具备 一定 的 长 短期 偿债 能力 。
+1	盈利 能力 分析 : 报告 期 集团 的 营业 利润率 <num> ,
+1	总体 来 看 ,
+1	集团 的 盈利 能力 较 稳定 。
+2	综上 所 述 ,
+2	该 集团 资产 质量 较 好 ,
+2	经营 状况 和 发展 趋势 良好 ,
+2	具备 发展 潜力 和 一定 的 抗 风险 能力 。
+2	该 集团 财务 制度 规范 ,
+2	内控 较 好 ,
+2	周转 速度 较快 ,
+2	盈利 能力 尚 可 ,
+2	具备 一定 的 短期 偿债 能力 。
+0	销售 收入 验证 :
+0	申请 人 集团 内 帐 统计 :
+0	<tim> <num> - <tim> 产值 汇总表
+0	序号 单位 名称 计划 数 实际 数 计划 完成 率 备注
+0	<tim> 数 累计 数 <tim> 数 累计 数 <tim> 数 累计 数
+0	<num> 、 子 癸 己 集团 <num> <num> <num> <tim> <num> <num>
+0	<num> 、 <org> <num> <num> <num> <num> <num> <num>
+0	<num> 、 子 癸 庚 公司 <tim> <num> <num> <num> <num> <num>
+0	<num> 、 子 癸 辛 公司 <num> <tim> <num> <num> <num> <num> 子 癸 辛 公司
+0	<num> 、 福利 矿 <num> <num> <num> <num> <num> <num> 福利 矿
+0	<num> 、 子 癸 癸 石材 <tim> <num> <num> <num> <num> <num> 子 癸 辛 公司
+0	<num> 、 装饰 幕墙 <num> <num> <num> <num> <num> <num> <num> 子 壬 戊 建材 置业
+0	<num> 、 装饰 幕墙 <num> <num> <num> <num> <num> <num> <num> 子 壬 戊 建材 置业
+0	<num> 、 <org> <tim> <num> <num> <tim> <num> <num>
+0	<num> 、 <org> <num> <num> <num> <num> <num> <num> 福利 矿
+0	<num> 、 子 癸 壬 公司 <num> # <num> <num> <num> <num> <num> <num>
+0	<num> 、 子 癸 壬 公司 <num> # <num> <num> <num> <num> <num> <num>
+0	<num> 、 子 癸 壬 公司 <num> # <num> <num> <num> <num> <num> <num>
+0	<num> 、 子 癸 壬 公司 <num> # <num> <num> <num> <num> <num> <num>
+0	<num> 、 <org> <tim> <num> <num> <num> <num> <num>
+0	<num> 、 子 癸丑 石 矿 <num> <num> <num> <num> <num> <num> 福利 矿
+0	<num> 、 <org> <num> <num> <num> <num> <num> <num>
+0	<num> 、 <org> <num> <num> <num> <num> <num> <num> <org>
+0	<num> 、 子 甲 庚 置业 <num> <num> <num> <num> <num> <num> 子 甲 庚 置业
+0	<num> 、 开发 公司 <tim> <num> <tim> <num> <num> <num>
+0	<num> 、 设计院 <num> <tim> <num> <num> <num> <num>
+0	<num> 、 子 戊 丑 <num> <num> <num> <num> <num> <num>
+0	<num> 、 装饰 公司 <tim> <num> <num> <num> <num> <num>
+0	<num> 、 装饰 材料 公司 <num> <num> <num> <num> <num> <num>
+0	<num> 、 子 丙丁 施工 <tim> <num> <tim> <num> <num> <num> 子 甲 庚 置业
+0	<num> 、 子 甲 卯 工程 <tim> <num> <num> <num> <num> <num> 子 甲 庚 置业
+0	<num> 、 子 癸 寅 公司 <num> <num> <num> <num> <num> <num> <org>
+0	<num> 、 子 癸卯 公司 <tim> <num> <num> <num> <num> <num> <org>
+0	<num> 、 子 乙 己 公司 <num> <num> <num> <num> <num> <num> <org>
+0	<num> 、 <org> <num> <num> <num> <num> <num> <num> <org>
+0	<num> 、 <org> <num> <num> <num> <num> <num> <num>
+0	<num> 、 子 乙 <per> <num> <num> <num> <num> <num> <num>
+0	<num> 、 子 庚 辛 公司 <num> <num> <num> <tim> <num> <num> <org>
+0	<num> 、 子 壬 甲 公司 <tim> <num> <num> <num> <num> <num> 子 甲 庚 置业
+0	<num> 、 子 壬 乙 施工 <tim> <num> <num> <num> <num> <num> <org>
+0	<num> 、 子 壬 丙 公司 <num> <num> <num> <num> <num> <num> <org>
+0	<num> 、 <org> <num> <num> <num> <num> <num> <num> 子 甲 庚 置业
+0	<num> 、 子 丙丁 开发 <tim> <num> <num> <num> <num> <num>
+0	<num> 、 子 壬 乙 开发 <num> <num> <num> <num> <num> <num>
+0	<num> 、 子 壬 丁 施工 <tim> <num> <num> <tim> <num> <num> <org>
+0	<num> 、 子 壬 <org> <num> <num> <num> <num> <num> <num>
+0	<num> 、 子 壬 己 分公司 <tim> <num> <num> <num> <num> <num> 子 甲 癸
+0	<num> 、 重庆 <tim> <num> <tim> <num> <num> <num> <org>
+0	<num> 、 子 壬 庚 开发 公司 <num> <tim> <num> <num> <num> <num>
+0	<num> 、 子 壬 辛工程 <num> <tim> <num> <num> <num> <num> 子 甲 庚 置业
+0	<num> 、 子 壬 <per> <num> <num> <num> <num> <num> <num>
+0	<num> 、 子 戊 辛 施工 <tim> <num> <num> <tim> <num> <num> 子 甲 庚 置业
+0	<num> 、 子 壬 癸 工程 <num> <num> <tim> <num> <num> <num> <org>
+0	<num> 、 子 癸 甲 开发 <num> <num> <num> <tim> <num>
+0	<num> 、 子 癸 甲 施工 <tim> <num> <num> <num> <num> <num> <org>

@@ -1,0 +1,90 @@
+0	厂房 和 土地 浦江 乙 <num> 丙 <num> 大道 <num> 号 <num> <tim> 是 <num>
+0	<org> 张 <num> 未做 证 丙 <num> c 座 <num> 楼 <num> 否 房产证 现 未 做出
+0	房子 <per> 海南 <num> 是 <num>
+0	土地 张 <num> 浦江 <num> 是 <tim>
+0	浦江 房产 <per> ( 为 乙 自有 资产 ) 浦江 <num> 是 <tim>
+0	小计 <num> <num>
+0	描述 市场 价值 ( <num> 元 ) 是否 设定 抵押 抵押 银行 / 融资 金额 ( <num> 元 )
+0	汽车 <per> 路虎 <num> + <num>
+0	设备 新 无机 <tim> 是 ( 按揭 ) <num>
+0	<org> <per> <num>
+0	安哥拉 <num>
+0	小计 <num> <num>
+0	合计 <num> <num>
+0	设备 清单 : <num> 台 * <num> = <tim> 无人机
+0	设备 清单 : <num> 台 * <num> = <num> ( 加 厂 无人机 )
+0	担保 人 财务 状况
+0	( <num> ) 资产 负债表 ( 单位 : <num> 元 )
+0	<tim> 期 <tim> 期 <tim> 期 <tim> 期 说明
+0	( 第 <tim> )
+0	资产 总额 <num> <num> <num> <num>
+0	流动 资产 合计 <num> <num> <num> <num>
+0	货币 资金 <num> <num> <num> <num>
+0	交易 性 金融 资产
+0	应收 票据
+0	应收 账款 <num> <num> <num> <num> 印度 <tim> ,
+0	<org> <tim> ,
+0	义乌 琳琳 <num> ,
+0	广州 金益 <num> ,
+0	<org> <num> ,
+0	义乌 明丽 <num>
+0	其他 应收款 <num> <tim> <tim> <tim> <per> <num> ,
+0	<tim> ,
+0	<per> <num>
+0	预付 款项 <tim> <tim> <tim> <tim> <org> <tim> ,
+0	无人机 项目 <num>
+0	存货 <num> <num> <num> <num> 原材料 <tim> ,
+0	产 成品 <tim> ,
+0	在 产品 <tim>
+0	长期 投资 <num> <num> <num> <num> 安哥拉 <num>
+0	投资 性 房地产
+0	固定 资产 原值 <num> <num> <num> <num> 房屋 建筑物 <tim> ,
+0	机器 设备 <num> ,
+0	运输 工具 <tim> ,
+0	其他 <num>
+0	在 建 工程 <tim> <tim> <tim> <tim>
+0	工程 物资
+0	无形 资产 <num> <num> <num> <num> 其他 无形 资产 ( 土地 <num> )
+0	长期 待 摊 费用 <num> <num> <num> <num>
+0	负债 总额 <num> <num> <num> <num>
+0	流动 负债 合计 <num> <num> <num> <num>
+0	短期 借款 <num> <num> <num> <num> <org> <num> 、 <org> <tim> 、 <org> <num> 、 深 发行 <tim> 、 <org> <tim> 、 <org> <tim>
+0	应付 票据 <tim> <tim> <num> <num>
+0	应付 账款 <num> <num> <num> <num> 鑫 <per> <num> ,
+0	义乌 利通 <num> ,
+0	<org> <num> ,
+0	<org> <num>
+0	预收款 项
+0	应付 职工 薪酬
+0	应交 税费 <num> <num> <num>
+0	其他 应付款 <num> <num> <num> <num> 宏宇 保 金 <num>
+0	<num> 年 内 到期 非 流动 负债
+0	长期 借款
+0	应付 债券
+0	长期 应付款
+0	专项 应付款
+0	其他 非 流动 负债
+0	股东 权益 合计 <num> <num> <num> <num>
+0	实收 资本 <num> <num> <num> <num>
+0	资本 公 积 <num> <num> <num> <num>
+0	盈余 公 积 <num> <num> <num> <num>
+0	未 分配 利润 <num> <num> <num> <num>
+0	少数 股东 权益
+0	财务 指标
+0	资产 负债率 <num> <num> <num> <num> <num>
+0	流动 比率 <num> <num> <num> <num>
+0	速 动比率 <num> <num> <num> <num>
+0	应收 周转 天数 <num> <num> <num> <num>
+0	存货 周转 天数 <num> <num> <num> <num>
+0	( <num> ) 损益表 ( 单位 : <num> 元 )
+0	<tim> 期 <tim> 期 <tim> 期 <tim> 期 说明
+0	( 第 <tim> )
+0	营业 收入 <num> <num> <num> <num>
+0	营业 成本 <num> <num> <num> <num>
+0	营业 税金 及
+0	附加 <num> <num> <num> <num>
+0	销售 费用 <num> <num> <num> <num>
+0	管理 费用 <num> <tim> <tim> <tim>
+0	财务 费用 <num> <tim> <tim> <tim>
+0	资产 减值 损失
+0	投资 收益

@@ -1,0 +1,35 @@
+0	按 以上 平均 增长率 ,
+0	预测 未来 贷款 期 内 的 区 本 级 财政 当年 偿还 政府 性 债务 本息 额 如下 表 :
+0	( 单位 : <num> 元 )
+0	项 目 <tim> <tim> <tim> <tim> <tim> <tim>
+0	当年 到期 本息 <num> <num> <num> <num> <num> <num>
+0	项 目 <num> 年 <tim> <tim> <tim> <tim> <tim>
+0	当年 到期 本息 <num> <num> <num> <num> <num> <num>
+0	项 目 <tim> <tim> <tim> <tim> <tim> <tim>
+0	当年 到期 本息 <num> <num> <num> <num> <num> <num>
+0	贷款 期 动态 偿债 能力 指标 预测 如下 表 :
+0	( 单位 : <num> 元 )
+0	科目 <tim> <tim> <tim> <tim> <tim> <tim> 警戒线
+0	生产 总值 ( gdp ) <num> <num> <num> <num> <num> <num>
+0	可 支配 财力 <num> <num> <num> <num> <num> <num>
+0	政府 债务 总额 <num> <num> <num> <num> <num> <num>
+0	当年 到期 本息 <num> <num> <num> <num> <num> <num>
+0	政府 债务 率 <num> <num> <num> <num> <num> <num> <num>
+0	政府 偿债率 <num> <num> <num> <num> <num> <num> <num>
+0	政府 负债率 <num> <num> <num> <num> <num> <num> <num>
+0	科目 <tim> <tim> <tim> <tim> <tim> <tim> 警戒线
+0	生产 总值 ( gdp ) <num> <num> <num> <tim> <num> <tim>
+0	可 支配 财力 <num> <num> <num> <num> <num> <num>
+0	政府 债务 总额 <num> <num> <num> <num> <num> <num>
+0	当年 到期 本息 <num> <num> <num> <num> <num> <num>
+0	政府 债务 率 <num> <num> <num> <num> <num> <num> <num>
+0	政府 偿债率 <num> <num> <num> <num> <num> <num> <num>
+0	政府 负债率 <num> <num> <num> <num> <num> <num> <num>
+0	科目 <tim> <tim> <tim> <tim> <tim> <tim> 警戒线
+0	生产 总值 ( gdp ) <num> <tim> <num> <tim> <tim> <num>
+0	可 支配 财力 <num> <num> <num> <num> <num> <num>
+0	政府 债务 总额 <num> <num> <num> <num> <num> <num>
+0	当年 到期 本息 <num> <num> <num> <num> <num> <num>
+0	政府 债务 率 <num> <num> <num> <num> <num> <num> <num>
+0	政府 偿债率 <num> <num> <num> <num> <num> <num> <num>
+0	政府 负债率 <num> <num> <num> <num> <num> <num> <num>

@@ -1,0 +1,22 @@
+0	筹资 活动 现金 流入 小计 <tim> <tim> <num> - <num>
+0	筹资 活动 现金 流出 小计 <num> <tim> <num> <num> <num>
+1	筹资 活动 产生 的 现金 流量 净额 <num> <num> - <tim> - <num> - <num>
+1	现金 及 现金 等价物 净 增加 额 <num> - <num> <num> <num> - <num>
+0	企业 <tim> 经营 活动 所 产生 的 现金流 较 前 两年 有所 下降 ,
+0	主要 是 鉴于 <tim> 受 整体 行业 不 景气 ,
+0	尤其 是 养殖业 、 饲料 业 较 以往 疲软 ,
+0	企业 订单 减少 ,
+0	而且 鉴于 应收 账款 增加 ,
+0	企业 主动 减少 采购 量 ,
+0	致使 经营 活动 产生 的 现金流 较 以往 有所 减少 <num>
+0	( <num> ) 主要 财务 指标
+1	财务 指标 <tim> / <num> <tim> / <num> <tim> / <num> <tim> / <num>
+1	资产 负债率 <num> <num> <num> <num>
+1	流动 比率 <num> <num> <num> <num>
+1	速 动比率 <num> <num> <num> <num>
+1	应收 帐款 周转率 <num> <num> <num> <num>
+1	存货 周转率 <num> <num> <num> <num>
+1	总资产 周转率 <num> <num> <num> <num>
+1	净利润率 <num> <num> <num> <num>
+1	净利润 增长率 <num> - <num> - <num> - <num>
+1	营业 收入 增长率 <num> - <num> - <num>

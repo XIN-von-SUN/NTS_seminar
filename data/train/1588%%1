@@ -1,0 +1,90 @@
+0	应付 职工 薪酬 <num> <num> <num> <num> <num> <num> <num>
+0	应交 税费 <num> <num> <num> <num> - <num> <num> <num>
+0	其他 应付款 <num> <num> - <num> <num> - <num> <num> <num>
+0	<num> 年 内 到期 的 非 流动 负债 <num> <num> <num> <num> - <num> <num> <num>
+0	非 流动 负债 <num> <num> # div / <num> !
+0	<num> # div / <num> !
+0	<num>
+1	资产 负债率 <num> <num> <num> <num> <num> <num> <num>
+1	净资产 借款 率 <num> <num> <num> <num> <num> <num> <num>
+0	固定 资产 净值 率 <num> <num> - <num> <num> - <num> <num> <num>
+0	资本 固定 化 率 <num> <num> - <num> <num> <num> <num> <num>
+1	流动 比率 <num> <num> <num> <num> - <num> <num> <num>
+1	速 动比率 <num> <num> <num> <num> - <num> <num> <num>
+1	净资产 收益率 ( roe ) <num> <num> <num> <num> - <num> <num> <num>
+1	总资产 报酬率 <num> <num> <num> <num> - <num> <num> <num>
+1	利息 保障 倍数 <num> <num> - <num> <num> - <num> <num> <num>
+0	利息 保障 倍数 <num> <num> - <num> <num> - <num> <num> <num>
+0	应收 账款 周转 天数 <num> <num> - <num> <num> <num> <num> <num>
+0	应收 账款 周转 次数 <num> <num> <num> <num> - <num> <num> <num>
+0	预付 账款 周转 天数 <num> <num> - <num> <num> <num> <num> <num>
+0	预付 账款 周转 次数 <num> <num> <num> <num> - <num> <num> <num>
+0	存货 周转 天数 <num> <num> - <num> <num> <num> <num> <num>
+0	存货 周转 次数 <num> <num> <num> <num> - <num> <num> <num>
+0	应付 账款 周转 天数 <num> <num> - <num> <num> <num> <num> <num>
+0	应付 账款 周转 次数 <num> <num> <num> <num> - <num> <num> <num>
+0	截止 <tim> 末 ,
+0	主要 会计 科目 注释 如下 :
+0	( <num> ) 货币 资金 <num> 元 ,
+0	保证金 存款 为 <num> 元 。
+0	( <num> ) 应收 账款 <num> 元 ,
+0	平均 账 期 在 <num> - <tim> ,
+0	主要 明细 :
+0	单位 名称 金额
+0	上海 某 纺织品 <tim>
+0	某 超市 <num>
+0	zol ur usa inc <num>
+0	某 超市 <num>
+0	合计 <num>
+0	<tim> 末 借款 人 应收 账款 占 流动 资产 的 <num> ,
+0	较 年初 增加 <num> 元 。
+0	应收 账款 增加 的 主要 原因 是 关联 企业 上海 某 回 款 变 缓 。
+0	某 应收 账款 回 款 期 在 <num> 天 左右 ,
+0	<tim> 应收 账款 还有 <num> 余额 ,
+0	预计 资金 回笼 计划 : <tim> 回 款 <num> 、 <tim> 回 款 <num> 、 <tim> 回 款 <num> 、 <tim> 回 款 <num> 、 <tim> 回 款 <num> 。
+0	( <num> ) 预付 款项 <num> 元 ,
+0	主要 明细 :
+0	单位 名称 金额
+0	某 供电 公司
+0	某 设计
+0	某 机电 有限 公司 <num>
+0	某 锦 棉纺织 <num>
+0	某 面料 <num>
+0	某 纺织 <num>
+0	合计 <num>
+0	( <num> ) 其他 应收款 <num> 元 ,
+0	主要 明细 :
+0	单位 名称 金额
+0	上海 某 <tim>
+0	王 某 <num>
+0	<num> 某
+0	王 某 <num>
+0	四川 成都 某 广场 <num>
+0	苏州 某 建筑 <num>
+0	合计 <tim>
+0	其他 应收款 中 ,
+0	关联 企业 及 股东 占用 大 。
+0	( <num> ) 存货 <num> 元 ,
+0	主要 明细 :
+0	存货 名称 金额
+0	原材料 <tim>
+0	低值 易 耗 品 <num>
+0	半成品 <num>
+0	库存 商品 <tim>
+0	在 制品 <num>
+0	合计 <num>
+0	<tim> 末 存货 占 流动 资产 的 <num> ,
+0	较 年初 增加 <num> 元 。
+0	存货 增加 的 主要 原因 是 换季 备货 。
+0	( <num> ) 固定 资产 <num> 元 ,
+0	主要 是 公司 拥有 的 厂房 、 纺织 机器 设备 、 办公 器材 和 交通 工具 等 。
+0	( <num> ) 短期 借款 <num> 元 ,
+0	明细 如下 :
+0	融资 机构 名称 额度 金额 授信 品种 起止 日 余额 担保 方式
+0	某 银行 - 流动 资金 贷款 <tim> 至 <tim> <tim> 全额 存单 质押
+0	<num>
+0	流动 资金 贷款 <tim> 至 <tim> <num> 土地 厂房 抵押
+0	流动 资金 贷款 <tim> 至 <tim> <num> 土地 厂房 抵押
+0	某 银行
+0	<tim>
+0	流动 资金 贷款 <tim> 至 <tim> <num> 上海 某 担保

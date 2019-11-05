@@ -1,0 +1,90 @@
+0	<num> 到 <num> 年 <num> ,
+0	<num> <num> ,
+0	<num>
+0	三到 <num> 年 <num> ,
+0	<num> <num> ,
+0	<num>
+0	<num> 到 <num> 年 <num> ,
+0	<num> <num> ,
+0	<num>
+0	<num> 年 以上 <num> ,
+0	<num> <num> ,
+0	<num>
+0	合计 <num> ,
+0	<num> ,
+0	<num> <num> ,
+0	<num> ,
+0	<num>
+0	按 其他 应收款 按 款项 性质 分类 如下 :
+0	单位 : <num> 元 币种 : 人民币
+0	款项 性质 年末 账面 余额 年初 账面 余额
+0	押金 及 保证金 <num> <num>
+0	给予 <per> 及第 三方 贷款 <num> <num>
+0	<per> <num> <num>
+0	待 收回 股权 转让 款 及 投资 款 <num> <num>
+0	其他 <num> <num>
+0	合计 <num> <num>
+0	截止 <tim> 末 该 余额 为 <num> ,
+0	<num> ,
+0	<num> 元 ,
+0	比 年初 减少 <num> 。
+0	( <num> ) 存货 <tim> 总额 为 <num> ,
+0	<num> ,
+0	<num> 元 ,
+0	增加 <num> 。
+0	构成 如下 :
+0	单位 : <num> 元 币种 : 人民币
+0	存 项目 年末 余额 年初 余额
+0	账面 余额 跌价 准备 账面 价值 账面 余额 跌价 准备 账面 价值
+0	原材料 <num> <num> <num> <num> <num> <num>
+0	材料 采购 <num> — <num> <num> — <num>
+0	委托 加工 物资 <num> — <num> <num> — <num>
+0	在 产品 <num> <num> <num> <num> <num> <num>
+0	库存 商品 <num> <num> <num> <num> <num> <num>
+0	周转 材料 <num> <num> <num> <num> <num> <num>
+0	已 完工 未 结算 <num> <num> <num> <num> <num> <num>
+0	房地产 开发 成本 ( a ) <num> <num> <num> <num> — <num>
+0	房地产 开发 成本 ( b ) <num> <num> <num> <num> <num> <num>
+0	合计 <num> <num> <num> <num> <num> <num>
+0	截止 <tim> 末 该 余额 为 <num> ,
+0	<num> ,
+0	<num> 元 ,
+0	比 年初 增加 <num> 。
+0	( <num> ) 长期 应收款 <tim> 总额 为 <num> ,
+0	<num> 元 ,
+0	减少 <num> 。
+0	构成 如下 :
+0	单位 : <num> 元 币种 : 人民币
+0	项目 年末 余额 年初 余额 折 现 率 区间
+0	账面 余额 坏账 准备 账面 价值 账面 余额 坏账 准备 账面 价值
+0	建造 - 移交 ( “ bt ” ) 项目 款项 <num> <num> <num> <num> <num> <num>
+0	待 收回 股权 出售 款 <num> — <num> <num> — <num> <num>
+0	其他 ( a ) <num> — <num> <num> — <num> <num> - <num>
+0	合计 <num> <num> <num> <num> <num> <num>
+0	其中 : <num> 年 内 到期 的 长期 应收款 <num> <num> <num> <num> <num> <num>
+0	<num> 年 以后 到期 的 长期 应收款 <num> <num> <num> <num> <num> <num>
+0	截止 <tim> 末 公司 货币 资金 总额 为 <num> ,
+0	<num> 元 ,
+0	比 年初 减少 <num> 。
+0	( <num> ) 长期 股权 投资 <tim> 总额 为 <num> ,
+0	<num> 元 ,
+0	减少 <num> 。
+0	构成 如下 :
+0	单位 : <num> 元 币种 : 人民币
+0	被 投资 单位 年初 账面 价值 年末 账面 价值
+0	<num> 、 合营 企业
+0	某某 <org> <num> <num>
+0	某某 <org> <num> <num>
+0	其他 — <num>
+0	小计 <num> <num>
+0	<num> 、 联营 企业
+0	某某 机器 设备 有限 公司 <num> <num>
+0	<org> <num> <num>
+0	某某 某某 <org> <num> <num>
+0	某某 张 <num> 城乡 发展 有限 公司 <num> <num>
+0	某某 市 <org> <num> <num>
+0	某某 <org> — <num>
+0	张 <num> ( 某某 ) 冷轧 <org> <num> <num>
+0	某某 <org> <num> <num>
+0	其他 <num> <num>
+0	小计 <num> <num>

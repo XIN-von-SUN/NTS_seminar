@@ -1,0 +1,24 @@
+2	但 已 基本 摆脱 去年底 出现 的 亏损 现象 。
+0	强行 平仓 的 损失 明细表 :
+0	银行 类别 贷款 本金 贷款 利率 存款 利率 预期 现金 流入 平仓 现金 流入 平仓 损失
+0	大华 强 平仓 usd <num> <num> <num> <num> <num> - <num>
+0	大华 强 平仓 usd <num> <num> <num> <num>
+0	大华 强 平仓 usd <num> <num> <num> <num>
+0	大华 强 平仓 usd <num> <num> <num> <num>
+0	大华 强 平仓 usd <num> <num> <num> <num>
+0	合计         <num> <num> - <num>
+0	合计         <num> <num> - <num>
+0	恒生 强 平仓 usd <num> <num> <num> <num> <num> - <num>
+0	恒生 强 平仓 usd <num> <num> <num> <num>
+0	恒生 强 平仓 usd <num> <num> <num> <num>
+0	恒生 强 平仓 usd <num> <num> <num> <num>
+0	合计         <num> <num> - <num>
+0	合计         <num> <num> - <num>
+0	华侨 强 平仓 usd <num> <num> <num> <num> <num> - <num>
+0	华侨 强 平仓 usd <num> <num> <num> <num>
+0	华侨 强 平仓 usd <num> <num> <num> <num>
+0	华侨 强 平仓 usd <num> <num> <num> <num>
+0	华侨 强 平仓 usd <num> <num> <num> <num>
+0	合计         <num> <num> - <num>
+0	合计         <num> <num> - <num>
+0	总计   usd <num>     <num> <num> - <num>

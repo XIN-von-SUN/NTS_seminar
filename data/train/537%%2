@@ -1,0 +1,16 @@
+1	利息 保障 倍数 <num> <num> <num> <num>
+1	现金 比率 <num> <num> <num> <num>
+1	营运 能力 指标
+1	应收 帐款 周转率 <num> <num> <num> <num>
+1	存货 周转率 <num> <num> <num> <num>
+1	总资产 周转率 <num> <num> <num> <num>
+1	固定 资产 周转率 <num> <num> <num> <num>
+1	盈利 能力 指标
+1	总资产 报酬率 <num> <num> <num> <num>
+1	销售 利润率 <num> <num> <num> <num>
+1	成本 费用 利润率 <num> <num> <num> <num>
+1	净资产 收益率 <num> <num> <num> <num>
+1	发展 能力 指标
+1	净利润 增长率 <num> <num> - <num> - <num>
+1	总资产 增长率 <num> <num> <num> <num>
+1	营业 收入 增长率 <num> <num> - <num> - <num>

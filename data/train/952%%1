@@ -1,0 +1,62 @@
+0	<num> 被 担保 企业 已 注销
+0	合计 - <num>
+1	截至 <tim> ,
+1	甲寅 未 结清 贷款 <num> 笔 ,
+1	金额 <num> 元 ;
+1	票据 贴现 <num> 笔 ,
+1	金额 <num> <num> 元 ;
+1	银行 承兑 汇票 <num> 笔 ,
+1	金额 <num> 元 ;
+1	信用证 <num> 笔 ,
+1	金额 <num> <num> 元 。
+0	无 对外 担保 信息 。
+0	甲寅 融资 明细 单位 : <num> 元
+0	银行 性质 授信 额度 贷款 余额 起始 日期 到期 日期 担保 方式 利率
+0	乙 <num> 流 贷 <num> ,
+0	<num> <num> ,
+0	<num> <num> <num> <num> <num> <num> 信用 <num>
+0	流 贷 <num> ,
+0	<num> <num> <num> 信用 <num>
+0	乙 <num> 流 贷 <num> ,
+0	<num> <num> ,
+0	<num> <tim> ,
+0	<num> <num> <num> <num> 信用 <num> <num>
+0	乙 <num> 流 贷 <num> ,
+0	<num> <num> ,
+0	<num> <num> <num> <num> <num> <num> 信用 <num>
+0	乙 <num> 流 贷 <num> ,
+0	<num> <num> ,
+0	<num> <num> <num> <num> <num> 信用 <num>
+0	国内 证 <num> ,
+0	<num> <num> <num> <num> <num> 信用
+0	乙 <num> 流 贷 <num> ,
+0	<num> <num> ,
+0	<num> <num> <num> <num> <num> <num> <num> 信用 <num>
+0	银 承 <num> ,
+0	<num> <num> ,
+0	<num> <num> <num> <num> <num> 信用 <num>
+0	乙 <num> 流 贷 <num> ,
+0	<num> <num> ,
+0	<num> <num> <num> <num> <num> <num> <num> 信用 <num>
+0	乙 <num> 流 贷 <num> ,
+0	<num> <num> <num> <num> <num> <num> <num> <num> 信用 <num> <num>
+0	流 贷 <num> <tim> + <num> <num> <num> 信用 <num> <num>
+0	流 贷 <num> ,
+0	<num> <num> <num> 信用 <num> <num>
+0	流 贷 <num> ,
+0	<num> <num> <num> <num> 信用 <num>
+0	流 贷 <num> ,
+0	<num> <num> <num> <num> <num> 信用 <num> <num>
+0	乙 <num> 国内 证 <num> ,
+0	<num> <num> ,
+0	<num> <num> <num> <num> <num> <num> 信用
+0	<num> <num> <num> <num> <num> <num> 信用
+0	乙 <num> 流 贷 <num> ,
+0	<num> <num> ,
+0	<num> <num> <num> <num> 信用 <num>
+0	合计 - <num> ,
+0	<num> - - - - -
+1	甲寅 无 逾期 、 欠 息 、 违约 和 诉讼 等 不良 信用 记录 ,
+1	状态 正常 ,
+1	资信 良 妤 。
+1	我 行 信用 评级 为 aa 。

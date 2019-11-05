@@ -1,0 +1,90 @@
+0	xxx 中 成   <num> <num> <tim> 关注
+0	xxx 中 成   <num> <num> <tim> 关注
+0	xxx 中 成   <num> <num> <tim> 关注
+0	xxx 中 成   <num> <num> <tim> 关注
+0	xxx 中 成   <num> <num> <tim> 关注
+0	xxx 中 成   <num> <num> <tim> 关注
+0	xxx 中 成   <num> <num> <tim> 关注
+0	xxx 中 成   <num> <num> <tim> 关注
+0	xxx 中 成   <num> <num> <tim> 关注
+0	xxx 中 成   <num> <num> <tim> 关注
+0	xxx 中 成   <num> <num> <tim> 关注
+0	xxx 中 成   <num> <num> <tim> 关注
+0	xxx 中 成   <num> <num> <tim> 关注
+0	小计   <num> <num>
+0	<org> 中 成   <num> <num> <tim> 逾期 ,
+0	<org> 中 成   <num> <num> <tim> 逾期 ,
+0	<org> 中 成   <num> <num> <tim> 逾期 ,
+0	<org> 中 成   <num> <num> <tim> 逾期 ,
+0	<org> 中 成   <num> <num> <tim> 逾期 ,
+0	<org> 中 成   <num> <num> <tim> 逾期 ,
+0	<org> 中 成   <num> <num> <tim> 逾期 ,
+0	<org> 中 成   <num> <num> <tim> 逾期 ,
+0	<org> 中 成   <num> <num> <tim> 逾期 ,
+0	<org> 中 成   <num> <num> <tim> 逾期 ,
+0	小计   <num> <num>
+0	<org> 中 成   <num> <num> <tim> 逾期 ,
+0	<org> 中 成   <num> <num> <tim>   正常
+0	小计   <num> <num>
+0	<org> 中 成   <num>   <tim> 低 风险
+0	<org> 中 成   <num>   <tim> 低 风险
+0	小计   <num> <num>
+0	<org> 中 成   <num> <num> <tim>   正常
+0	<org> 中 成   <num> <num> <tim> 正常
+0	<org> 中 成   <num> <num> <tim> 正常
+0	<org> 中 成   <num> <num> <tim> 正常
+0	<org> 中 成   <num> <num> <tim> 正常
+0	<org> 中 成   <num> <num> <tim> 正常
+0	<org> 中 成   <num> <num> <tim> 正常
+0	<org> 中 成   <num> <num> <tim> 正常
+0	<org> 中 成   <num> <num> <tim> 正常
+0	<org> 中 成   <num> <num> <tim> 正常
+0	<org> 中 成   <num> <num> <tim> 正常
+0	<org> 中 成   <num> <num> <tim> 正常
+0	<org> 中 成   <num> <num> <tim> 正常
+0	<org> 中 成   <num> <num> <tim> 正常
+0	<org> 中 成   <num> <num> <tim> 正常
+0	<org> 中 成   <num> <num> <tim> 正常
+0	<org> 中 成   <num> <num> <tim> 正常
+0	<org> 中 成   <num> <num> <tim> 正常
+0	<org> 中 成   <num> <num> <tim> 正常
+0	<org> 中 成   <num> <num> <tim> 正常
+0	<org> 中 成   <num> <num> <tim> 正常
+0	<org> 中 成   <num> <num> <tim> 正常
+0	<org> 中 成   <num> <num> <tim> 正常
+0	小计   <num> <num>
+0	合 计   <num> <num> <num>
+0	至 <tim> ,
+0	中 成银承 垫付 合计 <num> 元
+1	截止 <tim> ,
+1	借款 人 在 各 银行 的 实际 信贷 余额 为 流 贷 <num> 元 ,
+1	信用证 <num> 元 ( 但 系统 只 显示 <num> 元 ) ,
+0	上 表 中 把 这 <num> 项 合并 ;
+0	银 承 余额 <num> 元 ,
+0	但 在 人行 系统 中 只 显示 <num> 元 ,
+0	原因 是 借款 人 出现 银 承 垫付 <num> 元 ,
+0	这 部份 只 显示 敞口 ,
+0	票面 金额 约 为 <num> 元 ,
+0	从 银 承 未 结清 金额 中 扣除 ,
+0	实际 情况 与 银行 征信 系统 相符 。
+0	为 有效 分析 借款 人 的 负债 情况 ,
+0	故 上 表 统计 中 把 该 部份 垫付 还原 ,
+0	更 有利于 分析 借款 人 的 负债 情况 。
+1	流 贷 明细 为 xxx 银行 <num> 元 ,
+1	<org> <num> 元 ( 已 逾期 ) ,
+1	xx <num> 元 ,
+1	其中 <num> 元 已 在 <tim> 出现 逾期 。
+1	余额 较 <tim> 大幅 减少 。
+1	各 行 银 承 ( 敞口 ) 余额 为 xxx <num> 元 ,
+1	<org> <num> 元 ,
+1	<org> <num> 元 ,
+1	xxx <num> 元 。
+1	xxxxxx 对外 保证 <num> 元 ,
+1	被 保证 方 是 下属 子公司 xxxxxx ,
+1	其中 流 贷 <num> 元 ,
+1	银 承 <num> 元 。
+0	经过 查询 人行 信贷 系统 ,
+1	借款 人 自 <tim> 表 外 及 表 内 共 在 <num> 笔 欠 息 记录 ,
+1	现有 欠 息 <num> ,
+1	均 在 我 行 ) ,
+0	大 部份 是 借款 人 被 收购 前 留下 的 记录 ,

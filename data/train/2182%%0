@@ -1,0 +1,83 @@
+1	" 科目 <tim> <tim> 增长率 <tim> 增长率 <num>
+1	主营 收入 <num> <num> <num> <num> - <num> <num>
+0	主营 成本 <num> <num> <num> <tim> - <num> <num>
+0	主营 利润 <num> <num> - <num> <num> <num> <num>
+0	投资 收益 <tim> <tim> - <num> <num> <num> <num>
+0	营业 利润 <num> <num> - <num> <num> <num> <num>
+0	补贴 收入 <num> <num> - <num> <num> - <num> <num>
+1	利润 总额 <num> <num> - <num> <num> <num> <num>
+1	毛利率 <num> <num> - <num> <num> <num> <num>
+1	营业 利润率 <num> <num> - <num> <num> <num> <num>
+1	利润率 <num> <num> - <num> <num> <num> <num>
+1	投资 收益率 <num> <num> - <num> <num> <num> <num>
+0	<tim> 至 <tim> ,
+0	主营 收入 分别 为 <num> 元 、 <num> 元 、 <num> ,
+0	实现 营业 利润 分别 为 <num> 元 、 <num> 元 、 <num> 元 。
+0	<tim> - <tim> 利润 总额 分别 为 <num> 元 、 <num> 元 、 <num> 元 ,
+0	其中 获得 补贴 收入 分别 为 <num> 元 、 <num> 元 、 <num> 元 。
+1	截至 <tim> 年末 ,
+1	申请 人 总资产 <num> 元 ,
+1	净资产 <num> 元 ,
+1	资产 负债率 <num> ,
+1	净资产 借款 率 <num> 。
+0	资产 负债表 单位 : <num> 元
+1	科   目 <num> <num> <num> <num>
+1	权益 结构 资产 总额 <num> <num> <num> <num>
+1	净资产 <num> <num> <num> <num>
+0	实收 资本 <num> <num> <num> <num>
+0	资本 公 积 <num> <num> <num> <num>
+0	未 分配 利润 <num> <num> <num> <num>
+0	资产 类 流动 资产 <num> <num> <num> <num>
+0	货币 资金 <num> <num> <num> <num>
+1	应收 账款 <num> <num> <num> <num>
+0	应收 票据 <tim> <num> <tim> <tim>
+0	预付 账款 <num> <num> <num> <num>
+0	其他 应收款 <num> <num> <num> <num>
+0	存货 <num> <num> <num> <num>
+0	长期 投资 <num> <num> <num> <num>
+0	固定 资产 <num> <num> <num> <num>
+0	在 建 工程 <num> <num> <num> <num>
+0	无形 资产 <num> <num> <tim> <tim>
+0	长 期待 摊 <tim> <num> <num> <num>
+0	负债 类 流动 负债 <num> <num> <num> <num>
+0	短期 借款 <num> <num> <num> <num>
+0	应付 票据 <num> <num> <num> <num>
+1	应付 账款 <num> <num> <num> <num>
+0	预 收 账款 <num> <num> <num> <num>
+0	其他 应付款 <num> <num> <num> <num>
+0	预 提 费用 <num> <num> <num>
+0	<num> 年 内 到期 的 非 流动 负债 <num> <tim> <num> <num>
+0	长期 借款 <num> <num> <num> <num>
+0	应付 债款 <num> <num> <num> <num>
+0	长期 负债 合计 <num> <num> <num> <num>
+1	财务 比率 <tim> <tim> <tim> <tim>
+1	资产 负债率 <num> <num> <num> <num>
+0	净资产 借款 率 <num> <num> <num> <num>
+0	资本 固定 化 率 <num> <num> <num> <num>
+1	流动 比率 <num> <num> <num> <num>
+1	速 动比率 <num> <num> <num> <num>
+0	<tim> 的 主要 财务 情况 为 :
+0	主要 资产 : ① 应收 账款 <num> 元 ,
+0	主要 为 <org> <num> <num> 元 ;
+0	含 公共 市政 资产 管理 及 维护 应收 账款 <num> 元 ② 其他 应收款 <num> 元 ,
+0	主要 为 与 <org> 、 <org> 等 政府 单位 、 国有 企业 的 往来 ( 其中 苏州市 相城区 财政局 <num> 元 、 铁 新城 建设 投资 有限 责任 公司 <num> 元 、 苏州市 相城区 人民 政府 <num> 元 、 <org> <num> 元 、 苏州市 相 融 建设 工程 <num> 元 等 ) ;
+0	③ 存货 <num> 元 ,
+0	主要 为 库存 商品 <num> 、 开发 成本 <num> 元 。
+0	主要 负债 : ① 应付 账款 <num> 元 ,
+0	其中 苏州 <num> 建 <num> 元 。
+0	② 其他 应付款 <num> 元 ,
+0	其中 <org> <num> 元 、 <org> <num> 元 ;
+0	<org> <num> ,
+0	<org> <num> ,
+0	<org> <num> 元 。
+0	③ <num> 年 内 到期 的 长期 费用 <num> 元 主要 为 <org> 、 <org> 等 商业 银行 借款 ;
+0	④ 应付 债券 <num> 元 ,
+0	为 <num> 年 期 企业 债 ,
+0	其中 “ <num> 苏州 相城 债 ” 发行 <num> 元 ,
+0	发行 日期 <tim> ,
+0	发行 利率 <num> ;
+0	“ <num> 苏州 相城 债 ” 发行 <num> 元 ,
+0	发行 日期 <tim> ,
+0	发行 利率 <num> 。
+0	⑤ 预 收 账款 <num> 元 ,
+0	其中 预 收 的 安置 房 回购 款 。

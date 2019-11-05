@@ -1,0 +1,32 @@
+0	" <num> 、 企业 客户 财务 信息
+0	报表 期 次 报表 口径 报表 周期 审计 状态 显示 单位
+0	<tim> / <num> 本部 月报 否 <num> 元
+0	财务 数据 信息
+1	财务 指标 <tim> / <num> <tim> / <num> <tim> / <num> 增减 比例
+1	总资产 <num> <num> <num> <num>
+0	货币 资金 <num> <num> <num> <num>
+1	应收 账款 <num> <num> <num> <num>
+0	其他 应收 账款 <num> <num> <num> <num>
+0	存货 <num> <num> <num> <num>
+0	长期 投资 <num> <num> <num> <num>
+1	总 负债 <num> <num> <num> <num>
+0	短期 借款 <num> <num> <num> <num>
+0	应付 票据 <num> <num> <num> <num>
+1	应付 账款 <num> <num> <num> <num>
+0	长期 借款 <num> <num> <num> <num>
+1	净资产 <num> <num> <num> <num>
+1	销售 收入 <num> <num> <num> <num>
+0	利润 总额 - <num> - <num> - <num> <num>
+1	净利润 - <num> - <num> - <num> <num>
+1	净 现金流 <num> <num> <num> <num>
+1	经营 活动 净 现金流 - <num> - <num> - <num> <num>
+1	投资 活动 净 现金流 <num> - <num> - <num> - <num>
+1	筹资 活动 净 现金流 <num> <num> <num> <num>
+1	流动 比率 <num> <num> <num> - <num>
+1	速 动比率 <num> <num> <num> - <num>
+1	资产 负债率 <num> <num> <num> <num>
+1	利息 保障 倍数 <num> <num> <num> <num>
+1	应收 账款 周转率 <num> <num> <num> <num>
+1	存货 周转率 <num> <num> <num> <num>
+1	销售 利润率 - - - <num>
+1	净资产 收益率 - <num> - <num> <num> <num>

@@ -1,0 +1,77 @@
+0	" 科目 合并 说明
+0	( 第 n 年 及 近期 )
+1	<tim> 期 <tim> 期 <tim> 期 <tim>
+1	总资产 <num> <num> <num> <num>
+0	流动 资产 <num> <num> <num> <num>
+0	其中 : 货币 资金 <num> <num> <num> <num>
+0	应收 票据 <num>
+1	应收 账款 净值 <num> <num> <num> <num> <num> 年 以内 应收 账款 <num> 元 ,
+0	占 比 <num> 。
+0	<org> <num> 元 ,
+0	卯 己 省 甲 甲 丑 公司 <num> 元 ,
+0	<org> <num> 元
+0	其它 应收款 <num> <tim> <num> <num> <num> 年 以内 应收 账款 <num> 元 ,
+0	占 比 <num> ,
+0	主要 为 往来 款 。
+0	预付 账款 <num> <num> <num> <num> <num> - <num> 年 预付 款项 <num> 元 ,
+0	占 比 <num> ,
+0	<num> 年 以内 <num> 元 ,
+0	占 比 <num> 。
+0	预付 <org> 卯 己 甘蔗 育种 场 <num> 元 ,
+0	占 比 <num>
+0	存货 <num> <num> <num> <num> 主要 为 甲 丁丑 酒店 、 卯 癸 等 项目 的 开发 成本
+0	<num> 年 内 到期 的 非 流动 资产 <tim> <tim> <num>
+0	非 流动 资产 合计 <num> <num> <num> <num>
+0	长期 应收款 <tim> <num> <num> <num> bt 建设 工程 ,
+0	包括 子 甲 区 子 乙 ( 东段 ) 建设 工程 、 丑 丙 省 丑 <per> <per> 景观 绿化 工程
+0	长期 投资 <num> <tim> <num> <tim> 长期 股权 投资
+0	投资 性 房地产 <num> <num> <num> <num>
+0	固定 资产 <num> <num> <num> <num>
+0	在 建 工程 <num> <num> <num> <num> 甲 丙 甲 俱乐部
+0	无形 资产 <num> <num> <num> <num>
+0	长期 待 摊 费用 <num> <num> <num> <num> 苗圃 地租 、 恩平 苗圃 租赁 补偿 租赁 房屋 装修 费用 等
+0	递延 所得税 <tim> <num> <tim> <tim>
+0	其他 非 流动 资产 <num> <tim> <tim> 子公司 卯 甲 甲 园林 苗木 繁殖 基地 有限 责任 公司 收购 陈 某 持有 的 <org> <num> 股权 ,
+0	并 预付 了 股权 转让 款
+1	总 负债 <num> <num> <num> <num>
+0	流动 负债 <num> <num> <num> <num>
+0	其中 : 短期 借款 <num> <num> <num> <num>
+0	应付 票据 <tim>
+1	应付 账款 <num> <num> <num> <num> <num> 年 以内 应付 账款 <num> 元 ,
+0	占 比 <num> 。
+0	预 收 帐款 <num> <num> <num> <num> <num> 年 以内 预 收 账款 <num> 元
+0	其他 应付款 <num> <num> <num> <num> 主要 为 往来 款 、 购房 定金 等
+0	应交 税金 <num> <tim> <num> - <tim>
+0	应付 职工 薪酬 <num> <num> <num> <num>
+0	<num> 年 内 到期 的 非 流动 负债 <num> <num> <num>
+0	其他 流动 负债 <num> <num>
+0	非 流动 负债 合计 <num> <num> <num> <num>
+0	长期 借款 <num> <num> <num> <num> 抵押 借款 <num> 元 ,
+0	保证 借款 <num> 元
+0	长期 应付款 <num> <num>
+0	所有者 权益 <num> <num> <num> <num>
+1	实收 资本 <num> <num> <num> <num>
+0	资本 公 积 <num> <num> <tim> <num>
+0	盈余 公 积 <num>
+0	未 分配 利润 <num> <num> <num> <num>
+0	归属 母 公司 所有者 权益 合计 <num> <num> <num>
+0	少数 股东 权益 <num> <num> <num> <num>
+1	资产 负债率 ( <num> ) <num> <num> <num> <num>
+1	流动 比率 <num> <num> <num>
+1	速 动比率 <num> <num> <num>
+1	主营 业务 收入 <num> <num> <num> <num>
+0	营业 成本 <num> <num> <num> <num>
+0	营业 税金 及 附加 <num> <tim> <tim> <num>
+0	销售 费用 <tim> <tim> <num> <tim>
+0	管理 费用 <num> <num> <num> <num>
+0	财务 费用 <num> <num> <tim> <tim>
+0	资产 减值 损失 - <num> <num> - <num> - <num>
+0	投资 收益 <num> <num> - <num>
+1	营业 利润 <num> <tim> <num> - <num>
+0	利润 总额 <num> <tim> <num> - <num>
+0	净利润 <num> - <num> <num> - <num>
+1	经营 活动 现金 流入 <num> <num> <num> <num>
+0	经营 活动 现金 净 流量 - <num> - <num> - <num> - <num>
+0	投资 活动 现金 净 流量 <tim> <tim> - <tim> - <num>
+0	筹资 活动 现金 净 流量 <num> <num> <num> <num>
+1	现金 及 等价物 净 余额 <num> <num> <tim> - <num>

@@ -1,0 +1,90 @@
+0	某 办公楼 <num> <num> ,
+0	<num>
+0	废旧 车间 项目 <num> <num>
+0	庚 <num> 项目 <num> <num>
+0	庚 <num> 项目 <num> <num>
+0	庚 <num> 基建 <num> <num>
+0	pp 新 车间 生产 设备 <num> <num>
+0	庚 <num> 围墙 <num> <num>
+0	⑩ 无形 资产 : <num> 元 ,
+0	占 总资产 的 <num> ,
+0	主要 为 软件 及 系统 、 土地 使用权 。
+0	无形 资产 明细 单位 : <num> 元
+0	项目 年初 余额 年末 余额
+0	土地 使用 板 <num> ,
+0	<num> <num>
+0	软件 <num> <num>
+0	合计 <num> <num> ,
+0	<num>
+1	负债 类 : 总 负债 <num> 元 。
+0	( <num> ) 流动 负债 : <num> 元 ,
+0	占 总 负债 的 <num> 。
+0	① 短期 借款 : <num> 元 ,
+0	占 流动 负债 的 <num> 。
+0	短期 借款 明细 单位 : <num> 元
+0	类别 <tim> <tim>
+0	质押 借款 <num> ,
+0	<num> <num>
+0	抵押 借款 <num> ,
+0	<num> <num>
+0	保证 借款 <num> ,
+0	<num> <num> ,
+0	<num>
+0	信用 借款 <num> ,
+0	<num> <num> ,
+0	<num>
+0	② 应付 票据 : <num> 元 ,
+0	占 流动 负债 的 <num> 。
+0	全部 为 银行 承兑 汇票 。
+0	③ 应付 账款 : <num> 元 ,
+0	占 流动 负债 的 <num> 。
+0	应付 帐款 明细 单位 : <num> 元
+0	单位 名称 <tim> <tim>
+0	<org> <num> ,
+0	<num> <num>
+0	<org> <num> ,
+0	<num> <num> ,
+0	<num>
+0	<org> <num> <num> ,
+0	<num>
+0	<org> <num> <num>
+0	<org> 某 分公司 <num> <num>
+0	④ 预 收 账款 : <num> ,
+0	<num> 元 ,
+0	占 流动 负债 的 <num> 。
+0	预 收 账款 明细 单位 : <num> 元
+0	单位 名称 <tim> <tim>
+0	庚 <num> 公司 <num> <num>
+0	<org> <num> <num>
+0	<org> <num> <num>
+0	<org> <num> <num>
+0	<org> <num> <num>
+0	⑤ 应付 职工 薪酬 : <num> 元 ,
+0	占 流动 负债 的 <num> ,
+0	主要 为 年末 尚未 发放 的 职工 工资 、 福利 、 津贴 和 保险 等 。
+0	( <num> ) 非 流动 负债 合计 : <num> 元 ,
+0	占 非 流动 负债 的 <num> ,
+0	全部 为 长期 借款 <num> 元 。
+0	( <num> ) 股东 权益 类
+0	① 实收 资本 : <num> 元 ,
+0	全部 为 <org> 股东 投入 ,
+0	占 所有者 权益 的 <num> 。
+0	② 未 分配 利润 : <num> 元 ,
+0	占 所有者 权益 的 <num> ,
+0	为 该 公司 历年 经营 未 分配 的 利润 。
+0	③ 少数 股东 权益 : <num> 元 ,
+0	占 所有者 权益 的 <num> ,
+0	主要 为 下属 子公司 所 占 的 权益 。
+0	<num> 、 损益表 分析
+1	<per> <tim> 年度 损益表 单位 : <num> 元
+1	项目 <tim> <tim> <tim>
+1	<num> 、 营业 总 收入 <num> ,
+1	<num> <num> <num> ,
+1	<num> <num> <num> ,
+1	<num> <num>
+0	<num> 、 营业 总 成本 <num> ,
+0	<num> <num> <num> ,
+0	<num> <num>
+0	其中 : 营业 成本 <num> ,
+0	<num> <num> ,
+0	<num> <num> <num>

@@ -1,0 +1,90 @@
+0	主要 构成 如下 :
+0	单位 : <num> 元
+0	企业 名称 金额
+0	张 <num> ( 丁 市 ) 有限 公司 <num>
+0	solar power 张 <num> es ,
+0	in <num>
+0	<org> 通用 工厂 <num>
+0	张 <num> corporation <num>
+0	甲 省 张 <num> <tim>
+0	<org> <num>
+0	某 市 张 <num> 电 材料 有限 公司 <tim>
+0	<org> <tim>
+0	张 <num> <tim>
+0	张 <num> corporation ( 张 <num> tech ) <tim>
+0	( <num> ) 其他 应收款 <num> 元 ,
+0	比上 年末 增加 <num> 元 ,
+0	账 龄 分析 : <num> 年 以内 的 占 <num> ,
+0	较 易 收回 。
+0	主要 构成 如下 :
+0	单位 : <num> 元
+0	企业 名称 金额
+0	<org> <num>
+0	张 <num> <num>
+0	<org> <tim>
+0	张 <num> <num>
+0	<org> <num>
+0	张 <num> chemical ( 韩国 ) <num>
+0	<org> <num>
+0	张 <num> ( 丁 市 ) 有限 公司 <num>
+0	<org> <num>
+0	张 <num> 建设 项目 管理 咨询 有限 公司 <num>
+0	<org> 硅片 切片 工厂 即为 在 王 <num> 的 张 <num> 科技 有限 公司 ,
+0	为 张 <num> 有限 公司 的 全资 子公司 。
+0	其 对应 的 其他 应收款 为 关联 往来 。
+0	( <num> ) 存货 <num> 元 ,
+0	比上 年末 增加 <num> 元 ,
+0	明细 如下 :
+0	类别 <tim>
+0	组件 <num>
+0	硅片 <num>
+0	电池 片 <num>
+0	易 耗 <num>
+0	备品 备件 <num>
+0	在 产品 <tim>
+0	硅 料 <num>
+0	辅料 <tim>
+0	关 伏 发电 项目 <tim>
+0	( <num> ) 长期 股权 投资 <num> 元 ,
+0	主要 构成 如下 :
+0	单位 : <num> 元 、 <num>
+0	企业 名称 金额 占 被 投资 企业 的 股权 比例
+0	<org> <num> <num>
+0	甲 省 张 <num> <org> 电池 及 <org> <num> <num>
+0	<org> <num> <num>
+0	<org> <num> <num>
+0	丁 市 张 <num> 进出口 有限 公司 <num> <num>
+0	合 计 <num>
+0	( <num> ) 固定 资产 净值 <num> 元 ,
+0	其中 房屋 建筑 <num> 元 ,
+0	家具 设施 <num> 元 ,
+0	外围 设施 <num> 元 ,
+0	生产 设备 <num> 元 ,
+0	电子 设备 <num> 元 ,
+0	交通 工具 <num> 元 。
+0	( <num> ) 在 建 工程 <num> 元 ,
+0	主要 构成 如下 :
+0	单位 :
+0	项目 名称 金额
+0	qd 组件 全 自动 线 <num> 条 改造 ( techm ) <num>
+0	qd 中试 线 高精度 丝网 印刷机 <num>
+0	qd <tim> 楼 排水 管道 外网 连接 <num>
+0	qd 工序 参数 测试 数据 联网 系统 <num>
+0	qd <num> # <num> 车间 空调 系统 改造 <num>
+0	mes 系统 构建 <num>
+0	qd 激光 椭 偏 仪 <num> 台 <num>
+0	qd <num> 台 离线 式 倒 片 机 <num>
+0	qd 组件 <tim> 楼 72s 生产线 改造 项目 机电 安装 工程 <num>
+0	qd 交联 度 测试仪 <num>
+0	qd <tim> 楼 自动化 车间 机电 安装 工程 <num>
+0	qd <num> # <num> / <num> 空 压 系统 改造 <num>
+0	qd 滨海 工业园 <num> mwp 屋顶 光伏 电站 <num>
+0	qd <num> # 仓库 机电 安装 工程 <num>
+0	qd 全 自动 硅片 检测 设备 移机 及 升级 <num>
+0	qd 试验箱 <num> 台 <num>
+0	qd 多功能 环境 试验箱 <num>
+0	qd <num> # 机电 安装 工程 ( 单晶 ) <num>
+0	qd <tim> 楼 多 晶 改造 单晶 项目 <num>
+0	qd mes 系统 ( 电池 ) <num>
+0	qd 屋顶 光伏 发电 工程 <num>
+0	qd 硅片 检测 设备 <num>

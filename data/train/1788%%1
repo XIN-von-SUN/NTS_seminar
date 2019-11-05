@@ -1,0 +1,90 @@
+0	利息 保障 倍数 <num> <num> <num> <num> <num> <num> <num>
+0	应收 账款 周转 天数 <num> <num> - <num> <num> <num> <num> <num>
+0	应收 账款 周转 次数 <num> <num> <num> <num> - <num> <num> <num>
+0	预付 账款 周转 天数 <num> <num> - <num> <num> <num> <num> <num>
+0	预付 账款 周转 次数 <num> <num> <num> <num> - <num> <num> <num>
+0	存货 周转 天数 <num> <num> - <num> <num> <num> <num> <num>
+0	存货 周转 次数 <num> <num> <num> <num> - <num> <num> <num>
+0	应付 账款 周转 天数 <num> <num> - <num> <num> <num> <num> <num>
+0	应付 账款 周转 次数 <num> <num> <num> <num> - <num> <num> <num>
+0	应付 账款 周转 次数 <num> <num> <num> <num> - <num> <num> <num>
+0	毛利率 <num> <num> - <num> <num> - <num> <num> <num>
+0	营业 利润率 <num> <num> - <num> <num> - <num> <num> <num>
+0	销售 利润率 <num> <num> - <num> <num> - <num> <num> <num>
+0	净 利率 <num> <num> - <num> <num> - <num> <num> <num>
+0	截止 <tim> ,
+0	公司 主要 财务 数据 情况 如下 :
+0	( <num> ) 货币 资金 <num> 元 ,
+0	为 各家 银行 存款 ;
+0	( <num> ) 应收 账款 <num> 元 ,
+0	账 期 均 在 <num> - <num> 天 左右 ,
+0	主要 明细 :
+0	单位 名称 金额
+0	shangri - la <num>
+0	macy ’ s 某 百货 <num>
+0	costco <num>
+0	tesco <tim>
+0	global - c <tim>
+0	某 实业 <num>
+0	其他 <num>
+0	合计 <num>
+0	( <num> ) 其他 应收款 <num> 元 ,
+0	主要 明细 :
+0	单位 名称 金额
+0	<org> <num>
+0	山东 某 <num>
+0	上海 某 融资 <num>
+0	其他 <num>
+0	公司 员工 若干 <num>
+0	合计 <num>
+0	( <num> ) 预付 账款 <num> 元 ,
+0	付 到 某 圣 绵 进出口 有限 公司 <num>
+0	( <num> ) 存货 <num> 元 ,
+0	主要 是 纺织 企业 各 种 布料 等 原材料 。
+0	( <num> ) 其他 流动 资产 为 应收 补贴 款 <num> 元 ,
+0	是 国家 对 纺织品 出口 退税 。
+0	( <num> ) 短期 借款 <num> 元 ,
+0	明细 如下 :
+0	融资 机构 名称 额度 金额 授信 品种 余额 担保 方式
+0	某 支行 <tim> 流动 资金 贷款 <tim> 土地 厂房 抵押
+0	( <num> ) 应付 账款 <num> 元 ,
+0	主要 明细 :
+0	单位 名称 金额
+0	某 海 盛威 <num>
+0	某 圣 绵 <num>
+0	<org> <num>
+0	其他 <num>
+0	合计 <num>
+0	( <num> ) 其他 应付款 <num> 元 ,
+0	主要 明细 :
+0	单位 名称 金额
+0	货运 / 物流 公司 <num>
+0	<org> <num>
+0	其他 <num>
+0	合计 <num>
+0	整体 财务 评价 :
+0	从 公司 负债 结构 看 ,
+0	因 公司 订单 稳定 且 下游 客户 资信 较 好 ,
+0	短期 借款 <num> 元 中 <num> 部分 为 订单 融资 。
+0	按 目前 企业 <tim> 销售 收入 <num> 元 ,
+0	<tim> <num> - <tim> 收入 <num> 元 ,
+0	<tim> 末 应收 账款 <num> 元 ,
+0	账 期 在 <num> - <num> 天 内 ,
+0	每年 还本 付息 的 资金 压力 相对 不高 。
+0	从 公司 资产 结构 看 ,
+0	流动 资产 <num> 元 ,
+0	占 总资产 <num> 以上 ,
+0	固定 资产 净值 <num> 元 。
+0	公司 的 加工 工厂 在 四川 和 苏州 ,
+0	上海 某 纺织品 有限 公司 总体 承接 大部分 订单 。
+0	随着 该 公司 资本 实力 不断 增强 ,
+0	总体 上 负债 控制 在 合理 的 范围 ,
+0	业务 订单 稳步 增加 ,
+0	企业 呈 良性 发展 。
+0	公司 的 流动 比率 和 速 动比率 指标 良好 ,
+0	公司 有 一定 偿债 能力 。
+0	对比 <tim> 末 甲乙 丙丁 和 上海 某 科目 明细 ,
+0	发现 <num> 者 间 应收 应付 总额 一致 ,
+0	但 具体 对应 科目 不 一致 。
+0	甲乙 丙丁 和 上海 某 双方 存在 一定 的 购销 交易 和 部分 其他 往来 款 。
+0	形成 差异 的 主要 原因 是 : <num> 方面 ,

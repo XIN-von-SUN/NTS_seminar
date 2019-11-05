@@ -1,0 +1,33 @@
+0	" ( <num> ) 财务 状况
+1	会计 科目 本期 ( <tim> / <num> ) 上年 年末 ( <tim> / <num> ) 增减 幅度 ( <num> ) 上年 同期 ( <tim> / <num> ) 增减 幅度 ( <num> )
+1	资产 总额 <num> <num> <num> <num> <num>
+0	应收 票据 <num> <num> - <num>
+1	应收 账款 <num> <num> <num> <num> <num>
+0	预付 账款 <num> <num> - <num>
+0	其他 应收款 <num> <num> <num> <num> <num>
+0	存货 <num> <num> <num> <num> <num>
+1	负债 总额 <num> <num> - <num> <num> - <num>
+0	流动 负债 <num> <num> - <num> <num> - <num>
+0	短期 借款 <num> <num> - <num>
+0	长期 借款 <num> <num> <num> <num> - <num>
+0	应付 票据 <num> <num> - <num>
+1	应付 账款 <num> <num> - <num> <num> - <num>
+0	预 收 账款 <num> <num> - <num>
+0	其他 应付款 <num> <num> - <num> <num> - <num>
+1	净资产 <num> <num> <num> <num> <num>
+0	实收 资本 <num> <num> <num> <num> <num>
+1	主营 业务 收入 <num> <num> - <num> <num> <num>
+1	净利润 <num> <num> - <num> <num> <num>
+1	经营 活动 产生 的 现金 流量 净额 <num> <num> - <num> <num>
+1	投资 活动 产生 的 现金 流量 净额 <num> <num> - <num> <num>
+1	筹资 活动 产生 的 现金 净 流量 <num> - <num> - <num> <num>
+1	财务 指标 本期 ( <tim> / <num> ) 上年 年末 ( <tim> / <num> ) 增减 幅度 ( <num> ) 上年 同期 ( <tim> / <num> ) 增减 幅度 ( <num> )
+1	资产 负债率 <num> <num> - <num> <num> - <num>
+1	速 动比率 <num> <num> <num> <num> <num>
+1	流动 比率 <num> <num> <num> <num> <num>
+1	销售 利润率 <num> <num> <num> <num> <num>
+1	存货 周转率 <num> <num> - <num> <num> - <num>
+0	利息 保障 倍数 <num> <num> <num> <num> <num>
+1	应收 账款 周转率 <num> <num> - <num> <num> - <num>
+0	长期 债务 与 营运 资金 比率 <num> - <num> - <num> - <num> - <num>
+2	未 提供 最新 报表 。

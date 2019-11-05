@@ -1,0 +1,90 @@
+0	过滤 面积 : <num> - <num> m2 。
+0	指标 名称 指标 单位 标准
+0	定量 <num> g / m2 gb <num> - <tim>
+0	厚度 <num> mm gb <num> - <tim>
+0	瓦楞 深度 - mm g w001 - <tim>
+0	固化 前 耐 破 度 <num> kpa gb <num> - <tim>
+0	固化 后 耐 破 度 - kpa gb <num> - <tim>
+0	固化 前 <per> 挺 度 <tim> mgs gw <num> - <tim>
+0	固化 后 <per> 挺 度 - mgs gw <num> - <tim>
+0	透气 度 <num> mm / s gw <num> - <tim>
+0	最 大 孔径 <num> μ m gw <num> - <tim>
+0	平均 孔径 <num> μ m gw <num> - <tim>
+0	树脂 含量 <num> <num> gw <num> - <tim>
+0	<per> <num> <num> gw <num> - <tim>
+0	<num> ) 重型车 专用 空气 滤纸 npaf <num> ca 适 用 于 : 重型车 空气 滤纸 ,
+0	燃气 涡轮 ,
+0	过滤 面积 : <num> - <num> m2
+0	指标 名称 指标 单位 标准
+0	定量 <num> g / m2 gb <num> - <tim>
+0	厚度 <num> mm gb <num> - <tim>
+0	瓦楞 深度 <num> mm g w001 - <tim>
+0	固化 前 耐 破 度 <num> kpa gb <num> - <tim>
+0	固化 后 耐 破 度 - kpa gb <num> - <tim>
+0	固化 前 <per> 挺 度 <tim> mgs gw <num> - <tim>
+0	固化 后 <per> 挺 度 - mgs gw <num> - <tim>
+0	透气 度 <num> mm / s gw <num> - <tim>
+0	最 大 孔径 <num> μ m gw <num> - <tim>
+0	平均 孔径 <num> μ m gw <num> - <tim>
+0	树脂 含量 <num> <num> gw <num> - <tim>
+0	<per> <num> <num> gw <num> - <tim>
+0	<num> 、 机油 滤纸 npa <num> cp ,
+0	适 用 于 : 重型车 机 空 滤纸 及 机油 滤纸 <num>
+0	指标 名称 指标 单位 标准
+0	定量 <num> g / m2 gb <num> - <tim>
+0	厚度 <num> mm gb <num> - <tim>
+0	瓦楞 深度 <num> mm g w001 - <tim>
+0	固化 前 耐 破 度 <num> kpa gb <num> - <tim>
+0	固化 后 耐 破 度 <num> kpa gb <num> - <tim>
+0	固化 前 <per> 挺 度 <tim> mgs gw <num> - <tim>
+0	固化 后 <per> 挺 度 <tim> mgs gw <num> - <tim>
+0	透气 度 <num> mm / s gw <num> - <tim>
+0	最 大 孔径 <num> μ m gw <num> - <tim>
+0	平均 孔径 <num> μ m gw <num> - <tim>
+0	树脂 含量 <num> <num> gw <num> - <tim>
+0	<per> <num> <num> gw <num> - <tim>
+0	<num> 、 燃油 滤纸 npf <num> ca ,
+0	适 用 于 : 燃气 涡轮
+0	指标 名称 指标 单位 标准
+0	定量 <num> g / m2 gb <num> - <tim>
+0	厚度 <num> mm gb <num> - <tim>
+0	瓦楞 深度 <num> mm g w001 - <tim>
+0	固化 前 耐 破 度 <num> kpa gb <num> - <tim>
+0	固化 后 耐 破 度 - kpa gb <num> - <tim>
+0	固化 前 <per> 挺 度 <tim> mgs gw <num> - <tim>
+0	固化 后 <per> 挺 度 - mgs gw <num> - <tim>
+0	透气 度 <num> mm / s gw <num> - <tim>
+0	最 大 孔径 <num> μ m gw <num> - <tim>
+0	平均 孔径 <num> μ m gw <num> - <tim>
+0	树脂 含量 <num> <num> gw <num> - <tim>
+0	<per> <num> <num> gw <num> - <tim>
+0	<num> 、 主要 设备 :
+0	<num> 、 旧 厂区 : 原纸 部 : 打浆 部 : 打浆机 锥形 磨浆机 浓 调 仪 ;
+0	<org> : 高位 箱 流 浆 箱 脱水 箱 抄 纸 网 托 纸 网 ;
+0	烘 干部 : 高温 导热油 烘 缸 ( <num> 组 ) ;
+0	卷纸 部 : <org> 电动 葫芦 ;
+0	成 纸 部 : 放 纸 座 ;
+0	浸 胶 槽 : 配料 搅拌罐 ;
+0	烘 干部 : 高温 导热 缸 ;
+0	热风 穿透 缸 ( <num> 组 ) : 压光机 、 画线 机 、 瓦楞 机 、 卷纸 机 、 电动 葫芦 ;
+0	分切 部 : 自动 纠偏 分切机 ( <num> 台 ) 、 纸 边 液压 打包机 、 拉伸膜 包装机 ;
+0	质检 部 : 电子 天平 、 电脑 测控 耐 破 度 仪 、 数字 织物 透 质量 仪 、 数字式 织物 厚度 仪 、 倾斜 式微 压机 、 电热 鼓风 干燥箱 、 抄 片 器 ;
+0	<num> 、 新 厂区 : 纤维 水力 碎 解 机 <num> 台 ;
+0	纤维 预处理 机 <num> 台 ;
+0	纤维 除渣机 <num> 台 ;
+0	纤维 筛选机 <num> 台 ;
+0	斜 网 成型 器 <num> 台 ;
+0	干燥 烘 缸 <num> 个 ;
+0	水平 式 卷取机 <num> 台 ;
+0	水平 式 上 料 放 卷 机 <num> 台 ;
+0	电加热 接 纸机 <num> 台 ;
+0	蓄 布 机 <num> 台 ;
+0	双 面 涂胶机 <num> 台 ;
+0	第 <num> 干燥 区 <num> 套 ;
+0	中部 牵引机 <num> 台 ;
+0	压纹机 <num> 台 ;
+0	第 <num> 干燥 区 <num> ;
+0	套 冷却 区 <num> 套 ;
+0	调 偏 机 <num> 台 ;
+0	<num> 辊 水冷 牵引 一体机 <num> 套 ;
+0	在线 定量 检测 <num> 套 ;

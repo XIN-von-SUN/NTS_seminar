@@ -1,0 +1,90 @@
+0	" 客户 我 行 授信 担保 信息
+0	客户 我 行 授信 担保 信息
+0	<num> 、 担保 为 企业 法人 保证
+1	基本 报表 信息
+1	企业 名称 企业 类型 客户 类型 企业 在 本行 授信 敞口 余额 ( <num> 元 ) 企业 在 本行 正常 类 授信 敞口 余额 ( <num> 元 ) 企业 在 本行 关注 类 授信 敞口 余额 ( <num> 元 ) 企业 在 本行 不良 类 授信 敞口 余额 ( <num> 元 ) 企业 在 本行 逾期 欠 息 贷款 余额
+0	<num> 某某 张 <num> 城市 建设 投资 有限 公司 国有 企业 法人 企业 <num> <num> <num> <num> <num>
+1	企业 名称 企业 在 本行 最 早 逾期 欠 息 时间 担保 本行 正常 类 授信 敞口 余额 ( <num> 元 ) 担保 本行 关注 类 授信 敞口 余额 ( <num> 元 ) 担保 本行 不良 类 授信 敞口 余额 ( <num> 元 ) 担保 本行 逾期 欠 息 贷款 余额 ( <num> 元 ) 最 早 逾期 欠 息 时间
+0	<num> 某某 张 <num> 城市 建设 投资 有限 公司 <num> <num> <num>
+1	企业 名称 征信 反映 企业 授信 余额 ( <num> 元 ) 征信 反映 企业 正常 类 授信 余额 ( <num> 元 ) 征信 反映 企业 关注 类 授信 余额 ( <num> 元 ) 征信 反映 企业 不良 类 授信 余额 ( <num> 元 ) 征信 反映 企业 逾期 欠 息 贷款 余额 ( <num> 元 ) 征信 反映 企业 最 早 逾期 欠 息 时间 征信 反映 企业 对外 担保 余额 ( <num> 元 )
+0	<num> 某某 张 <num> 城市 建设 投资 有限 公司 <num> <num>
+0	( <num> ) 企业 法人 对外 担保 记录
+0	<num> 担保 企业 名称 : 某某 张 <num> 城市 建设 投资 有限 公司
+0	担保 类型 被 担保 人 证件 类型 证件 号码 担保 币种 担保 金额 ( <num> 元 ) 担保 授信 业务 品种 担保 形式
+0	( <num> ) 企业 法人 财务 信息
+0	<num> 法人 企业 名称 : 某某 张 <num> 城市 建设 投资 有限 公司
+0	( <num> ) 基本 报表 信息
+0	客户 规模 报表 期 次 报表 口径 报表 周期 审计 状态 审计 意见 审计 机构 显示 单位
+0	大型 企业 <tim> / <num> 合并 月报 否
+0	( <num> ) 其他 财务 报表 模板
+0	财务 指标 当期 财务 状况
+0	( <tim> / <num> ) <tim> 年报
+0	( <tim> / <num> ) 前 两年 年报
+0	( <tim> / <num> ) <tim> 年报
+0	( <tim> / <num> ) 我 行 均值
+0	( <tim> / <num> ) <org> 指标 均值
+0	( <tim> / <num> ) 上市 公司 均值
+0	( <tim> / <num> )
+1	总资产 <num> <num> <num> <num> , <num>
+1	<num>
+0	货币 资金 <num> , <num>
+0	<num> <num> , <num>
+0	<num> <num> , <num>
+0	<num> <num>
+0	<num>
+0	应收 账款 <num> , <num>
+0	<num> <num> <num> , <num>
+0	<num> <num> , <num>
+0	<num>
+0	其他 应收 账款 <num> , <num>
+0	<num> <num> , <num>
+0	<num> <num> , <num>
+0	<num> <num> , <num>
+0	<num>
+0	存货 <num>
+0	<num> <num>
+0	<num> <num>
+0	<num> <num>
+0	<num>
+0	长期 投资 <num> , <num>
+0	<num> <num> , <num>
+0	<num> <num> , <num>
+0	<num> <num> , <num>
+0	<num>
+0	总 负债 <num>
+0	<num> <num>
+0	<num> <num>
+0	<num> <num> , <num>
+0	<num>
+0	短期 借款 <num> <num> <num> , <num>
+0	<num> <num> , <num>
+0	<num>
+0	应付 票据 <num> <num> <num> <num>
+0	应付 账款 <num> , <num>
+0	<num> <num> , <num>
+0	<num> <num> , <num>
+0	<num> <num> , <num>
+0	<num>
+0	长期 借款 <num>
+0	<num> <num>
+0	<num> <num>
+0	<num> <num>
+0	<num>
+0	净资产 <num>
+0	<num> <num>
+0	<num> <num>
+0	<num> <num>
+0	<num>
+1	销售 收入 <num> , <num>
+1	<num> <num> , <num>
+0	<num> <num> , <num>
+0	<num> <num> , <num>
+0	<num>
+0	利润 总额 <num>
+0	<num> <num> , <num>
+0	<num> <num> , <num>
+0	<num> <num> , <num>
+0	<num>
+0	净利润 <num>
+0	<num> <num> , <num>
+0	<num> <num> , <num>

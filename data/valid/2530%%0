@@ -1,0 +1,20 @@
+0	" <num> ) 第 <num> 还款 来源 分析
+0	( <num> ) 预测 利润表 :
+0	<tim> <tim> <tim> <tim> <tim> <tim> <tim> <tim> <tim> <tim> <tim> <tim> 合计
+0	<num> 、 主营 业务 收入 <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num>
+0	租金 收入 <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num>
+0	减 : 业务 总 成本 <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num>
+0	营业税 及 附加 <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num>
+0	营业 费用 <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num>
+0	管理 费用 <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num>
+0	其中 : 折旧 <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num>
+0	工资 <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num>
+0	房产税 及 附加 <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num>
+0	财务 费 <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num>
+0	期初 余额 <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num>
+0	还款 金额 <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num>
+0	期末 余额 <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num>
+0	<num> 、 营业 利润 <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num>
+0	<num> 、 利润 总额 <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num>
+0	减 : 所得税 <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num>
+0	<num> 、 净利润 <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num>

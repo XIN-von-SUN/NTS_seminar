@@ -1,0 +1,48 @@
+0	( <num> ) 财务 状况
+1	会计 科目 本期 ( <tim> / <num> ) 上年 年末 ( <tim> / <num> ) 增减 幅度 ( <num> ) 上年 同期 ( <tim> / <num> ) 增减 幅度 ( <num> )
+1	资产 总额 <num> <num> - <num> <num> - <num>
+0	应收 票据 <num> <num> - <num> - <num>
+1	应收 账款 <num> <num> - <num> <num> - <num>
+0	预付 账款 <num> <num> <num> <num> <num>
+0	其他 应收款 <num> <num> - <num> <num> <num>
+0	存货 <num> <num> <num> <num> - <num>
+1	负债 总额 <num> <num> <num> <num> - <num>
+0	流动 负债 <num> <num> <num> <num> - <num>
+0	短期 借款 <num> <num> <num> <num> - <num>
+0	长期 借款 <num> <num> - <num>
+0	应付 票据 <num> <num> <num> <num> <num>
+1	应付 账款 <num> <num> - <num>
+0	预 收 账款 <num> <num> - <num> <num> - <num>
+0	其他 应付款 <num> <num> - <num> - <num>
+1	净资产 <num> <num> - <num> <num> <num>
+0	实收 资本 <num> <num> <num> <num> <num>
+1	主营 业务 收入 <num> <num> - <num> <num> - <num>
+0	净利润 - <num> <num> - <num> <num> - <num>
+1	经营 活动 产生 的 现金 流量 净额 <num> <num> - <num> - <num> - <num>
+1	投资 活动 产生 的 现金 流量 净额 <num> - <num> - <num> <num>
+1	筹资 活动 产生 的 现金 净 流量 - <num> - <num> - <num> - <num> - <num>
+1	财务 指标 本期 ( <tim> / <num> ) 上年 年末 ( <tim> / <num> ) 增减 幅度 ( <num> ) 上年 同期 ( <tim> / <num> ) 增减 幅度 ( <num> )
+1	资产 负债率 <num> <num> <num> <num> - <num>
+1	速 动比率 <num> <num> - <num> <num> - <num>
+1	流动 比率 <num> <num> - <num> <num> - <num>
+1	销售 利润率 - <num> <num> - <num> <num> - <num>
+1	存货 周转率 <num> <num> - <num> <num> - <num>
+1	利息 保障 倍数 - <num> <num> - <num> <num> - <num>
+1	应收 账款 周转率 <num> <num> - <num> <num> - <num>
+1	长期 债务 与 营运 资金 比率 <num> <num> - <num>
+0	借款 人 目前 已 停止 向 金融 机构 提供 报表 。
+0	( <num> ) 对外 担保 情况
+0	被 担保 客户 名称 业务 品种 金额 ( <num> 元 ) 起始 日 到期 日 金融 机构
+0	借款 人 对外 担保 中 有 <num> 笔 被 列 为 次级 ,
+0	被 担保 人 均 为 某 市 普菲德 物资 有限 公司 ,
+0	发生 行 均 为 <org> ,
+0	已 逾期 ,
+0	目前 正在 与 <org> 沟通 。
+0	另外 在 我 行 有 <num> 笔 对外 担保 ,
+0	担保 对象 为 某 医疗 器械 有限 公司 ,
+0	被 列 为 关注 ;
+0	在 <org> 有 <num> 笔 对外 担保 ,
+0	担保 对象 为 某 医疗 器械 有限 公司 ,
+0	被 列 为 可疑 ,
+0	以上 <num> 笔 因 人行 征信 系统 错误 ,
+0	未 在 征信 报告 中 显示 。

@@ -1,0 +1,29 @@
+0	有 少量 欠款 ,
+0	账 期 不 超过 <tim> ,
+0	账款 加收 较快 ,
+2	公司 <tim> 经营 活动 产生 的 现金 流量 净额 为 正 ,
+2	说明 借款 人 获取 现金 能力 较强 。
+0	<num> 筹资 活动 现金 流量 净额 为 - <num> 元 ,
+0	为 偿还 银行 借款 <num> 元 和 偿还 股东 王 <num> 借款 <num> 元 ( 该 部分 在 资产 负债表 的 其他 应付款 中 显示 ) 。
+1	<num> 、 财务 指标 表 分析 单位 :
+1	财务 指标 <tim> / <num> <tim> / <num> <tim> / <num> <tim> / <num>
+0	偿债 能力 指标
+1	资产 负债率 <num> <num> <num> <num>
+1	流动 比率 <num> <num> <num> <num>
+1	速 动比率 <num> <num> <num> <num>
+1	利息 保障 倍数 <num> <num> <num> <num>
+1	现金 比率 <num> <num> <num> <num>
+0	营运 能力 指标
+1	应收 帐款 周转率 <num> <num> <num> <num>
+1	存货 周转率 <num> <num> <num> <num>
+1	总资产 周转率 <num> <num> <num> <num>
+1	固定 资产 周转率 <num> <num> <num> <num>
+0	盈利 能力 指标
+1	总资产 报酬率 <num> <num> <num> <num>
+1	销售 利润率 <num> <num> <num> <num>
+1	成本 费用 利润率 <num> <num> <num> <num>
+1	净资产 收益率 <num> <num> <num> <num>
+0	发展 能力 指标
+1	净利润 增长率 <num> <num> <num> - <num>
+1	总资产 增长率 <num> <num> <num> - <num>
+1	营业 收入 增长率 <num> <num> <num> - <num>

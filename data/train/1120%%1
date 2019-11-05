@@ -1,0 +1,90 @@
+0	<num> 长期 借款 <num> ,
+0	<num> <num> ,
+0	<num> ,
+0	<num> - <num> , <num>
+0	应付 债券 <num> ,
+0	<num> <num> ,
+0	<num> ,
+0	<num> <num> ,
+0	<num>
+0	长期 应付款 <num> - <num>
+0	专项 应付款 <num> ,
+0	<num> <num> <num>
+0	其他 非 流动 负债 <num> ,
+0	<num> <num> ,
+0	<num> - <num> ,
+0	<num>
+0	递延 所得税 负债 <num> - <num>
+0	工程 物资 <num> <num> <num> ,
+0	<num> 非 流动 负债 合计 <num> <num> <num> ,
+0	<num>
+1	无形 资产 <num> <num> <num> 负债 合计 <num> ,
+1	<num> <num> ,
+1	<num> ,
+1	<num> <num> ,
+1	<num>
+0	在 建 工程 <num> ,
+0	<num> <num> ,
+0	<num> ,
+0	<num> - <num> ,
+0	<num> 股 本 <num> ,
+0	<num> <num> ,
+0	<num>
+0	资本 公 积 <num> ,
+0	<num> <num> ,
+0	<num> ,
+0	<num> <num> ,
+0	<num>
+0	专项 储备 <num> ,
+0	<num> <num> ,
+0	<num> <num>
+0	商誉 <num> ,
+0	<num> <num> ,
+0	<num> <num> 盈余 公 积 <num> ,
+0	<num> <num>
+0	— 长期 待 摊 费用 <num> <num> ,
+0	<num> - <num> ,
+0	<num> 未 分配 利润 <num> ,
+0	<num> ,
+0	<num> <num> ,
+0	<num> ,
+0	<num> - <num> ,
+0	<num>
+0	<num> 外币 报表 折算 差 额 ( <num> ,
+0	<num> ) ( <num> ,
+0	<num> ) <num>
+0	: 递延 所得税 资产 <num> ,
+0	<num> <num> <num> ,
+0	<num> 归 属于 母 公司 所 有 者 权益 <num> ,
+0	<num> ,
+0	<num> <num> ,
+0	<num> ,
+0	<num> - <num>
+0	其他 非 流动 资产
+0	<num> ,
+0	<num> <num> ,
+0	<num> <num> ,
+0	<num> 少数 股东 权益 <num> ,
+0	<num> <num> <num>
+0	非 流动 资产 合计 <num> ,
+0	<num> <num> ,
+0	<num> ,
+0	<num> <num> 所有者 权益 合计 <num> ,
+0	<num> <num> ,
+0	<num> ,
+0	<num> - <num> ,
+0	<num>
+1	资产 总计 <num> <num> ,
+1	<num> <num> ,
+1	<num> ,
+1	<num> 负债 和 所有者 权 益 总计 <num> ,
+0	<num> ,
+0	<num> <num> ,
+0	<num> ,
+0	<num> <num> ,
+0	<num> ,
+0	<num>
+0	资产 类 科目 分析 ( 截至 x 年末 ) :
+0	截止 x 年末 ,
+0	甲 总资产 合计 <num> ,
+0	<num> 元 ,

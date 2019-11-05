@@ -1,0 +1,90 @@
+0	<num> 返还 性 收入 <num> <num> <num>
+0	<num> 财力 性 转移 支付 收入 <num> <num> <num>
+0	<num> 专项 转移 支付 收入 <num> <num> <num>
+0	<num> 政府 性 基金 收入 <num> <num> <num>
+0	<num> 社会 保障 基金 收入
+0	<num> 预算 外 财政 专户 资金 收入 <num> <num> <num>
+0	<num> 本 年收入 <num> <num> <num>
+0	<num> 国有 土地 使用权 出让 金 收入 <num> <num> <num>
+0	<num> 本 级 财政 总 支出 ( 不 含 年终 结余 )
+0	<num> 建设 与 债务 支出 合计 ( = <num> + … + <num> ) <num> <num> <num>
+0	<num> 基本 建设 支出 <num> <num> <num>
+0	<num> 债务 本金 利息 支出 <num> <num> <num>
+0	<num> 其他 资本 性 支出 <num> <num> <num>
+0	<num> 其他 支出 <num> <num> <num>
+0	<num> 年终 结余 <num> <num>
+0	<num> 可 支配 财力 ( = <num> + <num> - <num> - <num> - <num> ) <num> <num> <num>
+0	<num> 一般 预算 本 年收入 <num> <num> <num>
+0	<num> 上级 补助 <num>
+0	<num> 一般 预算 上年 结余 数 <num> <num> <num>
+0	<num> 政府 性 基金 收入 可 支配 数 <num> <num> <num>
+0	<num> 预算 外 收入 可 支
+0	配 数 <num> <num> <num>
+0	<num> 土地 收入 可 支配 数
+0	<num> 一般 预算 中 的 上 解 及 补助 支出 <num> <num> <num>
+0	<num> 基金 预算 中 的 上 解 及 补助 支出
+0	<num> 预算 外 的 上 解 及 补助 支出
+0	备注 : <num> 、 其中 <tim> 根据 财政 数据 得出 ,
+0	后 几 年 为 贷款 偿还 期 内 预测 数据 。
+0	本 级 政府 偿债 能力 动态 指标 分析 表
+0	单位 : <num> 元
+0	科目 ( 年度 ) <tim> <tim> <tim> 警戒线
+0	<num> 、 生产 总值 ( gdp ) <tim> <tim> <num>
+0	<num> 、 可 支配 财力 <num> <num> <num>
+0	其中 : 行政 事业 单位 正常 运转 经费
+0	其中 : 社会 保障 基金
+0	<num> 、 建设 与 债务 支出 ( <num> + <num> )
+0	<num> 、 新增 建设 资金 支出
+0	<num> 、 当年 到期 本息 <num> <num> <num>
+1	<num> 、 政府 债务 总额 <num> <num> <num>
+1	政府 债务 率 <num> <num> <num> <num>
+1	政府 偿债率 <num> <num> <num> <num>
+1	政府 负债率 <num> <num> <num> <num>
+0	未来 动态 偿债 能力 指标 分析
+0	根据 某某 市 “ <num> “ 规划 经济 社会 发展 规划 ,
+0	某某 市 生产 总值 年 平均 增长率 <num> ,
+0	某某 市 <tim> 、 <tim> 、 <tim> 生产 总值 分别 实现 <num> 、 <num> 、 <num> ,
+0	年 增长率 <num> 、 <num> ,
+0	保守 预算 <tim> 某某 市 生产 总值 年 平均 增长 <num> 左右 ;
+0	按 以上 平均 增长率 ,
+0	预测 未来 贷款 期 内 的 区 某某 市 国 某某 产 总值 额 如下 表 :
+0	( 单位 : <num> 元 )
+0	项 目 <tim> <tim> <tim> <tim> <tim> <tim>
+0	国 某某 产 总值 <num> <num> <num> <num> <num> <num>
+0	项 目 <num> 年 <tim> <tim> <tim> <tim> <tim>
+0	国 某某 产 总值 <num> <num> <num> <tim> <num> <tim>
+0	项 目 <tim> <tim> <tim> <tim> <tim> <tim>
+0	国 某某 产 总值 <num> <tim> <num> <tim> <tim> <num>
+0	根据 某某 市 “ <num> “ 规划 经济 社会 发展 规划 财政 收入 平均 增长率 <num> ,
+0	某某 市 <tim> 、 <tim> 、 <tim> 可 支配 收入 分别 为 <num> 、 <num> 、 <num> ,
+0	年 增长率 <num> 、 <num> ,
+0	保守 预算 <tim> 全区 可 支配 收入 年 平均 增长 <num> 左右 ;
+0	按 以上 平均 增长率 ,
+0	预测 未来 贷款 期 内 的 区 某某 市 可 支配 财力 如下 表 :
+0	( 单位 : <num> 元 )
+0	项 目 <tim> <tim> <tim> <tim> <tim> <tim>
+0	可 支配 收入 <num> <num> <num> <num> <num> <num>
+0	项 目 <tim> <tim> <tim> <tim> <tim> <tim>
+0	可 支配 收入 <num> <num> <num> <num> <num> <num>
+0	项 目 <tim> <tim> <tim> <tim> <tim> <tim>
+0	可 支配 收入 <num> <num> <num> <num> <num> <num>
+0	根据 某某 市政府 <tim> 至 <tim> 债务 总额 分别 为 <num> 、 <num> 、 <num> ,
+0	增长率 分别 为 <num> 和 <num> ,
+0	考虑 到 <tim> 某某 省 “ <num> 年 大 变样 ” 工程 、 某某 的 建设 以及 国家 <num> 财政 投入 等 因素 ,
+0	<tim> 属于 财政 负债 较 集中 、 金额 较 大 的 年限 ,
+0	预算 <tim> 财政 投入 会 比较 集中 ,
+0	负债 增长率 估计 在 <num> 左右 ,
+0	后 <tim> 逐步 年 某某 市 年 平均 增长 <num> 左右 ;
+0	平均 增长率 如下 表 :
+0	( 单位 : <num> 元 )
+0	政府 债务 总额 <tim> <tim> <tim> <tim> <tim> <tim>
+0	<num> <num> <num> <num> <num> <num>
+0	政府 债务 总额 <tim> <tim> <tim> <tim> <tim> <tim>
+0	<num> <num> <num> <num> <num> <num>
+0	政府 债务 总额 <tim> <tim> <tim> <tim> <tim> <tim>
+0	<num> <num> <num> <num> <num> <num>
+0	根据 某某 市 财政 <tim> 至 <tim> 当年 到期 偿付 本息 额 ,
+0	平均 增长率 如下 表 :
+0	( 单位 : <num> 元 )
+0	<tim> <tim> <tim> 平均 增长率
+0	<num> <num> <num> <num>

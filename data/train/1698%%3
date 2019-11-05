@@ -1,0 +1,35 @@
+0	某某 银行 银 承 <tim> 保证金 <num> 方 <num> <num> <num> ( <num> ) <num> <num> 正常
+0	小计 <num> <num> <tim>
+0	某某 银行 流 贷 <tim> 某某 经贸 <num> <num> <tim> <tim> <num> 正常
+0	某某 银行 银 承 <tim> 某某 经贸 <num> <num> <tim> ( <num> ) <tim> <num> 正常
+0	某某 银行 银 承 <tim> <num> 保证金 <num> <num> <tim> ( <num> ) <num> <num> 正常
+0	某某 银行 银 承 <tim> 某某 担保 <num> <num> <num> ( <num> ) <tim> <tim> 正常
+0	小计 <num> <num> <tim>
+0	某某 银行 流 贷 <tim> 某某 <num> <num> <tim> <tim> 正常
+0	小计 <tim> <tim>
+0	王 某某 某某 银行 流 贷 <tim> <num> <num> <tim> <tim> <num> 正常
+0	小计 <tim> <tim>
+0	某某 金融 流 贷 <tim> 土地 房产 <tim> <tim> <num> 正常
+0	小计 <tim> <tim> <num>
+0	某某 公司 流 贷 <num> 个 月 及其 设备 质押 <num> <num> <num> <num> <num> 正常
+0	小计 <num> <num>
+0	某某 流 贷 <tim> <num> <num> <num> <num>
+0	小计   <num> <num> <num> 正常
+0	某某 金融 流 贷 <tim> 试 乘 试驾 车 持续 滚动 <num> <num> <num>
+0	小计 <num> <num>
+0	某某 银行 北京 分行 银 承 <tim> 合格证 质押 <num> <num> <num> ( <num> ) <num> <num> 正常
+0	某某 银行 北京 分行 银 承 <tim> 合格证 质押 <num> <num> <num> ( <num> ) <num> <num> 正常
+0	小计 <num> <num>
+0	某某 银行 银 承 <tim> <num> <num> <num> <tim> ( <num> ) <num> <num> 正常
+0	某某 银行 银 承 <tim> <num> <num> <num> <num> ( <num> ) <num> <num>
+0	小计   <num> <num> <num> 正常
+0	合计 <num> <num> <num>
+1	根据 人行 征信 系统 查询 ,
+1	企业 对外 担保 为 <num> 元 ,
+1	企 实际 对外 担保 <num> 元 ,
+1	其中 <num> 元 对外 担保 实际 均 已 到期 ,
+1	人行 征信 系统 更新 不 及时 所致 。
+0	<num> 元 为 王 某某 在 某某 银行 个人 经营性 贷款 ,
+0	用于 某某 市 某某 贸易 有限 公司 经营 使用 ,
+0	后 追加 甲乙 丙丁 有限 公司 连带 责任 保证 ,
+0	授信 额度 增加 至 <num> 元 。

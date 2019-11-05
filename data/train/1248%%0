@@ -1,0 +1,90 @@
+0	" 财务 情况 ( 申请 人 提供 了 <tim> 、 <tim> 、 <tim> 年度 经 <org> 审计 出具 无 保留 意见 的 财务 报告 ,
+0	<tim> 报表 未 审计 ) 单位 : <num> 元
+1	科目 <tim> <tim> <tim> <num> 科目 变动 说明 ( <tim> 数据 为 基础 )
+0	货币 资金 <num> <num> <num> <num> 银行 结算 存款 人民币 <num> 元 ,
+0	保证金 为 人民币 <num> 元
+0	交易 性 金融 资产 <num> <num> <num>
+0	应收 票据 <num> <num> <tim>
+1	应收 账款 <num> <num> <num> <num> 应收 下游 客户 乙 <num> 有限 责任 公司 <num> 元 、 <org> 焦炭 货款 <num> 元 、 贵州 丙 <num> 股份 有限 公司 洗 精煤 货款 <num> 元 、 威宁 县 丙 <num> 有限 公司 洗 精煤 货款 <num> 元 、 其他 焦炭 、 生铁 、 煤 等 货款 <num> 元
+0	预付 账款 <num> <num> <num> <num> 预付 贵州 丙 <num> 股份 有限 公司 焦炭 货款 <num> 元 、 <org> 洗 精煤 货款 <num> 元 、 广西 丙 <num> 有限 公司 生铁 货款 <num> 元 、 其他 焦炭 、 生铁 、 煤 等 货款 <num> 元
+0	应收 股利 <num> <num> <num>
+0	应收 利息 <num> <num> <num>
+0	其他 应收款 <num> <num> <num> <num>
+0	存货 <num> <tim> <num> <tim> 存货 为 生铁 、 焦炭 ,
+0	该 批 生铁 、 焦炭 已 发运 至 乙 <num> 厂 内 ,
+0	但 由于 尚未 开具 发票 结算 完毕 ,
+0	故 尚 挂 在 存货 科目 。
+0	<num> 年 内 到期 的 非 流动 资产 <num> <num> <num>
+0	其他 流动 资产 <num> <num> <num>
+0	流动 资产 合计 <num> <num> <num> <num>
+0	长期 股权 投资 <num> <num> <num> <num> 投资 持有 <org> <num> 的 股权
+0	长期 应收款 <num> <num> <num>
+0	固定 资产 ( 净值 ) <num> <num> <num> <num>
+0	在 建 工程 <num> <num> <num>
+0	工程 物资 <num> <num> <num>
+0	无形 资产 <num> <num> <num>
+0	长 摊 待 摊 费用 <num> <num> <num> <num>
+0	其他 非 流动 资产 <num> <num> <num>
+0	非 流动 资产 合计 <num> <num> <num> <num>
+1	资产 总计 <num> <num> <num> <num>
+0	短期 借款 <num> <num> <num> <num> 其中 <org> <num> 元 、 我 行 <num> 元
+0	交易 性 金融 负债 <num> <num> <num>
+0	应付 票据 <num> <num> <num> <num> 在 <org> 以 <num> 保证金 方式 开立 的 银 承 ( 部分 已 转入 <num> 保证金 ) ,
+0	用于 支付 焦炭 、 生铁 款
+1	应付 账款 <num> <num> <num> <num>
+0	预 收 账款 <num> <num> <num>
+0	应付 职工 薪酬 <num> <num> <num>
+0	应交 税费 <num> <num> - <num> - <num>
+0	应付 利息 <num> <num> <num>
+0	应付 股利 <num> <num> <num>
+0	其他 应付款 <num> <num> <num> <num>
+0	<num> 年 内 到期 的 非 流动 负债 <num> <num> <num>
+0	其他 流动 负债 <num> <num> <num>
+0	流动 负债 合计 <num> <num> <num> <num>
+0	长期 借款 <num> <num> <num>
+0	应付 债券 <num> <num> <num>
+0	长期 应付款 <num> <num> <num>
+0	预计 负债 <num> <num> <num>
+0	递延 所得税 负债 <num> <num> <num>
+0	其他 非 流动 负债 <num> <num> <num>
+0	非 流动 负债 合计 <num> <num> <num>
+1	负债 合计 <num> <num> <num> <num>
+0	实收 资本 ( 或 股本 ) <num> <num> <num> <num>
+0	资本 公 积 <num> <num> <num>
+0	盈余 公 积 <num> <num> <num>
+0	未 分配 利润 <num> <num> <num> <num>
+0	归 属于 母 公司 所有者 权益 <num> <num> <num>
+0	少数 股东 权益 <num> <num> <num>
+0	所有者 权益 合计 <num> <num> <num> <num>
+0	营业 收入
+0	( 新版 会计 报表 填列 ) <num> <num> <num> <num>
+0	主营 业务 收入
+0	( 旧版 会计 报表 填列 )
+0	营业 成本
+0	( 新版 会计 报表 填列 ) <num> <num> <num> <num>
+0	主营 业务 成本
+0	( 旧版 会计 报表 填列 )
+0	销售 费用 <tim> <num> <num> <num>
+0	管理 费用 <num> <num> <num> <num>
+0	财务 费用 <tim> <tim> <tim> <tim>
+0	资产 减值 损失 <num> <num> <num>
+0	投资 净 收益 <num> <num> <num>
+0	营业 利润 <tim> <tim> <tim> <tim>
+0	加 : 营业 外 收入 <num> <num> <num>
+0	减 : 营业 外 支出 <num> <num> <num>
+0	利润 总额 <tim> <tim> <tim> <tim>
+0	减 : 所得税 <num> <num> <num> <num>
+1	净利润 <tim> <num> <num> <num>
+0	归 属于 母 公司 所有者 的 净利润 <num> <num> <num>
+0	少数 股东 损益 <num> <num> <num>
+0	经营 活动 现金 流入 小计 <num> <num> <num> <num>
+0	经营 活动 现金 流出 小计 <num> <tim> <num> <num>
+1	经营 活动 产生 的 现金 流量 净额 <num> - <num> - <num> - <tim>
+1	投资 活动 产生 的 现金 流量 净额 <num> <num> <num> <num>
+1	筹资 活动 产生 的 现金 流量 净额 - <num> <num> <tim> - <tim>
+0	现金 及 现金 等价物 净 增加 额 <num> - <num> - <tim> - <num>
+0	<tim> <tim> <tim> <num>
+1	资产 负债率 <num> <num> <num> <num>
+1	现金 流动 负债 比 <num> / /
+1	利息 保障 倍数 <num> <num> <num> <num>
+1	流动 比率 <num> <num> <num> <num>

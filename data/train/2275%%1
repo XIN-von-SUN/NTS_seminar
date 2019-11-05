@@ -1,0 +1,90 @@
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> xxxxxx <num> <num> 美元
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num> 港元
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> ‘ <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	<num> <org> <num> <num>
+0	( <num> ) 保证 人 资信 情况
+0	经 <org> 征信 系统 查询 ,
+0	截至 <tim> ,
+1	保证 人 未 结清 贷款 <num> 笔 ,
+1	合计 <num> 元 ,
+0	贸易 融资 <num> 元 ,
+0	银行 承兑 汇票 <num> ,
+0	gog <num> 元 ,
+0	信用证 <num> 元 ,
+1	状态 均 正常 ;
+1	对外 担保 <num> 笔 ,
+1	金额 合计 <num> 元 ,
+0	主要 是 保证 人 对 其 下属 子公司 向 集团 财务 公司 借款 提供 的 担保 。
+2	保证 人 无 逾期 、 无 欠 息 、 无 诉讼 、 无 违约 等 不良 信用 记录 ,
+2	资信 情况 良好 。
+1	我 行 信用 评级 为 a 级 。
+0	( <num> ) 主体 资格 情况
+0	保证 人 营业 执照 、 组织 机构 代码证 、 税务 登记证 、 开户 许可证 、 贷款卡 等 证照 均 已 办理 正常 年检 ,
+0	各项 证照 <per> 、 有效 、 合 规 ,
+2	具备 授信 的 主体 资格 。
+0	( <num> ) 保证 人 经营 情况
+0	保证 人 自 成立 以来 ,
+0	以 资本 经营 为 纽带 ,
+0	打造 以 航空 旅游 、 航空 运输 产业 为 支柱 产业 ,
+0	形成 多元 业态 的 运营 模式 。
+0	保证 人 经过 创业 阶段 、 品牌 创立 阶段 、 拓展 阶段 的 发展 ,
+0	在 各个 业务 板块 均 打造 了 其 所属 行业 的 优质 企业 。
+0	保证 人 已经 建立 了 以 航空 运输业 为 主体 ,
+0	向上 下游 产业 延伸 发展 的 产业 布局 ,
+0	形成 了 航空 运输 主业 定位 基础 ,
+0	特色 鲜明 的 多样化 企业 格局 。
+0	通过 资源 整合 和 资本 运作 ,
+0	也 形成 了 以 旅游 资源 为 核心 的 业务 体系 ,
+0	逐步 完成 了 从 旅行社 旅游 产品 供应 到 旅游 资源 运营 及 航空 产业 投资 的 蜕变 。
+0	近年 来 ,
+0	保证 人 不断 创新 商业 模式 ,
+0	搭建 旅游 产业链 服务 网络 ,
+0	打造 现代 旅游 新 经济 体 ,
+0	并 逐步 完善 内部 管理 。
+0	<tim> ,
+0	保证 人 制定 了 《 <org> 管理 细则 》 ,
+0	内容 重点 要求 其子 公司 之间 未经 允许 不得 进行 资金 拆借 ;

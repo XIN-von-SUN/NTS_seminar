@@ -1,0 +1,90 @@
+0	" <num> 、 申请 人 财务 情况
+0	损益表 单位 : <num> 元
+1	科目 <tim> <tim> <tim> <num>
+1	主营 收入 <num> <num> <num> <num>
+0	主营 利润 <num> <num> <num> <num>
+0	营业 利润 <tim> <tim> <tim> <tim>
+0	利润 总额 <tim> <tim> <tim> <tim>
+1	毛利率 <num> <num> <num> <num>
+0	营业 利润率 <num> <num> <num> <num>
+1	利润率 <num> <num> <num> <num>
+0	企业 专业 生产 空调 不同 规格 的 翅片管 ,
+0	自 <tim> 技改 投产 后 ,
+0	企业 销售 额度 、 产品 质量 、 及 利润率 均 有 不同 程度 提升 ,
+0	企业 对 产品 的 研发 取得 了 一定 程度 的 回报 。
+0	<tim> 销售 收入 呈 持续 增长 状态 ,
+0	截止 <tim> 销售 收入 <num> ,
+0	<tim> 销售 收入 达到 <num> 元 较 上年 同期 下降 <num> ,
+0	但 毛利率 达到 <num> ,
+0	较 <tim> 同期 上升 1.51 百分比 。
+0	销售 收入 变动 原因 :
+0	① 、 <tim> 的 原材料 价格 有所 浮动 ,
+0	原材料 价格 在 <num> 元 / 吨 左右 ,
+0	现 电解铜 价格 在 <num> 元 / 吨 左右 。
+0	导致 销售 收入 有 一定 的 下降 ,
+0	但 公司 盈利 主要 以 当期 原料 价格 附加 加工 费 结算 ,
+0	原材料 价格 的 波动 对 自身 盈利 影响 不大 。
+0	② 、 公司 <tim> 产销量 达 <num> 吨 ,
+0	<tim> <num> - <tim> 产销量 较 同期 略有 下降 ,
+0	降幅 约 在 <num> 左右 ,
+0	主要 原因 为 下游 商用 中央 空调 用量 下降 所致 ,
+0	其中 <per> 由于 去 库存 较 上年 同期 累计 下降 销售量 的 <num> 约 <num> 元 。
+0	截至 <tim> 末 ,
+0	申请 人 资产 总额 为 <num> 元 ,
+0	负债 总额 为 <num> 元 ,
+0	所有者 权益 为 <num> 元 ,
+0	资产 负债率 <num> ,
+0	流动 比 <num> ,
+0	速 动 比 <num> 。
+0	资产 负债表 单位 : <num> 元
+1	科   目 <num> <num> <num> <num>
+1	结构 资产 总额 <num> <num> <num> <num>
+1	净资产 <num> <num> <num> <num>
+0	实收 资本 <num> <num> <num> <num>
+0	资本 公 积 <num> <num> <num> <num>
+0	未 分配 利润 <num> <num> <num> <num>
+0	资产 类 流动 资产 <num> <num> <num> <num>
+0	货币 资金 <num> <num> <num> <num>
+1	应收 帐款 <num> <num> <num> <num>
+0	应收 票据 <tim> <num> <tim> <tim>
+0	预付 帐款 <tim> <num> <num>
+0	其他 应收款 <num> <num> <tim> <tim>
+0	存 货 <num> <num> <num> <num>
+0	长期 投资 <num> <num> <num> <num>
+0	在 建 工程 <num> <num> <num> <num>
+0	无形 资产 <tim> <tim> <tim> <tim>
+0	固定 资产 净值 <num> <num> <num> <num>
+1	负债 类 总 负债 <num> <num> <num> <num>
+0	流动 负债 <num> <num> <num> <num>
+0	短期 借款 <num> <num> <num> <num>
+0	应付 票据 <num> <num> <num> <num>
+1	应付 账款 <num> <num> <num> <num>
+0	预 收 帐款 <num> <num> <num>
+0	其他 应付款 <num> <num> <num>
+0	长期 借款 <num> <num> <num>
+1	财务 比率 <num> <num> <num> <num>
+1	资产 负债率 <num> <num> <num> <num>
+0	净资产 借款 率 <num> <num> <num> <num>
+0	资本 固定 化 率 <num> <num> <num> <num>
+1	流动 比率 <num> <num> <num> <num>
+1	速 动比率 <num> <num> <num> <num>
+1	应收 账款 周转 天数 <num> <num> <num> <num>
+0	存货 周转 天数 <num> <num> <num> <num>
+0	<tim> 的 主要 财务 情况 为 :
+0	<num> 、 货币 资金 <num> 元 ,
+0	其中 有 <num> 元 为 公司 <tim> 为 上市 引进 pe ,
+0	签订 了 对 赌 协议 ,
+0	引进 资金 <num> 元 ,
+0	但 至 <tim> 末 由于 上市 未 成功 ,
+0	pe 资金 退出 ,
+0	资金 成本 按 年息 <num> 计息 ,
+0	共计 <num> 元 。
+0	如 按 正确 的 会计 处理 需 进行 注册 资本 减 资 及 所有者 权益 减少 ,
+0	但 将 导致 公司 今后 无 上市 可能 ,
+0	为 保存 公司 上市 希望 ,
+0	公司 帐目 处理 直接 将 退出 pe 资金 计入 了 货币 资金 科目 ,
+0	实 为 无 该 笔 资金 ,
+0	其 余额 从 <tim> <tim> 未有 过 调整 。
+0	另外 <num> 元 实 为 企业 真实 银行 存款 资金 。
+0	<num> 、 应收 账款 <num> 元 ,
+0	主要 为 <per> ( 某某 ) 空调 冷冻 设备 有限 公司 <num> 元 ,

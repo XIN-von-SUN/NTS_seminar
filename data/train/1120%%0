@@ -1,0 +1,90 @@
+0	" 为 全面 了解 甲 经营 状况 ,
+0	现 从 甲 的 资产 负 债 结构 、 各项 财务 指标 、 偿债 能力 等 方面 对 其 财务 情况 进行 全面 分析 :
+0	截止 x 年末 ,
+1	甲 资产 合计 <num> ,
+1	<num> 元 ,
+1	负债 合计 <num> ,
+1	<num> 元 ,
+1	所有者 权益 合计 <num> 元 ,
+1	资产 负债率 为 <num> ,
+1	流动 比率 <num> ,
+1	速 动比率 <num> 。
+1	甲 资产 负债 结构 变动 简 表 单位 <num> 元
+1	年份 <tim> <tim> 增减 金额 年份 <tim> <tim> 增减 金额 、
+0	货币 资金 <num> <num> ,
+0	<num> - <num> ,
+0	<num> 短期 借款 <num> ,
+0	<num> ,
+0	<num> <num> ,
+0	<num> ,
+0	<num> <num> ,
+0	<num>
+0	交易 性 金融 资产 <num> <num> <num> 交易 性 金融 负债 <num> ,
+0	<num> <num> <num> ,
+0	<num>
+0	应收 票据 <num> <num> ,
+0	<num> - <num> ,
+0	<num> 应付 票据 <num> ,
+0	<num> <num> ,
+0	<num> <num> ,
+0	<num>
+1	应收 账款 <num> ,
+1	<num> <num> ,
+1	<num> - <num> 应付 账款 <num> ,
+1	<num> <num> - <num> <num>
+0	预付 款项 <num> <num> ,
+0	<num> - <num> 预收款 项 <num> ,
+0	<num> <num> ,
+0	<num> <num>
+0	应收 股利 <num> ,
+0	<num> <num> 应付 职工 薪酬 <num> ,
+0	<num> <num> ,
+0	<num> - <num>
+0	应收 利息 <num> <num> 应交 税费 <num> ,
+0	<num> <num> <num>
+0	其他 应收款 <num> ,
+0	<num> <num> <num> ,
+0	<num> 应付 股利 <num> ,
+0	<num> s ,
+0	<num> <num> ,
+0	<num>
+0	存货 <num> ,
+0	<num> <num> ,
+0	<num> <num> ,
+0	<num> 应付 利息 <num> ,
+0	<num> <num> <num> ,
+0	<num>
+0	<num> 年 肉 到期 的 非 流动 资产 <num> ,
+0	<num> <num> ,
+0	<num> - <num> 其他 应付款 <num> ,
+0	<num> <num> ,
+0	<num> <num> ,
+0	<num>
+0	其他 流动 资产 <num> ,
+0	<num> <num> ,
+0	<num> <num> <num> 年 内 到期 的 非 流动 负债 <num> ,
+0	<num> ,
+0	<num> <num> ,
+0	<num> <num> ,
+0	<num>
+0	流动 资产 合计 <num> ,
+0	<num> ,
+0	<num> <num> ,
+0	<num> - <num> ,
+0	<num> 其他 流动 负债 <num> ,
+0	<num> <num> ,
+0	<num> ,
+0	<num> <num>
+0	[ 长期 股权 投资 <num> ,
+0	<num> ,
+0	<num> <num> <num> ,
+0	<num> ,
+0	<num> 流动 负债 合计 <num> ,
+0	<num> ,
+0	<num> <num> ,
+0	<num> ,
+0	<num> <num> ,
+0	<num>
+0	i 固定 使 产 <num> ,
+0	<num> <num> ,
+0	<num> <num> ,

@@ -1,0 +1,55 @@
+1	" 截至 <tim> <num> 月 <tim> ,
+1	该 客户 共有 银行 融资 <num> <num> 元 ,
+0	其中 : 短期 借款 <num> <num> 元 ,
+0	长期 借款 <num> <num> 元 ;
+0	我 行 融资 <num> <num> 元 ;
+0	他 行 融资 <num>   <num> 元 。
+0	具体 融资 明细 如下 :
+0	授信 客户 最新 授信 情况 表
+0	单位 : <num> 元
+0	序号 借出 单位 或 银行 余额 借款 日 起始 时间 担保 方式
+0	<num> <org> <num> <num> <num> 土地 抵押
+0	<num> <org> <num> <num> <num> 土地 抵押
+0	<num> <org> <tim> <num> <num> 土地 抵押
+0	<num> <org> <num> <num> <num> 土地 抵押
+0	<num> <org> <num> <num> <num> 土地 抵押
+0	<num> <org> <num> <num> <num> 土地 抵押
+0	<num> <org> <num> <num> <num> 土地 抵押
+0	<num> <org> <num> <num> <num> 土地 抵押
+0	<num> <org> <num> <num> <num> 土地 抵押
+0	<num> <org> <num> <num> <num> 土地 抵押
+0	<num> <org> <num> <num> <num> 土地 抵押
+0	<num> <org> <num> <num> <num> 土地 抵押
+0	<num> <org> <num> <num> <num> 土地 抵押
+0	<num> <org> <num> <num> <num> 土地 抵押
+0	<num> <org> <num> <num> <num> 土地 抵押
+0	<num> <org> <num> <num> <num> 土地 抵押
+0	<num> <org> <num> <num> <num> 土地 抵押
+0	<num> <org> <num> <num> <num> 土地 抵押
+0	<num> <org> <num> <num> <num> 土地 抵押
+0	<num> <org> <num> <num> <num> 土地 抵押
+0	<num> <org> <num> <num> <num> 土地 抵押
+0	<num> <org> <num> <num> <num> 土地 抵押
+0	<num> <org> <num> <num> <num> 土地 抵押
+0	<num> <org> <tim> <num> <num> 土地 抵押
+0	<num> jj 农 商行 <num> <num> <num> 土地 抵押
+0	<num> jj 农 商行 <tim> <num> <num> 土地 抵押
+0	<num> <org> <num> <num> <num> 土地 抵押
+0	<num> <org> <num> <num> <num> 土地 抵押
+0	<num> <org> <num> <num> <num> 土地 抵押
+0	<num> 总 计 <num>
+1	截至 <tim> 年 <num> 月 <num> 日 ,
+1	借款 人 无 对外 担保 余额 ,
+1	无 不良 信用 记录 。
+1	<tim> 经 总行 第 <num> 次 总行 级 <num> 人 会商 会议 审议 ,
+1	同意 对 甲 市 张 <num> 区 土地 储备 中心 核定 综合 授信 <num> 元 ,
+1	用于 张 <num> 城区 金龟子 路 北侧 地块 项目 收储 ,
+1	根据 项目 进度 ,
+1	我 行 于 <tim> 首笔 发放 贷款 合计 <num> 元 ,
+1	宽限期 <num> 年 ,
+1	自 第 <num> 年 开始 每半年 还款 <num> 元 。
+0	项目 自筹 资本金 先于 贷款 到达 我 行 专户 并 投入 使用 。
+0	目前 该 地块 收储 进度 正常 ,
+0	项目 合法性 手续 <per> ,
+0	目前 拆迁 评估 、 拆迁 方案 已 基本 结束 并 公示 ,
+0	现 已 开始 着手 签订 拆迁 补偿 安置 协议 。

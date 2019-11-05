@@ -1,0 +1,90 @@
+0	" <num> 、 财务 情况
+1	<tim> ,
+1	申请 人 总资产 <num> ,
+1	<num> 元 ,
+1	总 负债 <num> ,
+1	<num> 元 ,
+1	所有者 权益 <num> ,
+1	<num> 元 。
+1	资产 负债率 <num> ,
+1	流动 比率 <num> ,
+1	速 动比率 <num> 。
+1	资产 负债表 ( 单位 : 元 ) :
+1	资 产 <num> <num> <num> 负债 和 所有者 权益 ( 或 股东 权益 ) <num> <num> <num> <num>
+0	流动 资产 : 流动 负债 :
+0	货币 资金 <num> ,
+0	<num> <num> ,
+0	<num> ,
+0	<num> <num> 短期 借款 <num> ,
+0	<num> ,
+0	<num> <num> <num> ,
+0	0c <num> ,
+0	<num> <num>
+0	应收 账款 <num> ,
+0	<num> <num> <num> ,
+0	<num> 应付 账款
+0	预付 款项 <num> ,
+0	<num> ,
+0	<num> <num> ,
+0	<num> 预收款 项 <num> <num> <num>
+0	其他 应收款 <num> ,
+0	<num> ,
+0	<num> <num> <num> ,
+0	<num> ,
+0	<num> 应付 职工 薪酬 <num> ,
+0	<num> <num> <num> <num>
+0	存货 <num> ,
+0	<num> ,
+0	<num> <num> <num> 应交 税费 <num> ,
+0	<num> <num> <num> <num> ,
+0	<num>
+0	其他 流动 资产 其他 应付款 <num> ,
+0	<num> <num> <num> <num>
+0	流动 资产 合
+0	计 <num> <num> <num> ,
+0	<num> <num> 其他 流动 负债
+0	非 流动 资产 : 流动 负债 合计 <num> ,
+0	<num> ,
+0	<num> <num> <num> <num> <num> <num>
+0	可供 出售 金融 资产 非 流动 负 偾 :
+0	长期 股权 投资 <num> ,
+0	g00 ,
+0	<num> <num> <num> 长期 应付款
+0	同 定 资产 原值 <num> ,
+0	<num> <num> <num> 预计 负债
+0	减 : 累计 折旧 <num> <num> <num> ,
+0	<num> <num> 递延 所得税 负债
+0	固定 资产 净值 <num> ,
+0	<num> <num> <num> 非 流动 负债
+0	合计 <num> <num>
+0	茌 建 工程 负债 合计 <num> ,
+0	<num> ,
+0	<num> <num> <num> <num> <num>
+0	固定 资产 清理 所有者 权益 ( 或 股东 权益 ) :
+0	无形 资产 实收 资本 ( 或 股本 ) <num> ,
+0	<num> ,
+0	<num> <num> <num> ,
+0	<num> ,
+0	<num> <num>
+0	幵 发 支出 资本 公 积
+0	递延 所得税 资产 未 分配 利润 <num> ,
+0	<num> <num> <num> <num> <num> <num>
+0	其他 非 流动 资
+0	产 所有者 权益 ( 或 股东 权益 ) 合计 <num> ,
+0	<num> ,
+0	<num> <num> <num> <num>
+1	资产 总计 <num> ,
+1	<num> ,
+1	<num> <num> <num> 负债 和 所有者 权益 ( 或 股东 权益 ) 总计 <num> ,
+0	<num> ,
+0	<num> <num> <num> <num>
+0	经 对 申请 人 <tim> 末 财务 报告 进行 分析 ,
+0	主要 需要 说明 的 项目 如下 :
+0	( <num> ) 资产 类 :
+0	<num> 、 流动 资产 : <num> ,
+0	<num> 元 ,
+0	占 总资产 的 <num> 。
+0	① 货币 资金 : <num> 元 ,
+0	占 流动 资产 的 <num> ,
+0	主要 为 银行 存款 和 现金 ;
+0	② 应收 帐款 : <num> 元 ,

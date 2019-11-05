@@ -1,0 +1,90 @@
+0	" 借款 人 财务 状况
+0	( <num> ) 借款 人 财务 简 表
+0	资产 负债 简 表 结构 和 对比
+1	项目 <tim> <tim> <tim>
+1	数值 ( <num> 元 ) <num> 数值 ( <num> 元 ) <num> 同 行业 比例 数值 ( <num> 元 ) <num> 同 行业 比例
+0	报表 口径 本部 本部 本部
+0	是否 已 审计 否 是
+0	审计 意见 无 保留 意见 无 保留 意见
+0	审计 事务所 名称 <org> <org>
+1	总资产 <num> <num> <num> <num> <num> <num>
+0	流动 资产 <num> <num> <num> <num> <num> <num> <num> <num>
+0	货币 资金 <num> <num> <num> <num> <num> <num> <num> <num>
+1	应收 帐款 <num> <num> <num> <num> <num> <num> <num> <num>
+0	其他 应收款 <num> <num> <num> <num> <num> <num> <num> <num>
+0	存货 <num> <num> <num> <num> <num> <num> <num> <num>
+0	长期 投资 <num> <num> <num> <num> <num> <num> <num> <num>
+0	固定 资产 净值 <num> <num> <num> <num> <num> <num> <num> <num>
+0	无形 资产 <num> <num> <num> <num> <num> <num> <num> <num>
+0	流动 负债 <num> <num> <num> <num> <num> <num> <num> <num>
+0	短期 借款 及 <num> 年 内 到期 的 长期 借款 <num> <num> <num> <num> <num> <num> <num> <num>
+0	应付 票据 <num> <num> <num> <num> <num> <num> <num> <num>
+1	应付 帐款 <num> <num> <num> <num> <num> <num> <num> <num>
+0	长期 借款 合计 <num> <num> <num> <num> <num> <num> <num> <num>
+0	所有者 权益 合计 <num> <num> <num> <num> <num> <num> <num> <num>
+0	实收 资本 <num> <num> <num> <num> <num> <num> <num> <num>
+0	未 分配 利润 和 盈余 公 积 <num> <num> <num> <num> <num> <num> <num> <num>
+0	损益表 结构 和 对比
+1	项目 <tim> <tim> <tim>
+1	数值 ( <num> 元 ) <num> 数值 ( <num> 元 ) <num> 同 行业 比例 数值 ( <num> 元 ) <num> 同 行业 比例
+1	主营 业务 收入 净额 <num> <num> <num> <num> <num> <num>
+0	主营 业务 成本 <num> <num> <num> <num> <num> <num> <num> <num>
+0	主营 业务 利润 <num> <num> <num> <num> <num> <num> <num> <num>
+0	营业 费用 <num> <num> <num> <num> <num> <num> <num> <num>
+0	管理 费用 <num> <num> <num> <num> <num> <num> <num> <num>
+0	财务 费用 <num> <num> <num> <num> <num> <num> <num> <num>
+0	营业 利润 <num> <num> <num> <num> <num> <num> <num> <num>
+0	利润 总额 <num> <num> <num> <num> <num> <num> <num> <num>
+1	净利润 <num> <num> <num> <num> <num> <num> <num> <num>
+0	( <num> ) 财务 分析 与 评价
+0	评价 报表 质量 ,
+0	对 占 比 <num> 以上 的 项目 进行 确认 、 说明 和 分析 变动 原因 。
+0	对 有关 经营 指标 、 还款 能力 指标 进行 总结 。
+0	必要 时 说明 反映 借款 人 还款 能力 与 意愿 的 非 财务 信息 。
+0	<num> 、 财务 报表 情况 :
+0	经 调查 ,
+0	该 公司 向 我 行 提供 的 <tim> 财务 报表 经 某某 会计师 事务所 有限 责任 公司 审计 ,
+0	<tim> 财务 报表 经 某某 会计师 事务所 审计 ,
+0	<tim> 审计 报告 由 某某 会计师 事务所 审计 ,
+0	上述 会计师 事务所 具备 企业 财务 审计 专业 资格 ,
+0	财务 审计 人员 均 持有 专业 资格 证书 ;
+0	在 行业 中 未 出现 不良 信誉 现象 ,
+0	均 出具 了 无 保留 意见 的 《 审计 报告 》 。
+0	<num> 、 资产 负债 重点 项目 分析 :
+1	<num> 、 <tim> 年末 资产 情况 :
+1	公司 总资产 <num> 元 ,
+1	基本 与 年初 保持 一致 。
+0	流动 资产 合计 <num> 元 ,
+0	占 比 <num> ,
+0	固定 资产 合计 <num> 元 ,
+0	较 年初 增加 <num> 元 ,
+0	主要 为 生产线 增加 。
+0	货币 资金 <num> 元 ,
+0	主要 为 银行 存款 。
+1	应收 账款 <num> 元 ,
+1	占 比 <num> ,
+1	较 年初 增加 <num> 元 。
+0	主要 客户 有 : 某某 有限 公司 <num> 元 ,
+0	某某 有限 公司 <num> 元 ,
+0	某某 有限 公司 <num> 元 ,
+0	某某 滤清器 厂 <num> 元 ,
+0	某某 滤清器 有限 公司 <num> 元 ,
+0	某某 集团 有限 公司 <num> 元 ,
+0	某某 有限 公司 <num> 元 ,
+0	某某 制造 有限 公司 <num> 元 ,
+0	某某 有限 公司 <num> 元 ,
+0	某某 有限 公司 <num> 元 ,
+0	上海 某某 <num> 元 ,
+0	某某 - 德国 <num> 元 ,
+0	某某 <num> - 埃及 <num> 元 ,
+0	某某 越南 <num> 元 ,
+0	某某 ltd <num> 元 ,
+0	某某 伊朗 <num> 元 。
+0	存货 <num> 元 ,
+0	较 年初 增加 <num> 元 ,
+0	占 比 <num> ,
+0	经 调查 ,
+0	公司 生产 用 原材料 纸浆 主要 为 进口 纸浆 ,
+0	公司 需要 部分 存货 来 应对 日常 生产 ,
+0	其中 原材料 <num> 元 。
+0	产 成品 <num> 元 ;

@@ -1,0 +1,43 @@
+0	" 贷款 资金 使用 情况
+1	序号 企业 名称 交易 时间 币种 借 贷 账户 余额 对方 户名 对方 账号 摘要
+0	<num> <org> <tim> 人民币 <num> <num> 上海 张 <num> 公司 超市 <org> <num> 物业 管理 费
+0	<num> <org> <tim> 人民币 <num> <num> 上海 张 <num> 公司 超市 <org> <num> 租赁 费
+0	<num> <org> <tim> 人民币 <num> <num> 同城 !
+0	<num> <org> <tim> 人民币 <num> <num> 同城 !
+0	<num> <org> <tim> 人民币 <num> <num> 结 息
+0	<num> <org> <tim> 人民币 <num> <num> 还 息 [ 借据 号 = <num> ]
+0	<num> <org> <tim> 人民币 <num> <num> 还 息 [ 借据 号 = <num> ]
+0	<num> <org> <tim> 人民币 <num> <num> 上海 张 <num> 公司 超市 <org> <num> 租赁 费
+0	<num> <org> <tim> 人民币 <num> <num> 上海 张 <num> 公司 超市 <org> <num> 物业 管理 费
+0	<num> <org> <tim> 人民币 <num> <num> 同城 !
+0	<num> <org> <tim> 人民币 <num> <num> 同城 !
+0	<num> <org> <tim> 人民币 <num> <num> 贷款 还款
+0	<num> <org> <tim> 人民币 <num> <num> 同城 !
+0	<num> <org> <tim> 人民币 <num> <num> 结 息
+0	<num> <org> <tim> 人民币 <num> <num> 还 息 [ 借据 号 = <num> ]
+0	<num> <org> <tim> 人民币 <num> <num> 还 息 [ 借据 号 = <num> ]
+0	<num> <org> <tim> 人民币 <num> <num> 上海 张 <num> 公司 超市 <org> <num> 物业 管理 费
+0	<num> <org> <tim> 人民币 <num> <num> 上海 张 <num> 公司 超市 <org> <num> 租赁 费
+0	<num> <org> <tim> 人民币 <num> <num> 同城 !
+0	<num> <org> <tim> 人民币 <num> <num> 同城 !
+0	<num> <org> <tim> 人民币 <num> <num> 结 息
+0	<num> <org> <tim> 人民币 <num> <num> 还 息 [ 借据 号 = <num> ]
+0	<num> <org> <tim> 人民币 <num> <num> 还 息 [ 借据 号 = <num> ]
+0	<num> <org> <tim> 人民币 <num> <num> 上海 张 <num> 公司 超市 <org> <num> 租赁 费
+0	<num> <org> <tim> 人民币 <num> <num> 上海 张 <num> 公司 超市 <org> <num> 房租
+0	<num> <org> <tim> 人民币 <num> <num> 同城 !
+0	<num> <org> <tim> 人民币 <num> <num> 同城 !
+0	<num> <org> <tim> 人民币 <num> <num> 贷款 还款 <num>
+0	<num> <org> <tim> 人民币 <num> <num> 张 <num> 公司 <num> 同城 !
+0	<num> <org> <tim> 人民币 <num> <num> 结 息
+0	<num> <org> <tim> 人民币 <num> <num> 还 息 [ 借据 号 = <num> ]
+0	<num> <org> <tim> 人民币 <num> <num> 还 息 [ 借据 号 = <num> ]
+0	<num> <org> <tim> 人民币 <num> <num> 上海 张 <num> 公司 超市 <org> <num> 物业 管理 费
+0	<num> <org> <tim> 人民币 <num> <num> 上海 张 <num> 公司 超市 <org> <num> 租赁 费
+0	<num> <org> <tim> 人民币 <num> <num> 收费
+0	<num> <org> <tim> 人民币 <num> <num> 收费
+0	<num> <org> <tim> 人民币 <num> <num> 张 <num> 公司 <num> 同城 !
+0	<num> 、 贷款 资金 使用 合 规 性 意见
+1	<num> 贷款 资金 使用 是否 <per> 原 规定 用途 ■ 是 □ 否 □ 部分 不 <per> 金额 <num> ( 单位 : <num> 元 )
+1	<num> 不 <per> 原因
+1	<num> 对 我 行 贷款 本息 按期 偿还 影响

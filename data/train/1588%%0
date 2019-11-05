@@ -1,0 +1,90 @@
+0	" <num> 、 财务 分析 ( 报表 单位 : <num> 元 )
+0	以下 分析 所 选取 的 <tim> 年报 、 <tim> 年报 、 <tim> 半年报 、 <tim> 半年报 财务 报表 未经 会计师 事务所 审计 ,
+0	<tim> 年年 报经 <org> 审计 ,
+0	已 出具 陵 诚 ( <tim> ) 第 <num> 号 无 保留 意见 审计 报告 。
+0	( <num> ) 损益 分析
+1	科目 <num> <num> f ' <num> f ' <num> <num>
+1	主营 业务 收入 <num> <num> <num> <num> <num> <num> <num>
+0	主营 业务 成本 <num> <num> <num> <num> - <num> <num> <num>
+0	主营 业务 税金 及 附加 <num> <num> - <num> <num> <num> <num>
+0	主营 业务 利润 <tim> <tim> <num> <tim> <num> <num> <num>
+0	销售 费用 <num> <num> <num> <num> <num> <num> <num>
+0	管理 费用 <num> <num> <num> <num> <num> <num> <num>
+0	财务 费用 <num> <num> <num> <num> <num> <num> <num>
+0	营业 利润 <num> <num> <num> <num> <num> <num> <num>
+0	利润 总额 <num> <num> <num> <num> <num> <num> <num>
+0	所得税 费用     # div / <num> !
+0	# div / <num> !
+0	# div / <num> !
+1	净利润 <num> <num> <num> <num> <num> <num> <num>
+0	净利润 <num> <num> <num> <num> <num> <num> <num>
+1	毛利率 <num> <num> - <num> <num> <num> <num> <num>
+1	营业 利润率 <num> <num> - <num> <num> <num> <num> <num>
+1	销售 利润率 <num> <num> - <num> <num> <num> <num> <num>
+1	净 利率 <num> <num> - <num> <num> <num> <num> <num>
+2	公司 <tim> 的 总体 销售 情况 良好 ,
+2	呈 小幅 增长 趋势 ,
+1	销售 收入 分别 为 <num> 元 、 <num> 元 、 <num> 元 。
+0	在 公司 发展 进入 一定 规模 后 ,
+0	公司 调整 战略 向 多元化 <per> 发展 ,
+0	引进 多 种 先进 纺织 设备 ,
+0	通过 <org> 的 订单 接洽 及 统筹 管理 ,
+0	目前 公司 已 有 自主 家纺 品牌 及 代理 品牌 ,
+0	以 直营店 、 酒店 订单 、 商场 超市 品牌 入驻 、 外销 <num> 块 领域 来 涵盖 销售 收入 。
+0	<tim> <num> - <tim> 公司 销售 收入 <num> 元 ,
+0	较 <tim> 同期 减少 <num> 元 ,
+0	下降 <num> ,
+0	主要 原因 是 外销 降幅 大于 内销 增幅 。
+0	而 外销 下降 的 原因 是 国外 加大 对 东南亚 家纺 产品 的 采购 量 ,
+0	当地 廉价 劳动力 使得 其 成本 较 低 、 产品 市场 竞争力 较强 。
+0	经 审验 ,
+0	公司 增值税 纳税 申报表 反映 开票 销售 金额 与 财报 一致 。
+0	公司 <tim> <tim> 耗电量 为 <num> 度 ,
+0	较 <tim> 同期 下降 <num> ,
+0	基本 与 <tim> 的 销售 匹配 。
+0	公司 外销 和 内销 比例 基本 维持 在 <num> : <num> ,
+0	其中 外销 中 ,
+0	通过 上海 某 接 单 <num> - <num> ,
+0	借款 人 自主 接 单 <num> - <num> 。
+0	<tim> 以来 ,
+0	借款 人 老客户 的 订单 量 有所 减少 ( 因 收款 期 原因 主动 放弃 <num> 部分 ) ,
+0	而 有 新 客户 进行 补充 ,
+0	如 <per> 、 cocos 等 ,
+0	新 客户 业务量 正 逐步 增加 。
+0	预计 <tim> 全年 销售 较 <tim> 基本 持平 。
+0	据 财报 反映 ,
+0	公司 <tim> 毛利率 和 净 利率 分别 为 <num> 和 <num> ,
+0	较 <tim> 和 整个 <tim> 变动 较小 ( 在 <num> 之 内 ) ,
+0	内销 毛利 较 外销 为 高 。
+0	因 大部分 外销 通过 上海 某 ,
+0	故 借款 人 整体 盈利 水平 基本 处于 同 行业 平均 水平 。
+0	( <num> ) 资产 负债 分析
+1	科目 <num> <num> f ' <num> f ' <num> <num>
+1	资产 总额 <num> <num> <num> <num> <num> <num> <num>
+1	净资产 <num> <num> <num> <num> <num> <num> <num>
+0	实收 资本 <tim> <tim> <num> <tim> <num> <tim> <tim>
+0	未 分配 利润 <num> <num> <num> <num> <num> <num> <num>
+1	总资产 <num> <num> <num> <num> <num> <num> <num>
+0	流动 资产 <num> <num> <num> <num> <num> <num> <num>
+0	货币 资金 <tim> <num> - <num> <tim> <num> <num> <tim>
+0	交易 性 金融 资产 <num> <num> <num>   - <num>
+0	应收 票据     # div / <num> !
+0	# div / <num> !
+0	# div / <num> !
+1	应收 账款 <tim> <tim> <num> <tim> <num> <num> <tim>
+0	预付 款项 <num> <num> <num> <num> <num> <num> <num>
+0	其他 应收款 <num> <tim> <num> <tim> - <num> <tim> <tim>
+0	存货 <tim> <tim> <num> <tim> <num> <num> <tim>
+0	<num> 年 内 到期 的 非 流动 资产 <num> <num> - <num>   - <num>  
+0	非 流动 资产 <tim> <tim> - <num> <tim> <num> <tim> <tim>
+0	固定 资产 <tim> <tim> <num> <tim> <num> <tim> <tim>
+0	累计 折旧 <num> <num> <num> <num> <num> <num> <num>
+0	固定 资产 净值 <tim> <tim> - <num> <tim> - <num> <num> <tim>
+0	在 建 工程 <num> <num> <num> <num> <num> <num> <num>
+0	无形 资产 <num> <num> - <num> <num> - <num> <num> <num>
+0	递延 所得税 资产 <num> <num> - <num> <num> <num> <num> <num>
+1	总 负债 <num> <num> <num> <num> <num> <num> <num>
+0	流动 负债 <num> <num> <num> <num> <num> <num> <num>
+0	短期 借款 <tim> <tim> <num> <num> <num> <num> <num>
+0	应付 票据 <num> <num> - <num> <num> <num> <num> <num>
+1	应付 账款 <tim> <tim> - <num> <tim> <num> <tim> <tim>

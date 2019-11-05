@@ -1,0 +1,25 @@
+0	" <num> 、 财务 情况 : 须 与 crms 数据 相符 ( 单位 : <num> 元 )
+0	( 首 贷 客户 须 填写 <tim> 及 即期 财务 数据 。
+0	存量 续借 、 单 户 授信 敞口 <num> 元 ( 含 ) 以下 的 ,
+0	可 只 填写 上 年度 及 即期 财务 数据 )
+1	项目 <tim> <tim> <tim> 即期 ( <num> 月 ) 项目 <tim> <tim> <tim> 即期 ( <num> 月 )
+1	总资产 <num> <num> <num> <num> 净资产 <num> <num> <num> <num>
+0	流动 资产 <num> <num> <num> <num> 流动 负债 <num> <num> <num> <num>
+0	货币 资金 <num> <num> <num> <num> 短期 负债 <num> <num> <num> <num>
+1	应收 账款 <tim> <num> <num> <num> 应付 账款 <num> <num> <num>
+0	预付 账款 <num> <num> <num> <num> 预 收 账款 <num> <num> <num>
+0	其他 应收款 <tim> <tim> <tim> <num> 其他 应付款 <num> <num> <num> <num>
+0	存货 <tim> <tim> <tim> <tim>
+1	销售 收入 <num> <num> <num> <num> 资产 负债率 <num> <num> <num> <num>
+1	销售 利润率 <num> <num> <num> <num> 流动 比率 <num> <num> <num> <num>
+1	毛利率 <num> <num> <num> <num> 速 动比率 <num> <num> <num> <num>
+0	大额 ( 占 总资产 比 <num> 以上 ) 及 异常 变动 科目 说明 <num> 货币 资金 <num> 元 ,
+0	主要 是 银票 保证金 ;
+0	<num> 应收 账款 <num> 元 ,
+0	主要 是 <num> <num> 公司 <num> 元 、 <num> 元 、 <num> 元 、 <num> 元 、 <num> 元 ,
+0	<num> 元 ,
+0	<num> 元 ;
+0	<num> 其他 应收款 <num> 元 主要 是 甲 <num> 元 、 乙 <num> 元 、 丙 <num> 元 、 丁 <num> 元 、 戊 <num> 元 、 戌 <num> 元 、 戍 <num> 元 、 己 <num> 元 、 庚 <num> 元 、 新 <num> 元
+0	<num> 存货 <num> 元 ,
+0	主要 是 张 <num> 元 、 <per> 130 万 元 、 <per> 445 万 元 、 赵六 297 万 元 、 张 <num> 元 、 李 <num> 元 、 王 <num> 元 。
+0	<num> 短期 负债 及 应付 票据 详情 见 融资 明细表

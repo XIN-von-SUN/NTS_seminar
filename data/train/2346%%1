@@ -1,0 +1,90 @@
+0	根据 借款 人 提供 报表 显示 ,
+0	<tim> 借款 人 的 营业 收入 为 <num> 元 ,
+0	<org> 的 营业 收入 为 <num> 元 ,
+0	<num> 者 合计 <num> 元 。
+0	其中 办公楼 租金 <num> 元 ,
+0	商场 租金 收入 <num> 元 ,
+0	房产 销售 收入 <num> 元 。
+0	张 <num> 港 商场 部分 包括 地上 <num> 层 、 地下 <num> 层 ,
+0	可供 用于 出租 的 面积 超过 <num> 平米 。
+0	从 业态 来 看 ,
+0	餐饮 类 商户 的 平均 租金 单价 在 <num> 元 / 天 / 平米 ( 不 含 物业费 ) ;
+0	护肤品 类 <num> 元 / 天 / 平米 ( 不 含 物业费 ) ;
+0	亲子 类 <num> 元 / 天 / 平米 ( 不 含 物业费 ) ;
+0	大型 超市 <num> 元 / 天 / 平米 ( 不 含 物业费 ) ;
+0	电影院 采取 固定 租金 加 净 票房 收入 提成 <num> 的 方式 ,
+0	首 年 固定 租金 <num> 每 <num> 年 增长 <num> ;
+0	快 时尚 服饰 类 以 h & m 为 例 ,
+0	每月 的 预付 租金 为 上 <num> 年 营业额 租金 月 平均值 的 <num> 。
+0	本次 测算 以 <tim> 商场 收入 <num> 元 估算 ( 低于 <tim> 实际 收入 ) ,
+0	自 <tim> 至 <tim> 每 隔 两年 上浮 <num> 的 比例 ,
+0	商场 预计 可 产生 租金 收入 共计 <num> 元 。
+0	张 <num> 楼 的 办公楼 面积 <num> 平米 ,
+0	目前 的 出租 比例 达到 了 <num> 以上 。
+0	本次 测算 以 <tim> 办公楼 收入 <num> 元 估算 ( 与 <tim> 实际 收入 基本 相同 ,
+0	且 出租率 未来 仍 有 提升 空间 ) ,
+0	按照 每 <num> 年 上浮 <num> 的 租金 浮动 比例 ,
+0	预计 <tim> 至 <tim> 可 产生 租金 收入 共计 <num> 元 。
+0	张 <num> 楼 还有 <num> 平米 可供 出售 ,
+0	本次 估算 收入 时 价格 为 <num> 元 / 平米 ,
+0	预计 销售 收入 为 <num> 元 。
+0	以上 <num> 项 合计 ,
+1	<tim> - <tim> 的 营业 收入 将 可以 达到 <num> 元 。
+0	五星级 酒店 虽 将 于 <tim> 开业 ,
+0	但 其 收入 目前 难以 准确 估算 ,
+0	故 本次 预估 中 未 予 考虑 。
+0	( <num> ) 预测 利润表 :
+0	第 <num> 年 <num> 年 <num> 年 <num> 年 <num> 年 <num> 年 <num> 年
+0	<num> 、 主营 业务 收入 <num> <num> <tim> <num> <num> <num> <num>
+0	销售 税金 及 附加 <num> <num> <num> <num> <num> <num> <num>
+0	营业 费用 <tim> <tim> <tim> <num> <num> <num> <num>
+0	房产税 <num> <num> <num> <num> <num> <num> <num>
+0	折旧 <num> <num> <num> <num> <num> <num> <num>
+0	财务 费 <num> <num> <num> <num> <num> <tim> <num>
+0	期初 余额 <num>
+0	还款 金额 <num> <num> <num> <num> <num> <num> <num>
+0	期末 余额 <num> <num> <num> <num> <num> <num> <num>
+0	<num> 、 营业 利润
+0	<num> 、 利润 总额 <num> <num> <num> <num> <num> <num> <num>
+0	减 : 所得税 ( <num> ) <num> <num> <num> <num> <num> <tim> <num>
+0	<num> 、 净利润 <num> <num> <num> <tim> <num> <num> <num>
+0	第 <num> 年 <num> 年 <tim> <tim> <tim> 合计
+0	<num> 、 主营 业务 收入 <num> <num> <num> <num> <num> <num>
+0	租金 收入
+0	减 : 业务 总 成本
+0	销售 税金 及 附加 <num> <num> <num> <num> <num> <num>
+0	营业 费用 <num> <tim> <num> <num> <tim> <num>
+0	房产税 <num> <num> <num> <num> <num> <num>
+0	折旧 <num> <num> <num> <num> <num> <num>
+0	财务 费 <num> <num> <num> <num> <num> <num>
+0	期初 余额
+0	还款 金额 <num> <num> <num> <num> <num> <num>
+0	期末 余额 <num> <num> <num> <num>
+0	<num> 、 营业 利润
+0	<num> 、 利润 总额 <num> <num> <num> <num> <num> <num>
+0	减 : 所得税 ( <num> ) <num> <num> <tim> <num> <num> <num>
+0	<num> 、 净利润 <num> <num> <num> <num> <num> <num>
+0	( <num> ) 预测 现金流 量表 :
+0	第 <num> 年 <num> 年 <num> 年 <num> 年 <num> 年 <num> 年 <num> 年
+0	现金 流入 <num> <num> <tim> <num> <num> <num> <num>
+0	现金 流出 <num> <num> <num> <num> <num> <num> <num>
+0	营业 费用 <tim> <tim> <tim> <num> <num> <num> <num>
+0	房地产 税 <num> <num> <num> <num> <num> <num> <num>
+0	财务 费用 <num> <num> <num> <num> <num> <tim> <num>
+0	营业税 及 附加 <num> <num> <num> <num> <num> <num> <num>
+0	所得税 <num> <num> <num> <num> <num> <tim> <num>
+0	净 现金流 <num> <num> <num> <num> <num> <num> <num>
+0	期初 现金 余额 <num> <num> <num> <num> <num> <num>
+0	归还 股东 借款
+0	归还 银行 借款 <num> <num> <num> <num> <num> <num> <num>
+0	期末 现金 余额 <num> <num> <num> <num> <num> <num> <num>
+0	第 <num> 年 <num> 年 <tim> <tim> <tim> 合计
+0	现金 流入 <num> <num> <num> <num> <num> <num>
+0	其他 收入 <num> <num>
+0	现金 流出 <num> <num> <num> <num> <num> <num>
+0	营业 费用 <num> <tim> <num> <num> <tim> <num>
+0	房产税 <num> <num> <num> <num> <num> <num>
+0	财务 费用 <num> <num> <num> <num> <num> <num>
+0	营业税 及 附加 <num> <num> <num> <num> <num> <num>
+0	所得税 <num> <num> <tim> <num> <num> <num>
+0	净 现金流 <num> <num> <num> <num> <num> <num>

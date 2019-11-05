@@ -1,0 +1,14 @@
+0	<num> 工业 用地 出让 金额
+0	( <num> 元 ) ( <num> ) = ( <num> ) * ( <num> ) <num> <num> <num> <num> <num> <num> <num>
+0	<num> 工业区 实 得 收入 按 出让金 <num> 计算 ( <num> 元 ) ( <num> ) = ( <num> ) * <num> <num> <num> <num> <num> <num> <num> <num>
+0	<num> 配套 费 收入 <num> <num> <num> <num> <num> <num> <num>
+0	<num> 收入 合计 式 ( <num> ) = ( ( <num> ) + ( <num> ) <num> <num> <num> <num> <num> <num> <num>
+0	偿债 测算 表
+0	单位 : <num> 元
+0	项目 建设 期 运行 期
+0	借款 <num> <num> <num> <num>
+0	期初 借款 金额 <num> <num> <num> <num> <num>
+0	当期 还本 付息 <num> <num> <tim> <tim> <num>
+0	其中 : 还本 <num> <num> <tim> <tim> <num>
+0	付息 <num> <num> <num> <num> <num>
+0	期末 借款 金额 <num> <num> <num> <num>

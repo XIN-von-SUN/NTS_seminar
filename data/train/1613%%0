@@ -1,0 +1,90 @@
+0	" 损益表 单位 : <num> 元
+1	科目 <tim> <tim> 增长率 <tim> 增长率 <num>
+1	主营 收入 <num> <num> <num> <num> <num> <num>
+0	主营 利润 <num> <num> - <num> <num> - <num> <num>
+0	营业 利润 <num> <num> - <num> <num> - <num> <tim>
+0	利润 总额 <num> <num> - <num> <num> - <num> <tim>
+1	净利润 <num> <num> - <num> <num> - <num> <tim>
+1	毛利率 <num> <num> - <num> <num> - <num> <num>
+1	营业 利润率 <num> <num> - <num> <num> - <num> <num>
+1	利润率 <num> <num> - <num> <num> - <num> <num>
+1	净利润率 <num> <num> - <num> <num> - <num> <num>
+2	从 经营 情况 看 ,
+2	<tim> 实现 销售 收入 <num> 元 ,
+2	较 上 年度 增长 <num> ;
+2	<tim> 实现 销售 收入 <num> 元 ,
+2	营业 利润 <num> 元 ,
+2	<tim> 预计 销售 能 达到 <num> 元 。
+0	<tim> 销售 收入 较 上年 增长 的 主要 原因 是 <tim> 年度 公司 企业 经营 的 策略 改善 : <num> ) 公司 建立 强强 合作 的 供应商 队伍 ,
+0	重视 供需 关系 管理 希望 能 获取 更 优 的 价格 。
+0	<num> ) 公司 大力 发展 电商 平台 的 作用 ,
+0	刺激 销售 ,
+0	加强 现有 库存 的 消化 。
+0	仅 <tim> 通过 电商 途径 进行 的 销售 达 <num> 元 ,
+0	占 总 销售 的 <num> ,
+0	可见 电商 销售 模式 的 开拓 ,
+0	有效 的 提高 了 公司 的 销售 收入 ,
+0	预计 <tim> 通过 电商 途径 的 销售 占 比达 <num> 左右 。
+0	<tim> 企业 销售 收入 <num> 元 ,
+0	与 同期 相比 下降 <num> ,
+0	主要 原因 为 <num> : ( <num> ) <tim> 甲 公司 主要 通过 把 库存 中 老款 羽绒服 通过 打折 和 降价 等 方式 倾销 出去 ,
+0	销售量 与 <tim> 基本 持平 ,
+0	但是 单价 的 降低 ,
+0	导致 <tim> 的 销售 收入 较 <tim> 有所 下滑 ;
+0	( <num> ) 受 行业 大 环境 的 影响 ,
+0	<tim> 同 行业 <tim> 甲 主营 业务 收入 来源 为 羽绒服 和 男装 的 销售 ,
+0	<tim> 集团 经过 内部 调整 ,
+0	原 甲 的 男装 部分 销售 收入 纳入 己 甲 品牌 运营 股份 有限 公司 ,
+0	甲 公司 只 体现 了 羽绒服 销售 情况 。
+0	公司 <tim> 的 毛利率 达 <num> ,
+0	与 去 倹 ? ? ? ? 同期 相比 持平 ,
+0	说明 企业 的 产品 在 同业 中 还是 有 较强 的 竞争力 。
+0	由于 企业 目前 库存 压力 较 大 ,
+0	存货 周转 速度 较 慢 ,
+0	公司 目前 大量 依靠 银行 融资 和 资本 积累 进行 公司 的 发展 ,
+0	导致 公司 的 财务 费用 逐年 提高 ,
+0	降低 了 公司 的 净利润率 。
+0	公司 已 正在 逐步 改善 原有 的 经营 理念 ,
+0	公司 通过 与 国际 知名 公司 的 合作 ,
+0	引进 新技术 ,
+0	开发 更多 适销 对路 的 产品 ,
+0	满足 大众 需求 。
+1	截至 <tim> 末 ,
+1	申请 人 资产 总额 为 <num> 元 ,
+1	负债 总额 为 <num> 元 ,
+1	所有者 权益 为 <num> 元 ,
+1	资产 负债率 <num> ,
+1	流动 比 <num> ,
+1	速 动 比 <num> 。
+0	资产 负债表 单位 : <num> 元
+1	科   目 <num> <num> <num> <num>
+1	结构 资产 总额 <num> <num> <num> <num>
+1	净资产 <num> <num> <num> <num>
+0	实收 资本 <num> <num> <num> <num>
+0	资本 公 积 <num> <num> <num> <num>
+0	未 分配 利润 <num> <num> <num> <num>
+0	资产 类 流动 资产 <num> <num> <num> <num>
+0	货币 资金 <num> <num> <num> <num>
+0	短期 投资 <num> <num> <num>
+1	应收 帐款 <num> <num> <num> <num>
+0	应收 票据 <tim> <num> <num>
+0	预付 帐款 <num> <num> <num>
+0	其他 应收款 <num> <num> <num> <num>
+0	存 货 <num> <num> <num> <num>
+0	长期 投资 <num> <num> <num> <num>
+0	固定 资产 <num> <num> <num> <num>
+0	在 建 工程 <num> <num> <num> <num>
+0	无形 资产 <num> <num> <num> <num>
+1	负债 类 总 负债 <num> <num> <num> <num>
+0	流动 负债 <num> <num> <num> <num>
+0	短期 借款 <num> <num> <num> <num>
+0	应付 票据 <num> <num> <num> <num>
+1	应付 账款 <num> <num> <num> <num>
+0	预 收 帐款 <num> <num> <num>
+0	其他 应付款 <tim> <num> <num> <num>
+0	长期 借款 <num> <num> <num>
+1	财务 比率 <num> <num> <num> <num>
+1	资产 负债率 <num> <num> <num> <num>
+1	净资产 借款 率 <num> <num> <num> <num>
+0	资本 固定 化 率 <num> <num> <num> <num>
+1	流动 比率 <num> <num> <num> <num>

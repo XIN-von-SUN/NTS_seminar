@@ -1,0 +1,90 @@
+0	<num> <num> - <num> <num> 抵押
+0	<num> <num> - <num> <num> 保证
+0	<num> <num> - <num> <num> 保证
+0	<num> <num> - <num> <num> 抵押
+0	小 计 <num>
+0	某某 行 支行 <num> <num> - <num> <num> 抵押
+0	<num> <num> - <num> <num> 抵押
+0	小 计 <num>
+0	某某 银行 某某 市民 中心 支行 <num> <num> - <num> <num> 质押
+0	<num> <num> - <num> <num> 质押
+0	小 计 <num>
+0	<org> <num> <num> - <num> <num> 保证 <per> 九 保证
+0	<num> <num> - <num> <num> 保证 <per> 九 保证
+0	小 计 <num>
+0	某某 信托 股份 有限 公司 <num> <num> - <num> <num> 信用
+0	小 计 <num>
+0	某某 信托 股份 有限 公司 <num> <num> - <num> <num> 信用
+0	<num> <num> - <num> <num> 信用
+0	小 计 <num>
+0	某某 银行 某某 分行 <num> <num> - <num> <num> 保证 <per> 九 保证
+0	<num> <num> - <num> <num> 信用
+0	小 计 <num>
+0	某某 资本 管理 有限 公司 <num> <num> - <num> <num> 信用
+0	<num> <num> - <num> <num> 信用
+0	小 计 <num>
+0	某某 <org>
+0	<num> <num> - <num> <num> 质押 张 <num> 有限 持有 的 某某 银行 股票 质押
+0	小 计 <num>
+0	某某 证券 有限 责任 公司 <num> <num> - <num> <num> 信用
+0	某某 张 <num> 有限 公司 <num> <num> - <num> <num> 质押
+0	某某 行 某某 北路 支行 <num> <num> - <num> <num> 信用
+0	<org> <num> <num> - <num> <num> 信用
+0	某某 银行 某某 分行 <num> <num> - <num> <num> 信用
+0	某某 银行 <num> <num> - <num> <num> 信用
+0	小 计 <num>
+0	长 短期 借款 合计 <num>
+0	授信 客户 最新 授信 情况 表 ( 短期 借款 )
+0	单位 : <num> 元 、 <num>
+0	银行 名称 借款 金额 借款 期限 利率 担保 方式 备注
+0	某某 银行 支行 <num> <num> - <num> <num> 质押 、 抵押 涉及 的 贵金属 业务 品种
+0	<num> <num> - <num> <num> 质押 、 抵押 涉及 的 贵金属 业务 品种
+0	<num> <num> - <num> <num> 质押 、 抵押 涉及 的 贵金属 业务 品种
+0	<num> <num> - <num> <num> 质押 、 抵押 涉及 的 贵金属 业务 品种
+0	<num> <num> - <num> <num> 质押 、 抵押 涉及 的 贵金属 业务 品种
+0	<num> <num> - <num> <num> 保证 涉及 的 贵金属 业务 品种
+0	<num> <num> - <num> <num> 质押 、 抵押 涉及 的 贵金属 业务 品种
+0	<num> <num> - <num> <num> 质押 、 抵押 涉及 的 贵金属 业务 品种
+0	<num> <num> - <num> <num> 质押 、 抵押 涉及 的 贵金属 业务 品种
+0	小 计 <num>
+0	某某 银行 某某 分行 <num> <num> - <num> <num> 质押 存单 质押
+0	小 计 <num>
+0	某某 银行 某某 支行 <num> <num> - <num> <num> 质押 股票 质押
+0	<num> <num> - <num> <num> 质押 存单 质押
+0	<num> <num> - <num> <num> 保证 首开 互 保
+0	小 计 <num>
+0	某某 银行 某某 分行 <num> <num> - <num> <num> 质押 存单 质押
+0	<num> <num> - <num> <num> 信用
+0	小 计 <num>
+0	某某 银行 某某 分行 <num> <num> - <num> <num> 保证 首开 互 保
+0	<num> <num> - <num> <num> 保证 首开 互 保
+0	<num> <num> - <num> <num> 质押 存单 质押
+0	小 计 <num>
+0	某某 银行 <num> <num> - <num> <num> 质押 存单 质押
+0	<num> <num> - <num> <num> 信用
+0	小 计 <num>
+0	某某 银行 某某 中心 支行 <num> <num> - <num> <num> 信用
+0	<num> <num> - <num> <num> 信用
+0	小 计 <num>
+0	某某 银行 支行 <num> <num> - <num> <num> 信用
+0	<num> <num> - <num> <num> 保证 首开 互 保
+0	<num> <num> - <num> <num> 质押 存单 质押
+0	小 计 <num>
+0	某某 银行 某某 分行 <num> <num> - <num> <num> 质押 存单 质押
+0	<org> <num> <num> - <num> <num> 信用
+0	某某 银行 某某 支行 <num> <num> - <num> <num> 保证 首开 互 保
+0	某某 银行 某某 园 支行 <num> <num> - <num> <num> 信用
+0	某某 银行 支行 <num> <num> - <num> <num> 信用
+0	某某 有限 公司 <num> <num> - <num> <num> 质押 存单 质押 ( 我 行 存单 )
+0	某某 证券 <num> <num> - <num> <num> 质押 存单 质押
+0	某某 张 <num> 有限 责任 公司 <num> <num> - <num> <num> 信用
+0	某某 信托 股份 有限 公司 <num> <num> - <num> <num> 信用
+0	某某 信托 <num> <num> - <num> <num> 信用
+0	<org> <num> <num> - <num> <num> 信用
+0	某某 行 总行 营业部 <num> <num> - <num> <num> 抵押
+0	合 计 <num>
+0	截至 <tim> ,
+0	借款 人 共有 对外 担保 <num> 元 ,
+0	并 列出 明细 情况 ,
+0	如 有为 <per> 担保 需 特别 说明 。
+0	详细 对外 担保 情况 请 见 贷款卡 查询 明细 。

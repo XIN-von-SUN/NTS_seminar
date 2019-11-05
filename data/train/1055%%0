@@ -1,0 +1,90 @@
+0	" ( <num> ) 报表 采用 说明
+0	申请 人 已 向 我 行 提供 经 审计 的 合并 财务 报表 ,
+0	充分 体现 申请 人 的 财务 状况 。
+0	( 合并 范围 : 甲乙 丙丁 公司 、 某 市 进出口 有限 公司 、 丑 <num> 仓储 有限 责任 公司 、 某 市 <org> 、 某 食用油 有限 公司 。
+0	( <num> ) 财务 报表 科目 列 示
+0	<num> 资产 负债表 ( 单位 : <num> 元 )
+1	科目 集团 本部 说明
+1	<tim> 期 <tim> 期 <tim> 期 <tim> 期 <tim> 期 <tim> 期 <num>
+1	资产 总额 <num> <num> <num> <num> <num> <num> <num> 企业 经营 情况 良好 ,
+1	所以 资产 总额 逐年 增加 。
+0	流动 资产 合计 <num> <num> <num> <tim> <num> <num> <num>
+0	货币 资金 <tim> <num> <num> <tim> <num> <tim> <tim> 大部分 为 银行 存款
+0	交易 性 金融 资产 <num> <num> <num> <num> <num> <num>
+0	应收 票据 <num> <num> <num> <num> <num> <num>
+0	应收 账款 <tim> <num> <num> <num> <num> <num> <num> 应收 账款 <num> 元 全部 为 <num> 年 以内 应收 账款 ,
+0	其中 李 某 <num> 元 ,
+0	丑 <num> <num> 元 ,
+0	丑 <num> <num> 元 ,
+0	丑 <num> <num> 元 ,
+0	<per> <num> 元 ,
+0	王 某 <num> 元 。
+0	其他 应收款 <num> <num> <tim> <num> <num> <tim> <tim> <num> 年 内 的 其他 应收 账款 为 <num> 元 占 比为 <num> 。
+0	王 某 <num> 、 周某 <num> 为 预付 的 收 粮 款 。
+0	保证金 <num> 元 为 <org> 贷款 保证金 。
+0	其余 为 正常 资金 往来 。
+0	预付 款项 <num> <num> <num> <num> <num> <num> <tim> 魏 某 <num> 元 、 肖 某 <num> 元 ,
+0	关 某 <num> 元 、 王 某 <num> 元 、 丑 <num> 合作社 <num> 元 ,
+0	全部 为 收 粮 预付款
+0	存货 <num> <num> <num> <num> <tim> <num> <num> 由于 <tim> 在 我 行 申请 的 粮食 质押 贷款 ,
+0	大部分 粮食 未 进行 出库 ,
+0	所以 存货 较 大 。
+0	其中 <num> 元 的 水稻 ,
+0	<num> 元 的 玉米 。
+0	长期 投资 <num> <num> <num> <num> <num> <num>
+0	投资 性 房地产 <num> <num> <num> <num> <num> <num>
+0	固定 资产 <num> <num> <num> <tim> <tim> <num> <num> 房屋 建筑物 <num> 元 ,
+0	机器 设备 <num> 元 ,
+0	运输 设备 <num> 元 ,
+0	电子 设备 <num> 元 。
+0	由于 <tim> 企业 新建 库房 <num> 平米 ,
+0	新 引进 <num> 批 生物 有机肥 设备 ,
+0	所以 <tim> 的 固定 资产 大幅 增加 。
+0	在 建 工程 <num> <num> <num> <num> <num> <num>
+0	工程 物资 <num> <num> <num> <num> <num> <num>
+0	无形 资产 <num> <num> <num> <num> <num> <num>
+0	长期 待 摊 费用 <num> <num> <num> <num> <num> <num>
+0	负债 总额 <num> <num> <num> <num> <num> <num> <num>
+0	流动 负债 合计 <num> <num> <num> <num> <num> <num> <num>
+0	短期 借款 <tim> <num> <num> <num> <num> <num> <num> <org> 的 贷款 <num> 元 已 全部 结清 ,
+0	现有 贷款 只有 <org> <num> ,
+0	招商 <num> ,
+0	<org> 的 贷款 占 比较 大 。
+0	应付 票据 <num> <num> <num> <num> <num> <num>
+0	应付 账款 <tim> <tim> <num> <num> <num> <num> <num>
+0	预收款 项 <num> <tim> <num> <num> <num> <num>
+0	应付 职工 薪酬 <num> <num> <num>
+0	应交 税费 <num> <num> <num> <num> <num> <num> - <num>
+0	其他 应付款 <num> <num> <tim> <num> <num> <num> <num> a618 万 元 ,
+0	邹 某 <num> 元 ,
+0	全部 为 股东 借款 给 公司 。
+0	<num> 年 内 到期 非 流动 负债 <num> <num> <num> <num> <num> <num>
+0	长期 借款 <num> <num> <num> <num> <num> <num>
+0	应付 债券 <num> <num> <num> <num> <num> <num>
+0	长期 应付款 <num> <num> <num> <num> <num> <num>
+0	专项 应付款 <num> <num> <num> <num> <num> <num>
+0	其他 非 流动 负债 <num> <num> <num> <num> <num> <num>
+0	股东 权益 合计 <num> <num> <num> <num> <num> <num> <num>
+0	实收 资本 <tim> <tim> <num> <tim> <tim> <tim> <tim> 由于 集团 合并 报表 ,
+0	把 各个 子公司 的 其他 股东 的 投入 都 算入 ,
+0	所以 有所 增加 。
+0	资本 公 积 <tim> <tim> <num> <num> <tim> <num> <num> 资本 公 积 增加 <num> 元 ,
+0	其中 股东 无偿 固定 资产 增加 <num> 元 。
+0	盈余 公 积 <num> <tim> <tim> <num> <num> <tim> <tim>
+0	未 分配 利润 <num> <num> <num> <tim> <num> <num> <num>
+0	少数 股东 权益 <num> <num> <num> <num> <num> <num>
+0	财务 指标
+1	资产 负债率 <num> <num> <num> <num> <num> <num> <num>
+1	流动 比率 <num> <num> <num> <num> <num> <num> <num>
+1	速 动比率 <num> <num> <num> <num> <num> <num> <num>
+1	应收 周转 天数 <num> <num> <num> <num> <num> <num> <num>
+1	存货 周转 天数 <num> <num> <num> <num> <num> <num> <num>
+0	从 上 表 可以 看出 ,
+0	<tim> 年 ,
+0	申请 人 总资产 为 <num> 元 ,
+0	较 上年 增长 <num> 。
+0	总 负债 为 <num> 元 ,
+0	较 上年 增长 <num> 。
+0	所有者 权益 为 <num> 元 ,
+0	较 上年 减少 <num> 。
+0	资产 增加 主要 是 由于 企业 规模 扩大 ,

@@ -1,0 +1,30 @@
+0	<num> 营业 成本 <num> <num> <num> <num> <num>
+0	<num> 其他 业务 成本 <num> <num> <num>
+0	<num> 管理 费用 <num> <num> <num> <num> <num>
+0	<num> 财务 费用 <num> <num> <num> <num> <num>
+0	<num> 归还 贷款 <num> <num>     <num>
+0	<num> 营业 税金 及 附加 <num> <num> <num> <num> <num>
+0	<num> 所得税 <num> <num> <num> <num> <num>
+0	<num> 其他 资金 支出
+0	小计 现金 流出 合计 <num> <num> <num> <num> <num>
+0	<num> 净 现金 流量 <num> <num> <num> <num> - <num>
+0	<num> 累计 净 现金 流量   <num> <num> <num> <num>
+0	<num> 所得税 前 净 现金 流量   <num> <num> <num> - <num>
+0	<num> 累计 所得税 前 净 现金 流量   <num> <num> <num> <num>
+0	<num> 、 项目 经济 可行性 分析
+0	( <num> ) 销售 收入
+0	根据 销售 定价 ,
+1	项目 预计 <num> 年 内 可 实现 销售 收入 <num> 元 。
+0	营业税 税率 为 <num> ,
+0	城市 维护 建设 税 税率 <num> ,
+0	教育 费 附加 费 <num> ,
+0	地方 教育 附加 <num> ,
+0	<tim> ~ <tim> 土地 增 税 按照 销售 收入 的 <num> ,
+0	企业 所得税 税率 为 <num> ,
+0	管理 费用 按 销售 收入 的 <num> 提取 ,
+0	销售 费用 按 销售 收入 的 <num> 提取 ;
+0	( <num> ) 利润 总额 = 销售 收入 - 开发 成本 - 土地 增值税 - 营业 税金 及 附加 = <num> 元
+0	( <num> ) 投资 利润率 = 利率 总额 / 总 投资 = <num>
+1	该项 目的 销售 收入 总计 为 <num> 元 ,
+1	建设 总 成本 为 <num> 元 ,
+1	即 该项 目的 盈亏 平衡点 为 实现 销售 收入 的 <num> 即可 保本 。

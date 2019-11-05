@@ -1,0 +1,90 @@
+0	" <num> 、 申请 人 的 财务 状况
+0	( <num> ) 报表 采用 说明
+0	( <num> ) 要求 说明 企业 提供 的 完整 的 财务 审计 报告 是否 经 我 行 认可 的 会计师 事务所 进行 外部 审计 ,
+0	是否 为 有 保留 意见 的 审计 报告 。
+0	<org> <tim> - <tim> 的 审计 报告 由 丙 己 有限 公司 审计 ,
+0	<tim> 审计 报告 由 丙 庚 审计 ,
+0	出具 审计 报告 均 为 无 保留 意见 。
+0	( <num> ) 对于 连续 更换 会计师 事务所 的 ,
+0	必须 对 其 原因 做出 必要 的 说明 。
+0	( <num> ) 说明 财务 报表 的 合并 范围 及其 变动 情况 。
+0	( <num> ) 对 资产 规模 超过 <num> 元 的 ,
+0	报表 科目 列 示 单位 应为 “ <num> 元 ” 。
+0	( <num> ) 戊 集团 财务 数据
+1	<num> 、 资产 负债 分析 ( 单位 : <num> 元 )
+1	公司 本部 合并 报表 财务 数据 说明 ( 以 集团 合并 <tim> 年报 、 <tim> 报表 数据 为主 )
+1	<tim> <tim> <tim> <num> <tim> <tim> <tim> <num>
+2	总资产 <num> <num> <num> <num> <num> <num> <num> <num> 公司 总资产 较 大 ,
+2	抗 风险 能力 强 。
+0	流动 资产 <num> <num> <num> <num> <num> <num> <num> <num> <num> 、 集团 货币 资金 <num> 系 现金 <num> 元 ,
+0	银行 存款 <num> ;
+0	其他 货币 资金 <num> 元 。
+0	<num> 、 短期 投资 系 交易 性 金融 资产 。
+0	<num> 、 应收 账款 期限 在 <num> 年 以内 的 占 总数 <num> ,
+0	主要 为 省 内 各 大 百货 公司 。
+0	<num> 、 其它 应收款 <num> 较 <tim> 上升 <num> ,
+0	余额 中 前 <num> 位 合计 占 总 余额 <num> ,
+0	主要 性质 为 往来 款 、 拆迁 款 以及 商场 的 租赁 履约 保证金 ,
+0	平均 账 龄 <num> 年 以内 ;
+0	<num> 、 预付 账款 <num> 元 <num> 较 <tim> 年末 减少 <num> ,
+0	主要 系 购 地 款 、 购物 广场 预付 购 商场 款 等 减少 所致 ;
+0	<num> 、 存货 较 <tim> 增长 <num> ,
+0	主要 系 本期 开发 成本 及 库存 商品 的 增加 。
+0	其中 : 货币 资金 <num> <num> <num> <num> <num> <num> <num> <num>
+0	短期 投资 <num> <num> <num> <num> <num> <num> <num> <num>
+0	应收 票据
+1	应收 账款 净值 <num> <num> <num> <num>
+0	其它 应收款 <num> <num> <num> <num> <num> <num> <num> <num>
+0	预付 账款 <num> <num> <num> <num>
+0	存货 - <num> <num> <num> <num>
+0	可供 出售 金融 资产 <num> <num> <num> <num> <num> <num> <num> <num> <org> 持有 投资 壬 <num> 股 流通 股 ,
+0	较 期初 减少 <num> ,
+0	主要 原因 系 该 权益 工具 本期 市价 的 变动 及 减持 所致 。
+0	长期 股权 投资 <num> <num> <num> <num> <num> <num> <num> <num> <tim> 长期 投资 较 <tim> 增长 <num> ,
+0	主要 系 <tim> 年度 投资 <org> <num> 元 、 投资 丙 癸 有限 公司 <num> 元 、 增资 丙 壬 <num> 元 所致 。
+0	固定 资产 原值 <num> <num> <num> <num> <num> <num> <num> <num> <num> 、 固定 资产 主要 系 集团 本部 、 购物 广场 公司 、 丙子 广场 等 资产 。
+0	累计 折旧
+0	在 建 工程 - <num> <num> <num> <num> <num> 、 在 建 工程 主要 为 <org> 、 安溪县 湖 头 戊 商业 广场 工程 、 丙 丑 工程 建设 等 。
+0	无形 资产 - <num> <num> <num> <num>
+0	长期 待 摊 费用 - <num> <num> <num> <num> 长期 待 摊 费用 系 购物 广场 各地 新开 门店 增加 的 租金 费用 及 门店 装修 费用 。
+1	总 负债 <num> <num> <num> <num> <num> <num> <num> <num> <num> 、 短期 借款 合并 <num> 元 ,
+0	全部 由 董事长 乙 个人 保证 担保 ;
+0	<num> 、 应付 账款 较 上期 余额 增长 <num> ,
+0	其中 <num> 为 供应商 货款 。
+0	超过 <num> 年 的 应收 账款 主要 系 购物 广场 供应商 未 及时 开具 发票 结算 的 货款 。
+0	<num> 、 预 收 账款 较 期初 基本 持平 ;
+0	<num> 、 应交 税金 较 上 期末 增加 <num> ,
+0	系 该 <per> 土地 增值税 的 增加 及 营业税 的 变化 导致 。
+0	流动 负债 <num> <num> <num> <num> <num> <num> <num> <num>
+0	其中 : 短期 借款 <num> <num> <num> <num> <num> <num> <num> <num>
+0	应付 票据 <num> -
+1	应付 账款 <num> <num> <num> <num> <num> <num> <num> <num>
+0	预 收 账款 <num> <num> <num> <num> <num> <num> <num> <num>
+0	其他 应付款 <num> <num> <num> <num> <num> <num> <num> <num>
+0	应交 税金 <num> <num> <num> <num> <num> <num> <num> <num>
+0	应付 股利 <num> <num> <num> - <num> <num> <num>
+0	<num> 年 内 到期 的 长期 负债 - - - - - <num> -
+0	长期 负债 <num> <num> <num> <num> <num> <num> <num> <num>
+0	其中 : 长期 借款 - - <num> <num> <num> - <num> <num>
+0	少数 股东 权益 - - - - <num> <num> <num> <num> 小 股东 权益
+1	所有者 权益 <num> <num> <num> <num> <num> <num> <num> <num> <num> 、 实收 资本 为 注册 资本 ,
+0	已 全部 到 资 ;
+0	<num> 、 未 分配 利润 为 公司 历年 盈利 ;
+0	<num> 、 <tim> 资本 公 积 变化 ,
+0	主要 系 持有 的 可供 出售 金融 资产 期末 市值 及 持有 量 变化 ,
+0	扣除 按 <num> 税率 确认 的 递延 所得税 负债 后 的 余额 减少 <num> 元
+0	实收 资本 <num> <num> <num> <num> <num> <num> <num> <num>
+0	资本 公 积 <num> <num> <num> <num> <num> <num> <num> <num>
+0	盈余 公 积 <num> <num> <num> <num> <num> <num> <num> <num>
+0	未 分配 利润 <num> <num> <num> <num> <num> <num> <num> <num>
+1	资产 负债率 ( <num> ) <num> <num> <num> <num> <num> <num> <num> <num> <num> 、 公司 资产 负债率 与 同业 相比 ,
+1	维持 在 合理 水平 。
+2	<num> 、 <tim> 公司 流动 比率 变化 较小 ,
+2	公司 资产 流动性 较 好 ;
+2	<num> 、 速 动比率 保持 在 适度 的 水平 ,
+2	说明 公司 存货 控制 好 ,
+2	管理 成熟 ;
+2	以上 这 说明 申请 人 的 自身 偿债 能力 较强 ,
+2	在 资金 周转 及 银行 负债 运用 方面 较 灵活 、 合理 。
+1	流动 比率 <num> <num> <num> <num> <num> <num> <num> <num>
+1	速 动比率 <num> <num> <num> <num> <num> <num> <num> <num>

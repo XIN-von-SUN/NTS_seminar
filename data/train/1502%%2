@@ -1,0 +1,90 @@
+0	主要 原因 为 其 投资 的 子公司 经营 前景 广阔 ,
+0	投入 运营 后 保证 人 具有 较 大 的 盈利 空间 。
+0	( <num> ) 财务 情况
+0	截至 <tim> ,
+1	保证 人 总资产 <num> 元 ,
+1	总 负债 <num> 元 ,
+1	所有者 权益 <num> 元 ,
+1	资产 负债率 <num> ,
+1	流动 比率 <num> ,
+1	速 动比率 <num> 。
+0	资产 负债表 单位 : <num> 元
+0	资产 类 <num> <num> 增减 负债 及 权益 类 <num> <num> 增减
+0	货币 资金 <num> <num> - <num> 短期 借款 <num> <num> <num>
+0	应收 票据 <num> <num> <num> 应付 票据 <num> <num> - <num>
+0	应收 账款 <num> <num> <num> 应付 账款 <num> <num> <num>
+0	其他 应收款 <num> <num> <num> 其他 应付款 <num> <num> <num>
+0	预付 账款 <num> <num> <num> 预收款 项 <num> <num> <num>
+0	应收 利息 <num> <num> - <num> 应交 税金 <num> <num> <num>
+0	应收 股利 <num> <num> <num> 应付 职工 薪酬 <tim> <num> - <num>
+0	交易 性 金融 资产 <num> <num> <num> 应付 利息 <num> <num> <num>
+0	存货 <num> <num> <num> 流动 负债 合计 <num> <num> <num>
+0	流动 资产 合计 <num> <num> <num> 长期 借款 <num> <num> <num>
+0	投资 性 房地产 <num> <num> - <num> 其他 非 流动 负债 <num> <num> <num>
+0	长期 应收款 <num> <num> <num> 应付 债券 <num> <num> <num>
+0	固定 资产 <num> <num> <num> 非 流动 负债 合计 <num> <num> <num>
+0	工程 物资 <num> <num> <num> 负债 合计 <num> <num> <num>
+0	在 建 工程 <num> <num> <num> 股本 <num> <num>
+0	无形 资产 <num> <num> <num> 资本 公 积 <num> <num> <num>
+0	商誉 <num> <num> <num> 未 分配 利润 - <num> - <num> - <num>
+0	长期 待 摊 费用 <num> <num> <num> 外币 折算 差价 - <num> - <num>
+0	递延 所得税 资产 <num> <num> <num> 少数 股东 权益 <num> <num> <num>
+0	非 流动 资产 合计 <num> <num> <num> 所有者 权益 合计 <num> <num> <num>
+0	资产 总计 <num> <num> <num> 负债 及 权益 合计 <num> <num> <num>
+0	通过 对 保证 人 <tim> 财务 报表 分析 ,
+0	主要 需要 说明 的 数据 如下 :
+0	<num> 、 资产 类 : <num> 元 。
+0	( <num> ) 流动 资产 : <num> 元 ,
+0	占 总资产 <num> 。
+0	① 货币 资金 : <num> 元 ,
+0	占 流动 资产 <num> ,
+0	主要 为 保证 人 银行 存款 和 保证金 。
+0	② 应收 账款 : <num> 元 ,
+0	占 流动 资产 <num> ,
+0	主要 为 保证 人 的 工程款 和 货款 等 。
+0	主要 明细 如下 :
+0	主要 债务 人 : 单位 : <num> 元
+0	单位 名称 金额 占 比 ( <num> )
+0	<org> <num> <num>
+0	<org> <num> <num>
+0	<org> <num> <num>
+0	某 公司 <num> <num>
+0	<org> <num> <num>
+0	合计 <num> <num> :
+0	③ 预付 款项 : <num> 元 ,
+0	占 流动 资产 <num> ,
+0	主要 为 保证 人 子公司 预付 的 材料 款 和 基建 工程款 等 。
+0	主要 明细 如下 :
+0	主要 债务 人 : 单位 : <num> 元
+0	单位 名称 金额 占 比 ( <num> )
+0	甲 市 <org> <num> <num>
+0	某 市 财政局 财政 专项 资金 <num> <num>
+0	河南 某 建设 工程 有限 公司 <num> <num>
+0	七台河市 某 建筑 安装 工程 公司 <num> <num>
+0	<org> <num> <num>
+0	合计 - <num> <num>
+0	④ 其他 应收款 : <num> 元 ,
+0	占 流动 资产 的 <num> ,
+0	主要 为 保证 人 及 子公司 项目 保证金 。
+0	主要 明细 如下 :
+0	主要 债务 人 : 单位 : <num> 元
+0	主要 债务 人 名称 金额 比例 ( <num> )
+0	甲 市 某 资产 管理 有限 公司 <num> <num>
+0	<org> <num> <num>
+0	<org> <num> <num>
+0	<org> <num> <num>
+0	甲 市 某甲 房地产 开发 有限 公司 <num> <num>
+0	合计 <num> <num>
+0	⑤ 存货 : <num> 元 ,
+0	占 流动 资产 <num> ,
+0	主要 为 保证 人 的 原材料 、 自制 半成品 、 库存 商品 等 。
+0	具体 明细 如下 :
+0	单位 : <num> 元
+0	项目 金额 占 比 ( <num> )
+0	原材料 <num> <num>
+0	在 途 物资 <num> <num>
+0	在 产品 <num> <num>
+0	产 成品 <num> <num>
+0	工程 施工 <num> <num>
+0	合计 <num> <num>
+0	⑥ 投资 性 房地产 : <num> 元 ,

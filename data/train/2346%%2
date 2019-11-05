@@ -1,0 +1,23 @@
+0	期初 现金 余额 <num> <num> <num> <num> <num> <num>
+0	归还 股东 借款
+0	归还 银行 借款 <num> <num> <num> <num> <num> <num>
+0	期末 现金 余额 <num> <num> <num> <num> <num> <num>
+0	( <num> ) 还款 预测 表 :
+0	第 <num> 年 <num> 年 <num> 年 <num> 年 <num> 年 <num> 年 <num> 年
+0	贷款 金额 <num> <num> <num> <num> <num> <num> <num>
+0	归还 本金 <num> <num> <num> <num> <num> <num> <num>
+0	支付 利息 <num> <num> <num> <num> <num> <tim> <num>
+0	本息 合计 <num> <num> <num> <num> <num> <num> <num>
+0	剩余 本金 <num> <num> <num> <num> <num> <num> <num>
+0	第 <num> 年 <num> 年 <tim> <tim> <tim> 合计
+0	贷款 金额 <num> <num> <num> <num> <num>
+0	归还 本金 <num> <num> <num> <num> <num> <num>
+0	支付 利息 <num> <num> <tim> <num> <num> <num>
+0	本息 合计 <num> <num> <num> <num> <num> <num>
+0	剩余 本金 <num> <num> <num> <num>
+0	( <num> ) 测算 备注 :
+0	财务 费用 按 <num> 估算 ,
+0	其中 贷款 利率 为 <num> ,
+0	参 贷 费 为 <num> ;
+0	租金 商场 部分 每 隔 <num> 年 上浮 <num> ,
+0	办公楼 每 隔 <num> 年 上浮 <num> 。

@@ -1,0 +1,86 @@
+0	" ( <num> ) 资产 负债 情况 ( <num> 元 )
+1	<tim> <tim> <num> <tim> <num> <num> 说明 ( <num> )
+1	总资产 <num> <num> <num> <num>
+0	其中 : 货币 资金 <num> <num> <num> <num>
+0	应收 票据 <num> <num> <num>
+0	应收 帐款 <num> <num> <tim> <num> <org> <num> ,
+0	<org> <num> ,
+0	<org> <num>
+0	其他 应收款 <num> <num> <tim> <num> <org> <num> ,
+0	<org> <num> ,
+0	甲 甲 澳洲 分公司 <num> ,
+0	<org> <num> ,
+0	甲 甲 意大利 分公司 <num>
+0	预付 帐款 <num> <num> <num>
+0	存货 <num> <num> <num> <num> 全部 为 瓷砖
+0	流动 资产 合计 <num> <num> <num> <num>
+0	长期 投资 <num> <num> <num> <num> <org> <num> ,
+0	<org> <num>
+0	固定 资产 净值 <tim> <num> <num> <num>
+0	在 建 工程 <num> <num> <num>
+0	无形 资产 <num> <num> <num>
+0	长 期待 摊 <num> <num> <num>
+0	长期 资产 合计 <num> <num> <num> <num>
+0	总 负债 <num> <num> <num> <num>
+0	其中 : 短期 借款 <num> <num> <num> <num> 平安 <num> ,
+0	<org> <num> ,
+0	民生 <num> ,
+0	兴业 <num>
+0	<num> 年 内 到期 的 长期 负债 <num> <num> <num>
+0	应付 票据 <num> <num> <num> <num> <org> <num> ,
+0	民生 <num> ,
+0	平安 <num>
+0	应付 帐款 <num> <num> <tim> <num> <org> <num> ,
+0	<org> <num> ,
+0	澳门 丁 <num>
+0	预 收 帐款 <tim> <num> <num>
+0	其他 应付款 <num> <num> <num>
+0	应交 税金 <num> <num> <num> <num>
+0	流动 负债 合计 <num> <num> <num> <num>
+0	长期 借款 <tim> <num> <num>
+0	长期 应付款 <num> <num> <num>
+0	其他 长期 负债 <num> <num>
+0	长期 负债 合计 <tim> <num> <num>
+0	股东 权益 <num> <num> <num> <num>
+0	其中 : 股本 <num> <num> <num> <num>
+0	资本 公 积 <num> <num>
+0	盈余 公 积 <num> <num>
+0	未 分配 利润 <num> <num> <num> <num>
+1	<tim> <tim> <tim> <num> 说明
+2	资产 负债率 ( <num> ) <num> <num> <num> <num> 申请 人 的 资产 负债 比率 <tim> 有所 增加 ,
+2	但 仍 处于 比较 合理 的 负债 比例 ,
+2	由于 将 主要 资金 用于 投入 长期 投资 项目 ,
+2	因此 流动 比 和 速 动 比较 差 。
+1	流动 比率 ( <num> ) <num> <num> <num> <num>
+1	速 动比率 ( <num> ) <num> <num> <num> <num>
+1	应收 帐款 周转 天数 ( 天 ) <num> <num> <num> <num>
+1	存货 周转 天数 ( 天 ) <num> <num> <num> <num>
+1	应付 账款 周转 天数 ( 天 ) <num> <num> <num>
+1	预付 账款 周转 天数 ( 天 ) <num> <num> <num>
+1	预 收 账款 周转 天数 ( 天 ) <num> <num> <num>
+0	( <num> ) 损益表 ( 单位 : <num> 元 )
+1	<tim> <tim> <tim> <num> 说明
+1	主营 业务 收入 <num> <num> <num> <num> 该 司 <tim> <tim> 实现 销售 收入 <num> ,
+1	较 <tim> 同期 下降 约 <num> ,
+1	并 实现 净利润 <num> ,
+1	<tim> 销售 规模 的 减少 主要 是 由于 将 部分 进口 瓷砖 的 销售 放在 了 关联 公司 <org> <num> ,
+1	同时 <tim> 整体 经济 环境 状况 仍 一般 ,
+1	下游 需求 也 有 一定 萎缩 ,
+1	也 减少 了 向 上游 供应商 采购 ,
+1	因此 <tim> 整体 销售 规模 较 <tim> 有所 减少 ,
+1	预计 <tim> 该 司 的 销售 规模 在 <num> 左右 。
+0	收入 构成
+0	主营 业务 利润 <num> <num> <num> <num>
+0	营业 费用 <num> <num> <num> <num>
+0	管理 费用 <num> <num> <num> <tim>
+0	财务 费用 <tim> <tim> <num> <tim>
+0	投资 收益
+0	利润 总额 <num> <num> <num> <tim>
+0	净利润 <num> <num> <num> <tim>
+0	销售 毛利率 <num> <num> <num> <num>
+0	净资产 收益率 <num> <num> <num> <num>
+0	( <num> ) 现金流 量表 ( 单位 : <num> 元 )
+1	年份 期初 现金 经营 现金 流量 投资 现金 流量 筹资 现金 流量 期末 现金
+1	<tim> <tim> <num> - <num> <num> <num>
+1	<tim> <num> <tim> - <tim> - <num> <num>
+1	<tim> <num> <num> - <num> - <tim> <num>

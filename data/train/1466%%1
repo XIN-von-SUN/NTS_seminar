@@ -1,0 +1,90 @@
+0	营业 费用 占 各自 收入 的 比例 <num> <num> <num> <num> <num>
+0	营业 税金 及 附加     <num> <num>   <num> ,
+0	<num>
+1	营业 利润 ( 扣除 营业 费用 ) <num> <num> <num>   <num> <num>   <num>
+1	主营 业务 利润率 <num> <num> <num>   <num> <num>   <num>
+0	管理 费用 <num>
+0	占 总 营业 收入 的 比例 <num>
+0	财务 费用 <num>
+0	占 总 营业 收入 的 比例 <num>
+1	损益 项目 <tim>
+1	客房部 <org> 某某 休闲 沙龙 某某 俱乐部 其他
+1	营业 收入 <num> <num> <num> <num> <num> <num>
+0	部门 收入 占 总 收入 的 比例 <num> <num> <num> <num> <num> <num>
+0	部门 收入 占 客房 收入 的 比例   <num> <num> <num> <num>
+0	营业 成本 <num> <num> <num> <num> <num> <num>
+0	营业 成本 占 各自 收入 的 比例 <num> <num> <num> <num> <num> <num>
+0	营业 费用 <num> <num> <num> <num> <num> <num>
+0	营业 费用 占 各自 收入 的 比例 <num> <num> <num> <num> <num> <num>
+0	营业 税金 及 附加     <num> <num>   <num>
+1	营业 利润 ( 扣除 营业 费用 ) <num> <num>   <num> <num>   <num> <num>
+1	主营 业务 利润率 <num> <num>   <num> <num>   <num> <num>
+0	管理 费用 <num>
+0	占 总 营业 收入 的 比例 <num>
+0	财务 费用 <num>
+0	占 总 营业 收入 的 比例 <num>
+0	从 上 表 可以 看出 ,
+2	甲乙 丙丁 <tim> 主营 业务 利润率 <num> ,
+2	<tim> 主营 业务 利润率 达到 <num> ,
+2	经过 <num> 年 的 运营 企业 盈利 能力 逐渐 增强 。
+2	<tim> 主营 业务 利润率 为 <num> ,
+2	企业 经营 已 趋于 平稳 。
+0	在 收入 构成 中 ,
+0	<tim> 客房部 占 总 收入 <num> 、 餐饮 部 收入 占 总 收入 的 <num> ,
+0	某某 休闲 沙龙 占 <num> ,
+0	某某 俱乐部 约 占 <num> ,
+0	其他 约 占 <num> ;
+0	在 <tim> 的 收入 构成 中 客房部 占 总 收入 <num> 、 餐饮 部 收入 占 总 收入 的 <num> ,
+0	某某 休闲 沙龙 占 <num> ,
+0	某某 俱乐部 约 占 <num> ,
+0	其他 约 占 <num> 。
+0	在 <tim> 的 收入 构成 中 客房部 占 总 收入 <num> 、 餐饮 部 收入 占 总 收入 的 <num> ,
+0	某某 休闲 沙龙 占 <num> ,
+0	某某 俱乐部 约 占 <num> ,
+0	其他 约 占 <num> 。
+0	随 配套 功能 的 不断 完善 ,
+0	酒店 的 餐饮 、 某某 俱乐部 、 某某 休闲 沙龙 的 等 部门 的 盈利 能力 逐渐 提高 。
+0	( <num> ) 客房 收入 情况
+0	甲乙 丙丁 现 共有 各 种 类型 的 客房 <num> 间 ,
+0	<tim> 底 前 装修 改造 增加 行政 标准 客房 <num> 间 ,
+0	客房 总数 达到 <num> 间 ,
+0	房价 如下 :
+0	客房 类型 现有 客房 套数 <tim> 增加 后 套数 门市 价格 ( 元 / 天 / 间 )
+0	人民币 美金
+0	总统 套 <num> <num> <num>
+0	豪华 套 <num> <num>
+0	行政 套 <num> <tim>
+0	行政 标准 双人间 <num> <tim>
+0	行政 标准 单人间 <num> <tim>
+0	公寓 室 <num> <tim>
+0	标准 套 <num> <num> <tim>
+0	标准 单人间 <num> <num>
+0	标准 单人房 <num> <num>
+0	合计 <num> <num>
+0	<tim> 房费 收入 为 <num> 元 ,
+0	按 全年 平均 入住 率 <num> 计算 ,
+0	平均 房价 达到 <num> 元 / 天 / 间 ;
+0	<tim> 年收入 <num> 元 ,
+0	按 全年 平均 入住 率 <num> 计算 ,
+0	平均 房价 达到 <num> 元 / 天 / 间 ;
+0	<tim> 年收入 <num> 元 ,
+0	按 全年 平均 入住 率 <num> 计算 ,
+0	平均 房价 达到 <num> 元 / 天 / 间 。
+0	在 某某 市 各 酒店 中 房价 最高 ,
+0	入住 率 也 最高 。
+0	平均 房价 计算 公式 : 客房 总 收入 ÷ 总 房间 套数 ÷ 总 天数 ÷ 入住 率
+0	从 客源 上 看 ,
+0	<tim> 、 <tim> 甲乙 丙丁 住宿 情况 如下 表 :
+0	国籍 国内 市场 国外 市场 总计
+0	年度 某某 省 国内 其它 省 市 港澳台 小计 东南亚 韩国 日本 欧洲 美洲 非洲 其它 小计
+0	<tim>
+0	年 房 夜 数 <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num>
+0	<tim>
+0	年 百分比 <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num>
+0	<tim>
+0	年 房 夜 数 <num> <num> <num> <num> <num> <num> <num> <tim> <tim> <num> <num> <num> <num>
+0	<tim>
+0	年 百分比 <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num> <num>
+0	如上 表 所示 : <tim> 至 <tim> ,
+0	国内 客源 占 总 客源 的 <num> 左右 ,
+0	国外 客源 占 总 客源 的 <num> 左右 。

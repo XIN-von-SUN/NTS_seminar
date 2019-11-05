@@ -1,0 +1,90 @@
+0	" 财务 报表 数据 及 真实性 、 可信度 :
+0	根据 核对 公司 的 纳税 凭证 及 银行 流水 ,
+0	财务 报表 数据 及 真实性 、 可信度 较 高 。
+0	<num> 、 报表 审计 结论 ( 是否 保留 意见 ) :
+0	公司 <tim> 、 <tim> 、 <tim> 报表 均由 张 <num> 事务所 审计 ,
+0	均 无 保留 意见 。
+0	<num> 、 合并 报表 的 合并 范围 :
+0	公司 类 授信 客户 <tim> 及 即期 财务 情况 表
+0	单位 :
+1	项目 <tim> / <num> <tim> / <num> <tim> / <num> <tim> / <num>
+1	已 审计 ( 新 ) 已 审计 ( 新 ) 已 审计 ( 新 ) 未 审计 ( 新 )
+0	货币 资金 <num> <num> <num> <num>
+0	短期 投资 <num> <num> <num> <num>
+0	应收 票据 <num> <num> <num> <num>
+1	应收 账款 <num> <num> <num> <num>
+0	其他 应收款 <num> <num> <num> <num>
+0	预付 账款 <num> <num> <num> <num>
+0	存货 <num> <num> <num> <num>
+0	流动 资产 合计 <num> <num> <num> <num>
+0	长期 股权 投资 <num> <num> <num> <num>
+0	固定 资产 原值 <num> <num> <num> <num>
+0	固定 资产 净值 <num> <num> <num> <num>
+0	在 建 工程 <num> <num> <num> <num>
+0	无形 资产 <num> <num> <num> <num>
+1	资产 合计 <num> <num> <num> <num>
+0	短期 借款 <num> <num> <num> <num>
+0	应付 票据 <num> <num> <num> <num>
+1	应付 账款 <num> <num> <num> <num>
+0	预 收 账款 <num> <num> <num> <num>
+0	其他 应付款 <num> <num> <num> <num>
+0	流动 负债 合计 <num> <num> <num> <num>
+0	长期 借款 <num> <num> <num> <num>
+0	长期 应付款 <num> <num> <num> <num>
+1	负债 合计 <num> <num> <num> <num>
+0	实收 资本 <num> <num> <num> <num>
+0	资本 公 积 <num> <num> <num> <num>
+0	盈余 公 积 <num> <num> <num> <num>
+0	未 分配 利润 <num> <num> <num> <num>
+0	所有者 权益 合计 <num> <num> <num> <num>
+1	主营 业务 收入 <num> <num> <num> <num>
+0	主营 业务 成本 <num> <num> <num> <num>
+0	管理 费用 <num> <num> <num> <num>
+0	财务 费用 <num> - <num> <num> - <num>
+0	营业 利润 <num> <num> <num> <num>
+0	利润 总额 <num> <num> <num> <num>
+1	净利润 <num> <num> <num> <num>
+0	<num> 、 主要 财务 报表 科目 明细 分析
+0	<num> 、 货币 资金 : 本期 余额 _ <num> _ <num> 元 ,
+0	比上 年末 减 _ <tim> _ _ <num> 元 ,
+0	减幅 _ <num> _ <num> ,
+0	其中 保证金 存款 _ <num> _ <num> 元 。
+0	主要 增减 原因 分析 : 低 风险 业务 到期 未 续 做
+0	<num> 、 应收 账款 : 本期 余额 <num> 元 ,
+0	比上 年末 减 _ <num> 元 ,
+0	减幅 <num> ,
+0	其中 已 计 提 坏账 准备 _ _ _ _ / _ <num> 元 。
+0	账 龄 分析 : <num> 年 以内 的 占 _ / <num> ,
+0	<num> 至 <num> 年 占 _ / _ _ <num> ,
+0	二至 <num> 年 占 _ / _ _ <num> ,
+0	<num> 年 以上 的 占 _ _ / _ <num> 。
+0	主要 构成 如下 :
+0	企业 名称 金额 ( <num> 元 ) 账 龄 比例 原因 ( 被 拖欠 、 坏账 等 情况 及 增减 分析 )
+0	张 <num> 公司 <num> <num> 年 以内 <num> 电解 镍 ,
+0	业务 正常 滚动 ,
+0	账 期 <tim>
+0	<num> 、 预付 账款 : 本期 余额 _ <num> _ <num> 元 ,
+0	比上 年末 减 _ <num> _ <num> 元 ,
+0	减幅 _ <num> _ <num> 。
+0	主要 增减 原因 分析 : 电解铜 贸易量 减少 导致 预付款 下降
+0	主要 构成 如下 :
+0	企业 名称 金额 ( <num> 元 )
+0	张 <num> 公司 <num>
+0	小计 <num>
+0	<num> 、 其他 应收款 : 本期 余额 _ _ / _ _ <num> 元 ,
+0	比上 年末 增 / 减 _ _ / _ _ <num> 元 ,
+0	增 / 减幅 _ _ / _ _ <num> 。
+0	账 龄 分析 : <num> 年 以内 的 占 _ / _ _ <num> ,
+0	<num> 至 <num> 年 占 _ / _ _ <num> ,
+0	二至 <num> 年 占 _ / _ _ <num> ,
+0	<num> 年 以上 的 占 _ _ / _ <num> 。
+0	<num> 、 存货 : 本期 余额 _ <num> _ <num> 元 ,
+0	比上 年末 增 _ <num> _ <num> 元 ,
+0	增幅 _ <num> _ <num> ,
+0	其中 原材料 _ _ _ _ _ <num> 元 ,
+0	在 产品 _ _ _ _ <num> 元 ,
+0	产 成品 _ <num> _ <num> 元 。
+0	主要 增减 原因 分析 : 现货 贸易 备 库存
+0	主要 构成 如下 :
+0	类别 数量 金额 ( <num> 元 )
+0	产 成品 / <num>

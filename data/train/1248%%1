@@ -1,0 +1,60 @@
+1	速 动比率 <num> <num> <num> <num>
+1	应收 帐款 周转 天数 <num> <num> <num> <num>
+0	存货 周转 天数 <num> <num> <num> <num>
+0	预付 账款 周转 天数 <num> <num> <num> <num>
+0	应付 账款 周转 天数 <num> <num> <num> <num>
+0	预 收 账款 周转 天数 <num> <num> <num> <num>
+0	营运 资金 周转 天数 <num> <num> <num> <num>
+1	资产 周转 天数 <num> <num> <num> <num>
+1	销售 毛利率 <num> <num> <num> <num>
+1	销售 利润率 <num> <num> <num> <num>
+1	销售 净 利率 <num> <num> <num> <num>
+1	总资产 收益率 <num> <num> <num> <num>
+1	净资产 收益率 <num> <num> <num> <num>
+1	利润 增长率 / - <num> <num> <num>
+1	资本 积累 率 / <num> <num> <num>
+0	<org> <num> 项 费用 降低 情况 说明
+0	<num> 、 管理 费用 : <tim> 年度 比 <tim> 年度 管理 费用 大幅 下降 主要 是 加强 管理 、 提高 效率 、 降低 费用 ,
+0	以 应对 钢铁 行业 的 困境 ,
+0	效果 明显 。
+0	详见 下表
+0	管理 费用 <tim> 累计 <tim> 累计 <tim> 比 <tim> 降低
+0	<num> 工资 <num> <num> <num>
+0	<num> 福利费 <num> <num>
+0	<num> 电话费 <num> <num> - <num>
+0	<num> 房租 水电 <num> <num> <num>
+0	<num> 办公费 <num> <num> <num>
+0	<num> 差旅费 <num> <num> <num>
+0	<num> 汽车 费用 <num> <num> <num>
+0	<num> 业务 招待费 <num> <num> <num>
+0	<num> 折旧费 <num> <num> <num>
+0	<num> 社保费 <num> <num> <num>
+0	<num> 广告 宣传 费 <num> <num> <num>
+0	<num> 待 摊 费用 <num> <num> <num>
+0	<num> 财产 保险 <num> <num> - <num>
+0	<num> 印花税 <num> <num> <num>
+0	<num> 堤围 费 <num> <num> <num>
+0	<num> 低值 易 耗 品 <num> <num> <num>
+0	<num> 工会 经费 <num> - <num>
+0	<num> 物资 盘点 - <num>
+0	合计 <num> <num> <num>
+0	<num> 、 财务 费用 : <tim> 年度 比 <tim> 年度 财务 费用 下降 <num> 是 <org> 授信 由 <num> 元 敝 口 降为 <num> 元 ,
+0	本 年度 较 上 年少 用 了 授信 额度 ,
+0	<num> 是 多用 承兑 ,
+0	尽量 减少 贴现 ,
+0	降低 财务 费用 。
+0	财务 费用 <tim> 累计 <tim> 累计 <tim> 比 <tim> 降低
+0	<num> 手续费 <num> <num> <num>
+0	<num> 利息 支出 <num> <num> - <num>
+0	<num> 利息 收入 - <num> - <num> <num>
+0	<num> 贴息 支出 <num> <num> <num>
+0	合计 <num> <num> <num>
+0	<num> 、 营业 费用 : <tim> 年度 比 <tim> 年度 营业 费用 下降 主要 是 大量 业务 由 <num> 票 结算 方式 变更 为 <num> 票 结算 ,
+0	其 运费 、 杂费 直接 进入 了 货款 之中 ,
+0	另外 营 改 增 对 港口 费用 、 铁矿石 进口 代理 费用 等 也 有些 影响 ,
+0	营业 费用 降低 是 核算 方式 上 的 表现 形式 改变 ,
+0	实际 上 没有 降低 。
+0	营业 费用 <tim> 累计 <tim> 累计 <tim> 比 <tim> 降低
+0	<num> 运费 <num> <num> <num>
+0	<num> 杂费 <num> <num> - <num>
+0	合计 <num> <num> <num>

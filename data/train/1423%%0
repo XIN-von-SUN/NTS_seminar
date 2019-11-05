@@ -1,0 +1,61 @@
+0	" 最新 财务 数据 ( 退回 时 可 更新 最新 财务 数据 )
+1	报告 期 <tim> ( <tim> / <num> ) 上年 ( <tim> / <num> ) 本年 <num> ( <tim> / <num> ) 本年 <num> ( <tim> / <num> ) 本年 <num> ( <tim> / <num> ) 本次 ( <tim> / <num> )
+1	总资产 <num> <num> <num> <num> <num> <num>
+0	流动 资产 <num> <num> <num> <num> <num> <num>
+1	应收 帐款 <num> <num> <num> <num> <num> <num>
+0	其他 应收款 <num> <num> <num> <num> <num> <num>
+0	存货 <num> <num> <num> <num> <num> <num>
+0	长期 投资 <num> <num> <num> <num> <num> <num>
+0	固定 资产 ( 净值 ) <num> <num> <num> <num> <num> <num>
+0	流动 负债 <num> <num> <num> <num> <num> <num>
+0	短期 借款 <num> <num> <num> <num> <num> <num>
+0	应付 票据 <num> <num> <num> <num> <num> <num>
+1	应付 帐款 <num> <num> <num> <num> <num> <num>
+0	长期 借款 <num> <num> <num> <num> <num> <num>
+1	所有者 权益 <num> <num> <num> <num> <num> <num>
+0	长期 负债 合计 <num> <num> <num> <num> <num> <num>
+1	主营 业务 收入 <num> <num> <num> <num> <num> <num>
+0	主营 业务 成本 <num> <num> <num> <num> <num> <num>
+1	净利润 <num> <num> <num> <num> <num> <num>
+0	借款 人 基本 财务 指标
+1	主营 业务 利润率 <num> <num> <num> <num> <num> <num>
+1	息 税前 营业 利润率 <num> <num> <num> <num> <num> <num>
+1	总资产 收益率 <num> <num> <num> <num> <num> <num>
+1	净资产 收益率 <num> <num> <num> <num> <num> <num>
+1	存货 周转 天数 ( 天 ) <num> <num> <num> <num> <num> <num>
+1	应收 账款 周转 天数 ( 天 ) <num> <num> <num> <num> <num> <num>
+1	应付 账款 周转 天数 ( 天 ) <num> <num> <num> <num> <num> <num>
+1	总资产 周转率 <num> <num> <num> <num> <num> <num>
+1	盈余 现金 保障 倍数 <num> <num> <num> <num> <num> <num>
+1	留存 现金流 与 总 资本 支出 比 <num> <num> <num> <num> <num> <num>
+1	长期 资产 适合 率 ( 倍 ) <num> <num> <num> <num> <num> <num>
+1	息 税前 利润 利息 保障 倍数 <num> <num> <num> <num> <num> <num>
+1	流动 比率 ( 倍 ) <num> <num> <num> <num> <num> <num>
+1	速 动比率 ( 倍 ) <num> <num> <num> <num> <num> <num>
+1	资产 负债率 <num> <num> <num> <num> <num> <num>
+1	调整 后 的 资产 负债率 <num> <num> <num> <num> <num> <num>
+1	总 有 息 债务 / 留存 现金流 ( 倍 ) <num> <num> - <num> - <num> - <num> - <num>
+2	财务 分析 <num> 、 企业 规模 的 分析 : 截止 到 <tim> 末 ,
+2	公司 总资产 <num> 元 ,
+2	其中 流动 资产 <num> 元 ,
+2	流动 负债 <num> 元 ,
+2	公司 规模 为 大型 。
+1	<num> 、 盈利 能力 分析 : 截止 到 <tim> 末 ,
+1	公司 实现 主营 业务 收入 <num> 元 ,
+1	净利润 <num> 元 。
+1	主营 业务 利润率 <num> ,
+2	公司 盈利 水平 一般 。
+1	<num> 、 经营 效率 分析 : 截止 到 <tim> 末 ,
+1	存货 周转 天数 <num> ;
+1	应收 账款 周转 天数 <num> ;
+1	应付 账款 周转 天数 <num> 。
+1	<num> 、 长期 偿债 能力 分析 : 截止 到 <tim> 末 ,
+1	企业 流动 比 <num> ;
+1	速 动 比 <num> ;
+1	资产 负债率 为 <num> ,
+1	资产 负债率 较 低 。
+2	企业 作为 酒店 行业 ,
+2	固定 资产 占 比较 大 ,
+2	流动 资产 占 比较 低 ,
+2	鉴于 其 行业 特征 ,
+2	企业 资产 负债率 较 低 属于 正常 情况 。

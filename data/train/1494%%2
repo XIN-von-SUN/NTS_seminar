@@ -1,0 +1,90 @@
+0	咸宁 <num> <num> <num> <num> <num>
+0	合计 <num> <num> <num> <num> <num> <num>
+0	( <num> ) 技术 研发
+0	申请 人 拥有 较 好 的 行业 地位 <num> 来源 于 其 产品 技术性 具有 行业 领先 地位 。
+0	其 拥有 一支 稳定性 、 专业性 较 好 的 技术 研发 团队 。
+0	申请 人 设有 门窗 幕墙 技术 研发 中心 ,
+0	专门 负责 技术 研发 、 深化 设计 与 技术 管理 工作 。
+0	依托 科研 院所 、 高等 院校 的 技术 力量 ,
+0	建立 、 完善 产 、 学 、 研 一体化 的 技术 创新 机制 ,
+0	这 也 是 申请 人 人才 培养 、 技术 研发 、 成果 转化 的 有效 途径 。
+0	申请 人 已经 与 <org> 、 甲 市 工业 大学 、 <org> 等 建立 了 良好 的 合作 关系 ,
+0	这 必将 推动 其 技术 创新 进程 。
+0	这 必将 推动 其 技术 创新 进程 。
+0	申请 人 自主 拥有 自行 研发 的 专利 技术 <num> 余 种 ,
+0	详见 下表 :
+0	序号 申请 号 专利 名称 专利号
+0	<num> <num> 高 稳定性 、 可 高效 安装 的 节能 门窗 系统 <num>
+0	<num> <num> 具有 防水 、 隔热 、 隔音 性能 的 节能 门窗 系统 <num>
+0	<num> <num> <num> 种 装有 密封 定位 导片 的 铝合金 门窗 <num>
+0	<num> <num> <num> 种 装有 长尾 密封 胶条 的 铝合金 门窗 <num>
+0	<num> <num> <num> 种 装有 外 开窗 z 型 中 挺 的 铝合金 门窗 <num>
+0	<num> <num> <num> 种 装有 转角 拼接 型材 的 铝合金 门窗 <num>
+0	<num> <num> <num> 种 装有 外 框 扇 密封 胶条 的 铝合金 门窗 ? ? ? ? <num>
+0	<num> <num> <num> 种 具有 角 部 加强 结构 的 窗框 <num>
+0	<num> <num> <num> 种 用于 铝合金 门窗 的 玻璃 扣 条 <num>
+0	<num> <num> <num> 种 装有 隐 扇 外 开窗 的 铝合金 门窗 <num>
+0	<num> <num> <num> 种 转角 铝合金 门窗 <num>
+0	<num> <num> <num> 种 装有 中 挺 连接件 的 铝合金 门窗 <num>
+0	<num> <num> 型材 ( 单元 式 幕墙 铝合金 型材 pt - <num> ) <num>
+0	<num> <num> 型材 ( 单元 式 幕墙 铝合金 型材 pt - <num> ) <num>
+0	<num> <num> 型材 ( 单元 式 幕墙 铝合金 型材 pt - <num> ) ‘ <num>
+0	<num> <num> 型材 ( 单元 式 幕墙 铝合金 型材 pt - <num> ) <num>
+0	<num> <num> 型材 ( 单元 式 幕墙 铝合金 塑 材 pt - <num> ) <num>
+0	<num> <num> 型材 ( 单元 式 幕墙 铝合金 型材 pt - <num> ) <num>
+0	<num> <num> 型材 ( 单元 式 幕墙 铝合金 型材 pt - <num> ) <num>
+0	<num> <num> 型材 ( 单元 式 幕墙 铝合金 型材 pt - <num> ) <num>
+0	<num> <num> 用于 单元 式 幕墙 安装 的 可 调节 连接件 ,
+0	<num>
+0	<num> <num> 用于 单元 式 幕墙 安装 的 可 调节 连接 装置 <num>
+0	<num> <num> 单元 式 铝合金 门窗 护 框 <num> 次 锁 紧 、 限位 装置 \ <num>
+0	<num> <num> 单元 式 铝合金 门窗 角 部 连接 装置 ' <num>
+0	<num> <num> 单元 式 铝合金 门窗 下 侧 支撑 装置 <num>
+0	<num> <num> <num> 种 <num> 轨道 推拉门 <num>
+0	<num> <num> <num> 种 保温 铝合金 固定 窗 <num>
+0	<num> <num> <num> 种 单元 式 铝合金 门窗 下 护 框 <num>
+0	<num> <num> <num> 种 隔热 断桥 式 铝合金 固定 推拉门 <num>
+0	<num> <num> <num> 种 高 气密性 推拉 门窗 <num>
+0	<num> <num> 用于 铝合金 门窗 的 具有 双 道 密封 功能 的 玻璃 扣 条 <num>
+0	<num> <num> 用于 单元 式 铝合金 门窗 安装 的 固定 组件 <num>
+0	<num> <num> <num> 种 铝合金 门窗 单元 体 与 护 框 的 密封 结构 <num>
+0	<num> <num> 锁 紧 式 单元 门窗 上 护 框 <num>
+0	<num> <num> 可 插接 的 单元 式 门窗 加强 框 <num>
+0	<num> <num> 门窗 便捷 式 固定 卡 件 <num>
+0	<num> <num> <num> 种 能够 防 蚊虫 、 防 灰 、 防风 的 门窗 排水 孔盖 <num>
+0	<num> <num> 门窗 自动 卡 紧 式 固定 件 <num>
+0	<num> <num> 单元 式 铝合金 节能型 门窗 的 角 部 拼接 连接件 型材 结构 <num>
+0	<num> <num> <num> 种 单元 式 铝合金 节能型 门窗 的 单元 体 主材 拼接 结构 <num>
+0	<num> <num> <num> 种 单元 式 铝合金 门窗 的 单元 体 与 下 护 框 的 密闭 安装 结构 <num>
+0	<num> <num> <num> 种 顶部 双 道 密封 的 <org> 光热 窗 结构 <num>
+0	<num> <num> <num> 种 可 压紧 胶条 的 单元 窗 扣 条 结构 <num>
+0	<num> <num> <num> 种 用于 <org> 光热 窗 的 吸 顶 式 储 热 水箱 <num>
+0	<num> <num> <num> 种 隐藏 纱窗 式 两侧 平移 <org> 光热 窗 结构 <num>
+0	<num> <num> <num> 种 带有 遮阳 帘 的 光热 窗 <num>
+0	<num> <num> <num> 种 上 翻 展开式 光热 窗 <num>
+0	<num> <num> <num> 种 手摇 滑板 式 <org> 光热 窗 遮阳 结构 <num>
+0	<num> <num> <num> 种 带 自 洁 防护 罩 的 光热 窗 集 热 器 <num>
+0	<num> <num> <num> 种 摇臂 式 两侧 平移 <org> 光热 窗 结构 <num>
+0	<num> <num> <num> 种 摇臂 式 前 推 滑行 的 <org> 光热 窗 结构 <num>
+0	<num> <num> 固定式 <org> 光热 铝合金 节能 窗 <num>
+0	<num> <num> <num> 种 中间 垂直 翻转 式 <org> 光热 窗 <num>
+0	<num> <num> <num> 种 两侧 平移 垂直 <org> 光热 窗 <num>
+0	<num> <num> <num> 种 可 隐藏 、 翻 板式 <org> 光热 窗 <num>
+0	<num> <num> 明 框 铝合金 玻璃 幕墙 隔热 断桥 开启 结构 <num>
+0	<num> <num> <num> 种 带有 卡 入 式 玻璃 托 板 的 开启 扇 结 枸 <num>
+0	<num> <num> ,
+0	<num> 种 带有 末端 封堵 的 明 框 玻璃 幕墙 支撑 框架 <num>
+0	<num> <num> <num> 种 带有 伸缩 导向 定位 夹 的 明 框 玻璃 幕墙 支撑 框架 <num>
+0	<num> <num> <num> 种 带有 十字 胶垫 的 明 框 玻璃 幕墙 支撑 框架 ,
+0	<num>
+0	<num> <num> 双 轴 快捷 式 幕墙 横梁 安装 卡 件 。
+0	<num>
+0	<num> <num> <org> 幕墙 外 檐 式 导 水 件 <num>
+0	<num> <num> <org> 、 光热 铝合金 节能 窗 <num>
+0	<num> <num> <num> 种 快 装 单元 式 吊 轨 推拉门 <num>
+0	<num> <num> <num> 种 上 采光 下集 热 式 光热 窗 <num>
+0	<num> <num> <num> 种 竖 式 集 热 光热 窗 <num>
+0	<num> <num> <num> 种 光热 建筑 一体化 的 转角 式 集 热 落地 光热 窗 ? ? ? ? <num>
+0	<num> <num> <num> 种 单元 式 玻璃 幕墙 横向 铝合金 支撑 上下 衔接 装置 <num>
+0	<num> <num> 用于 石材 幕墙 的 面板 组件 结构 <num>
+0	<num> <num> <num> 种 防盗 <org> 集 热 装置 <num>

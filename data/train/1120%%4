@@ -1,0 +1,90 @@
+0	<num> 年 内 到期 的 长期 借款 <num>
+0	<num> 年 内 到期 的 中期 票据 <num>
+0	<num> 年 肉 到期 的 长期 应付款 <num>
+0	<num> 年 内 到期 的 其他 非 流动 负债 <num>
+0	<num>
+0	<num> 、 非 流动 负债 合计 : <num> ,
+0	<num> ,
+0	<num> 元 ,
+0	占 总 负债 的 <num>
+0	( <num> ) 长期 借款 : <num> ,
+0	<num> ,
+0	<num> 元 ,
+0	占 非 流动 负债 的 <num> ,
+0	明细 如下 :
+0	抵押 借款 日元
+0	保证 借款 人民币 <num>
+0	美元 <num>
+0	信用 借款 人民币 <num>
+0	美元 <num>
+0	日元 <num>
+0	合计 <num>
+0	( <num> ) 应付 债券 : <num> ,
+0	<num> ,
+0	<num> 元 ,
+0	占 非 流动 负债 的 <num> ° / 。
+0	全部 为 企业 债券 。
+0	( <num> ) 专项 应付款 : <num> ,
+0	<num> 元 ,
+0	占 非 流动 负债 的 <num> ,
+0	全部 为 项目 专项 资金 。
+0	股东 权益 类 ( 截至 x 年末 )
+0	截止 x 年末 ,
+0	甲 所有者 权益 <num> ,
+0	<num> ,
+0	<num> 元 ,
+0	其中 :
+0	<num> 、 股本 : <num> ,
+0	<num> ,
+0	<num> 元 ,
+0	占 所有者 权益 的 <num> 。
+0	人民币 普通股 <num>
+0	境外 上市 的 外资股 <num>
+0	合计 <num>
+0	<num> 、 盈余 公 积 : <num> ,
+0	<num> 元 ,
+0	占 所有者 权益 的 <num> 。
+0	<num> 、 未 分配 利润 : <num> ,
+0	<num> ,
+0	<num> 元 ,
+0	占 所有者 权益 的 <num> ,
+0	全部 为 甲 经营 所 产生 的 利润 。
+0	<num> 、 少数 股东 权益 : <num> ,
+0	<num> 元 ,
+0	占 所有者 杈 益 的 <num> 。
+0	( <num> ) 损益表 分析
+1	单位 : <num> 元
+1	项目 <tim> 年 <tim> 年 <tim>
+1	<num> 、 营业 总 收入 <num> ,
+1	<num> ,
+1	<num> <num> ,
+1	<num> <num> ,
+1	<num> ,
+1	<num>
+0	<num> 、 营业 总 成本 <num> ,
+0	<num> ,
+0	<num> <num> <num> ,
+0	<num> ,
+0	<num>
+0	<num> 、 营业 利润 <num> ,
+0	<num> <num> ,
+0	<num> - <num> ,
+0	<num>
+0	<num> 、 利润 总额 <num> ,
+0	<num> <num> ,
+0	<num> - <num>
+1	<num> 、 净利润 <num> <num> ,
+1	<num> - <num> ,
+1	<num>
+0	( <num> ) 主要 财务 指标 分析
+1	单位 : <num> 元
+1	项目 <tim> 年 <tim> 年 <tim>
+1	偿债 能力 指标 资产 负债率 <num> <num> <num> <num> <num>
+1	菰 动比率 <num> <num> <num> + <num> <num> + <num>
+1	速 动比率 <num> <num> <num> <num> <num> <num>
+1	盈利 能力 指标 总资产 收益率 <num> <num> <num> <num> - <num>
+1	净资产 收益率 <num> <num> <num> - <num> <num>
+1	销售 净利润率 <num> + <num> <num> <num> - <num>
+1	运营 能力 指标 总 赞 产 周转率 <num> <num> <num> <num> <num> ‘ <num>
+1	应收 账款 周转率 <num> <num> <num> <num> + <num>
+1	存货 周转率 <num> <num> <num> <num> <num> <num>

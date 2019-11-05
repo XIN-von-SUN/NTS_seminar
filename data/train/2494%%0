@@ -1,0 +1,12 @@
+0	贷款 资金 使用 管理 情况
+0	贷款 资金 使用 管理 情况
+0	<num> 、 贷款 资金 使用 情况
+1	序号 企业 名称 交易 时间 币种 借 贷 账户 余额 对方 户名 对方 账号 摘要
+0	<num> <org> <tim> 人民币 <num> <num> 一般 贷款
+0	<num> <org> <tim> 人民币 <num> <num> 收费
+0	<num> <org> <tim> 人民币 <num> <num> <org> 购货
+0	<num> <org> <tim> 人民币 <num> <num> 结 息
+0	<num> <org> <tim> 人民币 <num> <num> 结 息
+0	<num> <org> <tim> 人民币 <num> <num> 客户 账户 维护 费
+0	<num> <org> <tim> 人民币 <num> <num> 结 息
+0	<num> <org> <tim> 人民币 <num> <num> 客户 账户 维护 费

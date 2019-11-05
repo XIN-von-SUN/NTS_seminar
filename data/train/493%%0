@@ -1,0 +1,90 @@
+0	" ( <num> ) 抵押物 情况
+0	<num> 、 抵押物 基本 情况
+0	抵押物 为 申请 人 开发 建设 的 “ y ” 项目 <num> 期 及 二期 的 部分 在 建 工程 及 占用 全部 土地 使用权 ,
+0	位于 x 。
+0	包括 住宅 及 商 网 ,
+0	在 建 工程 面 积 合计 <num> 平方米 ,
+0	占用 土地 面积 合计 <num> 平 方 米 ,
+0	抵押物 所处 建筑 已 主体 封顶 ,
+0	手续 齐全 ,
+0	且 具备 销售 条件 。
+0	<num> 、 抵押物 评估 情况
+0	本次 评估 由 <org> 进行 评估 ,
+0	根据 项目 进度 及 完工 程度 对 <num> 期 评估 采用 市场 法 ,
+0	二期 评估 采用 假设 开发 法 ,
+1	抵押物 评估 总 价值 <num> <num> 元 ,
+1	对应 <num> 元 贷款 ,
+1	抵押 折扣率 <num> 。
+0	符 合 我 行 货款 抵押 折扣率 规定 。
+0	抵押 评估 明细 如下 :
+0	在 建 工程 评估 结果 一览表
+0	<num> 期 在 建 工程 ( 含 摊 土地 价值 )
+0	楼 号 用途 面积 ( m2 ) 评估 单价 ( m2 ) 评估 价值 ( <num> 元 )
+0	<num> # 住宅 <num> <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num>
+0	<num> 期 合计 <num> 套 <tim> <num> <num> <num>
+0	二期 在 建 工程 ( 含 分摊 土地 价值 )
+0	<num> # 住宅 <num> <num> <num>
+0	商业 网点 <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num> <num>
+0	商业 网点 <num> <num> <num> <num>
+0	<num> # 住宅 <tim> <num> <num> <num>
+0	商业 <num> <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num>
+0	商业 网点 <num> <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num> <num>
+0	商业 网点 <num> <num> <num> <num>
+0	<num> # 住宅 <num> <num> <num> <num>
+0	商业 网点 <num> <num> <num> <num> , <num>
+0	<num> # 住宅 <num> <num> <num> <num>
+0	商业 网点 <num> <num> <num> <num>
+0	<num> # 商业 网点 <num> <num> <num> <num>
+0	<num> # 商业 网点 <num> <num> <num> <num>
+0	<num> # 商业 网点 <num> <num> <num> <num>
+0	<num> # 商业 网点 <num> <num> <num> <num>
+0	<num> # 商业 网点 <num> <num> <num>
+0	<num> # 商业 网点 <num> <num> <num>
+0	<num> # 商业 网点 <num> <num> <num> <num>
+0	<num> # 商业 网点 <num> <num> <num>
+0	二期 住宅 合计 <num> 套 <num> <num> <num>
+0	二期 商业 合计 <num> 套 <num> <num> <num> <num>
+0	二期 合计 <num> 套 <num> <num> <num>
+0	合计 总 在 建工 合计 <num> 套 <num> <num> <num>
+0	<num> 期 占用 土地 <num>
+0	二期 占用 土地 <num>
+0	<num> 、 支行 审查 评估 结论
+0	经 我 支行 信 货 人员 双人 现场 勘查 ,
+0	并 根据 项目 周边 的 房价 及 未来 发展 趋势 ,
+0	结合 审查 评估 单位 预 评 结果 我 支行 认为 :
+1	( <num> ) 该 抵押物 所处 地理 位置 较 好 ,
+0	东临 x 南街 ( 现 为 城市 快速路 ,
+0	双向 <num> 车道 ,
+0	路面 宽 <num> 米 ) ,
+0	距离 x <num> 公里 ,
+0	距 x 商务 区 仅需 <num> 分钟 车程 。

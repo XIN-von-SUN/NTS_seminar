@@ -1,0 +1,90 @@
+0	( <tim> / <num> )
+0	总资产 <num> , <num>
+0	<num> <num> , <num>
+0	<num> <num> , <num>
+0	<num> <num> , <num>
+0	<num>
+0	货币 资金 <num>
+0	<num> <num>
+0	<num> <num>
+0	<num> <num>
+0	<num>
+0	应收 账款 <num> <num>
+0	<num> <num>
+0	<num> <num>
+0	<num>
+0	其他 应收 账款 <num> , <num>
+0	<num> <num>
+0	<num> <num>
+0	<num> <num>
+0	<num>
+0	存货 <num> <num>
+0	<num> <num> , <num>
+0	<num> <num> , <num>
+0	<num>
+0	长期 投资 <num>
+0	<num> <num>
+0	<num> <num>
+0	<num> <num>
+0	<num>
+0	总 负债 <num> , <num>
+0	<num> <num> , <num>
+0	<num> <num> , <num>
+0	<num> <num> , <num>
+0	<num>
+0	短期 借款 <num> , <num>
+0	<num> <num> , <num>
+0	<num> <num> , <num>
+0	<num> <num>
+0	<num>
+0	应付 票据 <num> , <num>
+0	<num> <num> , <num>
+0	<num> <num> , <num>
+0	<num> <num> , <num>
+0	<num>
+0	应付 账款 <num>
+0	<num> <num> , <num>
+0	<num> <num> , <num>
+0	<num> <num> , <num>
+0	<num>
+0	长期 借款 <num>
+0	<num> <num>
+0	<num> <num>
+0	<num> <num>
+0	<num>
+0	净资产 <num> , <num>
+0	<num> <num> , <num>
+0	<num> <num>
+0	<num> <num>
+0	<num>
+0	销售 收入 <num>
+0	<num> <num>
+0	<num> <num>
+0	<num> <num>
+0	<num>
+0	利润 总额 <num> , <num>
+0	<num> <num> , <num>
+0	<num> <num> , <num>
+0	<num> <num> , <num>
+0	<num>
+0	净利润 <num> , <num>
+0	<num> <num> , <num>
+0	<num> <num> , <num>
+0	<num> <num> , <num>
+0	<num>
+0	净 现金流 <num> <num> <num> , <num>
+0	<num> <num> , <num>
+0	<num>
+0	经营 活动 净 现金流 <num> <num> - <num> ,
+0	<num> <num>
+0	<num>
+0	投资 活动 净 现金流 <num> <num> - <num> ,
+0	<num> - <num> , <num>
+0	<num>
+0	筹资 活动 净 现金流 <num> <num> <num>
+0	<num> <num> , <num>
+0	<num>
+1	流动 比率 <num> <num> <num> <num>
+1	速 动比率 <num> <num> <num> <num>
+1	资产 负债率 <num> <num> <num> <num>
+1	利息 保障 倍数 <num> <num> <num> <num>

@@ -1,0 +1,40 @@
+0	" 该 项目 主要 建设 情况 如下 :
+0	<num> 、 修建 机耕 道路 <num> 米
+0	新建 某 机耕 路 <num> 米 ,
+0	某 机耕 路 <num> 米 ,
+0	沥青 路 宽 5m <num> 米
+0	<num> 、 新建 节水 灌溉 工程 <num> 亩
+0	在 某 村 精品 蔬菜 基地 新增 节水 灌溉 面积 <num> 亩 ,
+0	建成 后 示范 园区 节水 灌溉 受益 面积 全 覆盖 。
+0	<num> 、 新增 <num> 亩 设施 栽培 面积
+0	区内 新增 设施 栽培 面积 <num> 亩 ( <num> 只 <num> 型 钢质 大棚 ,
+0	<tim> 只 <num> 型 钢质 大棚 ) ,
+0	连栋 钢质 <num> 目 防虫 网 大棚 <num> 平方米 。
+0	新建 泵站 <num> 座 ,
+0	修建 “ u ” 板 渠 <num> 米 ,
+0	河道 疏浚 <num> 立方米 ,
+0	新建 农 桥 <num> 座 。
+1	序号 建设 内容 名称 规格 单位 数量 单价 ( 元 ) 预算 ( <num> 元 )
+0	<num> 农业 措施
+0	<num> 土地 平整           <num>
+0	<num> 田 面 平整     亩 <num> <tim> <num>
+0	<num> 农业 措施           <num>
+0	<num> 机耕 路 淼 薛 宽 4m 米 <num> <num> <num>
+0	陈 角 宽 4m 米 <num> <num> <num>
+0	吴 楼 宽 4m 米 <num> <num> <num>
+0	马 潭 宽 4m 米 <num> <num> <num>
+0	沥青 路 宽 5m 米 <num> <num> <num>
+0	<num> <num> 型 钢质 大棚 标准 钢质 大棚 连 棚 膜 ( <num> 米 × <num> 米 ) 只 <num> <num> <num>
+0	<num> <num> 型 钢质 大棚 标准 钢质 大棚 连 棚 膜 ( <num> 米 × <num> 米 ) 只 <tim> <num> <num>
+0	<num> 连栋 防虫 网 标准 钢质 连栋 防虫 网 <num> 目 平方米 <num> <num> <tim>
+0	<num> 水利 措施           <tim>
+0	<num> 节水 泵站 泵站 <num> 座 座 <num> <num> <num>
+0	<num> 灌溉 全 覆盖 <tim> 亩 供水 喷 滴 设施 亩 <tim> <tim> <num>
+0	<num> “ u ” 板 渠 <num> 厘米 × <num> 厘米 米 <num> <num> <num>
+0	<num> 河道 疏浚     立方米 <num> <num> <num>
+0	<num> 农 桥     座 <num> <num> <num>
+0	小计           <num>
+0	<num> 经营性 流动 资金       <num>
+0	<num> 预备 费       <num>
+0	<num> 建设 期 利息       <tim>
+0	总计       <num>

@@ -1,0 +1,90 @@
+0	种类 <num> <num> <num> <num>
+0	银行 承兑 汇票 <num> <num> ,
+0	<num>
+0	商业 承兑 汇票 <num> <num>
+0	合计 <num> ,
+0	<num> <num>
+0	③ 应收 账款 : <num> 元 ,
+0	占 流动 资产 的 <num> ,
+0	账 龄 均 在 <num> 年 以内 。
+0	应收 款项 明细 单位 : <num> 元
+0	序号 单位 名称 期末 余额 占 比
+0	<num> <org> <num> <num> <num>
+0	<num> <org> <num> <num> <num>
+0	<num> 庚 <num> 公司 <num> <num> <num>
+0	<num> <org> <num> <num> <num>
+0	<num> <org> <tim> <num>
+0	合计 <num> <num> <num>
+0	④ 预付 账款 : <num> 元 ,
+0	占 流动 资产 的 <num> 。
+0	账 龄 全部 在 <num> 年 以内 。
+0	预付 款项 明细 单位 : <num> 元
+0	序号 单位 名称 期末 余额 未 结算 原因
+0	<num> <org> <num> 业务 未完
+0	<num> <org> <num> ,
+0	<num> 业务 未完
+0	<num> <org> <num> 业务 未完
+0	<num> <org> <num> ,
+0	<num> 业务 未完
+0	<num> <per> <num> 业务 未完
+0	⑤ 其他 应收款 : <num> 元 ,
+0	占 流动 资产 的 <num> 。
+0	其它 应收款 明细 单位 : <num> 元
+0	序号 单位 名称 年末 金额 欠款 性质
+0	<num> 某 部 <num> ,
+0	<num> 补贴
+0	<num> 政府 奖励 \ 增值税 <num> 返还 的 税款
+0	<num> 冯 <num> <num> ,
+0	<num> 往来 款
+0	<num> <org> <num> 往 采 款
+0	<num> <org> <num> 往来 款
+0	⑥ 存货 : <num> 元 ,
+0	占 流动 资产 的 <num> ,
+0	主要 为 原材料 、 库存 商品 、 自制 半成品 及 在 产品 和 周转 材料 等 。
+0	存货 明细 单位 : <num> 元
+0	项目 <num>
+0	原材料 <num>
+0	在 产品 <num> ,
+0	<num>
+0	生产 成本 <num>
+0	库存 商品 <num> ,
+0	<num>
+0	周转 材料 <num>
+0	材料 采购
+0	出 商品 <num> ,
+0	<num>
+0	委托 加工 物资 <num>
+0	开发 成本 <num> ,
+0	<num>
+0	合计 <num> ,
+0	<num>
+0	⑦ 长期 股权 投资 : <num> 元 ,
+0	占 总资产 的 <num> ,
+0	主要 是 对 联营 企业 和 其他 企业 的 投资 。
+0	重大 股权 投资 如下 :
+0	长期 股权 投资 明细 单位 : <num> 元
+0	被 投资 单位 名称 期末 投资 账面 余额 榇 算 方法
+0	<org> <num> 成本法
+0	<org> <num> 成本法
+0	<org> <num> 成本法
+0	合计 <num> 成本法
+0	⑧ 固定 资产 净额 : <num> 元 ,
+0	占 总资产 的 <num> ,
+0	主要 为 房屋 建筑物 、 机器 设备 、 电子 设备 和 运输 设备 等 。
+0	固定 资产 账面 净值 单位 : <num> 元
+0	类别 <tim> <tim>
+0	房屋 及 建筑物 <num> ,
+0	<num> <num> ,
+0	<num>
+0	机器 设备 <num> ,
+0	<num> <num> ,
+0	<num>
+0	运输 工具 <num> <num>
+0	电子 设备 <num> <num>
+0	其他 <num> <num>
+0	⑨ 在 建 工程 : <num> 元 ,
+0	占 总资产 的 <num> 。
+0	主要 在 建 工程 单位 : <num> 元
+0	工程 名称 <tim> <tim>
+0	庚 <num> 项目 <num> <num>
+0	庚 <num> 基建 <num> <num> <num>

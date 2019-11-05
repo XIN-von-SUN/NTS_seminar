@@ -1,0 +1,52 @@
+0	" ( <num> ) 申请 人 征信 情况
+0	经 <org> 征信 系统 查询 ,
+1	截至 <tim> ,
+1	申请 人 未 结清 贷款 <num> 笔 ,
+1	金额 共计 <num> 元 ;
+1	被 剥离 负债 共计 <num> 笔 ,
+1	金额 共计 <num> 元 ;
+1	申请 人 对外 保证 担保 <num> 笔 ,
+1	余额 合计 <num> 元 ,
+1	我 行 内 评为 a 。
+0	申请 人 被 剥离 负债 <num> 笔 ,
+0	金额 <num> 元 ,
+0	被 剥离 时间 为 <tim> 。
+0	<org> 于 <tim> 参与 认购 申请 人 非 公开 发行 a 股 股票 ,
+0	成为 申请 人 控股 股东 。
+0	此 <num> 笔 被 剥离 负债 为 <org> 入股 申请 人 之前 所 产生 ,
+0	与 <org> 无 关联 关系 。
+0	截至 <tim> 末 ,
+1	申请 人 融资 明细
+0	融资 机构 融资 类型 融资 额 起始 日 到期 曰 担保 方式
+0	某 银行 流动 资金 贷款 <num> / <num> / <num> / <num> / <num> 保证
+0	某 银行 流动 资金 贷款 <num> / <num> / <num> / <num> / <num> 保证
+0	某 银行 流动 资金 贷款 <num> / <num> / <num> / <num> / <num> 保证
+0	某 银行 直 融 工具 债 项 融资 <num> / <num> / <num> / <num> / <num> 信用
+0	某 银行 直 融 工具 债 项 融资 <num> / <num> / <num> / <num> / <num> 信用
+0	某 农 商行 流动 资金 贷款 <num> / <num> / <num> / <num> / <num> 保证
+0	某 信托 - 某 银行 信托 计划 / 资 管 计划 <num> / <num> / <num> / <num> / <num> 保证
+0	某 银行 委托 贷款 <num> / <num> / <num> / <num> / <num> 保证
+0	某 银行 流动 资金 贷款 <num> / <num> / <num> / <num> / <num> 保证
+0	某 信托 信托 贷款 <num> / <num> / <num> / <num> / <num> 保证
+0	某 银行 流动 资金 贷款 <num> / <num> / <num> / <num> / <num> 保证
+0	某 银行 流动 资金 贷款 <num> / <num> / <num> / <num> / <num> 保证
+0	某 银行 流动 资金 贷款 <num> / <num> / <num> / <num> / <num> 保证
+0	某 银行 流动 资金 贷款 <num> / <num> / <num> / <num> / <num> 保证
+0	某 银行 流动 资金 贷款 <num> / <num> / <num> / <num> / <num> 保证
+0	某 银行 流动 资金 贷款 <num> / <num> / <num> / <num> / <num> 保证
+0	某 银行 流动 资金 贷款 <num> / <num> / <num> / <num> / <num> 保证
+0	某 租赁 - 某 银行 委托 贷款 <num> / <num> / <num> / <num> / <num> 保证
+0	某 信托 贷款 <num> / <num> / <num> / <num> / <num> 保证
+0	某 融资 租赁 有限 公司 融资 租赁 <num> / <num> / <num> / <num> / <num> 抵押
+0	某 信托 信托 贷款 <num> / <num> / <num> / <num> / <num> 保证
+0	某 信托 信托 贷款 <num> / <num> / <num> / <num> / <num> 保证
+0	某 信托 信托 贷款 <num> / <num> / <num> / <num> / <num> 保证
+0	某 信托 信托 贷款 <num> / <num> / <num> / <num> / <num> 保证
+0	某 信托 信托 贷款 <num> / <num> / <num> / <num> / <num> 保证
+0	某 信托 委托 贷款 <num> / <num> / <num> / <num> / <num> 保证
+0	某 资 管 计划 - 某 银行 委托 贷款 <num> / <num> / <num> / <num> / <num> 质押
+0	某 资 管 计划 - 某 银行 委托 贷款 <num> / <num> / <num> / <num> / <num> 质押
+0	某 资 管 计划 - 某 银行 委托 贷款 <num> / <num> / <num> / <num> / <num> 质押
+0	某 资 管 计划 - 某 银行 委托 贷款 <num> / <num> / <num> / <num> / <num> 质押
+0	某 银行 流动 资金 贷款 <num> / <num> / <num> / <num> / <num> 保证
+1	合计 <num>

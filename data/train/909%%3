@@ -1,0 +1,90 @@
+0	漳 台 施 <tim> - <num> 乙 丁 城市 广场 <num> # - <num> # 楼 <num> ( 含 地下室 <num> 标段 <num> ㎡ )
+0	乙 丁 城市 广场 <num> # - <num> # 楼 <num>
+0	乙 丁 城市 广场 <num> # - <num> # 楼 <num>
+0	乙 丁 城市 广场 <num> # - <num> # 楼 <num> <num> # - <num> # 楼 主体 工程 ,
+0	施工 方 : <org> ,
+0	合同 金额 <num> 元 ,
+0	竣工 日期 <tim> ;
+0	<num> # - <num> # 楼 主体 工程 ,
+0	施工 方 : 戊 甲 第 <num> 建设 工程 有限 责任 公司 ,
+0	合同 金额 <num> 元 ,
+0	竣工 日期 <tim>
+0	<num> # - <num> # 楼 主体 工程 及 地下室 ,
+0	施工 方 : 戊 甲 第 <num> 建设 工程 有限 责任 公司 ,
+0	合同 金额 <num> 元 ,
+0	竣工 日期 <tim>
+0	<num> # - <num> # 楼 主体 工程 及 地下室 ,
+0	施工 方 : 戊 甲 第 <num> 建设 工程 有限 责任 公司 ,
+0	合同 金额 <num> 元 ,
+0	竣工 日期 <tim> ( 地下室 <num> ㎡ )
+0	预售 许可证 <tim>
+0	<tim>
+0	<tim>
+0	<tim> <tim> 漳 台 房 预售证 第 <tim>
+0	<tim> 漳 台 房 预售证 第 <tim>
+0	<tim> 漳 台 房 预售证 第 <tim>
+0	<tim> 漳 台 房 预售证 第 <tim>
+0	<num> # 楼 <num> ,
+0	共 <num> 套
+0	<num> # 楼 <num> 共 <num> 套
+0	<num> # 楼 <num> ,
+0	共 <num> 套
+0	<num> # 楼 <num> ,
+0	共 <num> 套
+0	注 : 施工 许可证 ( 漳 台 施 <tim> - <num> ) <num> - <num> # 楼 为 前期 旧 证 。
+0	由于 设计 方案 变更 所以 <num> - <num> # 楼 施工 证 进行 变更 ,
+0	已 办理 <num> - <num> # 施工 证 ( 漳 台 施 <tim> - <num> ( 补 ) 、 漳 台 施 <tim> - <num> ( 补 ) ) ,
+0	<num> - <num> # 新 施工 证 正在 办理 ,
+0	近期 可以 拿到 。
+0	<num> 、 项目 投资 预算 及已 投入 情况 ( 单位 : <num> 元 、 元 / 平米 )
+0	项目 投资 的 具体 情况 如下 表 :
+1	序号 名称 单位 建筑 面积 单方 造价 ( 元 ) 金 额 ( <num> 元 ) 说明
+0	<num> 土地 成本   m ? ? ? ? <num> <num> <num>
+0	<num> 市政 道路 、 公园 建设 费 m ? ? ? ?
+0	<num> 前期 工程款     m ? ? ? ? <num> <num> <num>
+0	<num> 临时 用 电 ( 共 <num> 台 箱 变 ) m ? ? ? ? <num> <num> <num>
+0	<num> 临时 用水 m ? ? ? ? <num> <num> <num>
+0	<num> 临时 围墙 m ? ? ? ? <num> <num> <num>
+0	<num> 勘察 费 ( 建筑 面积 ) m ? ? ? ? <num> <num> <num>
+0	<num> 设计费 m ? ? ? ? <num> <num> <num>
+0	<num> 环评 费 m ? ? ? ? <num> <num> <num>
+0	<num> 白蚁 预防 工程 费 m ? ? ? ? <num> <num> <num>
+0	<num> 地震 灾害 评估 m ? ? ? ? <num> <num> <num>
+0	<num> 交通 评估 m ? ? ? ? <num> <num> <num>
+0	<num> 日照 m ? ? ? ? <num> <num> <num>
+0	<num> 审图 费 m ? ? ? ? <num> <num> <num>
+0	<num> 其他 m ? ? ? ? <num> <num> <num>
+0	<num> 建筑 安装费 m ? ? ? ? <num> <num> <num>
+0	<num> 基础 工程 ( 基坑 支 护 、 桩基 、 土方 ) m ? ? ? ? <num> <num> <num>
+0	地下室 工程 m ? ? ? ? <num> <num> <num>
+0	± <num> 以上 主体 建安 工程 费 m ? ? ? ? <num> <num> <num>
+0	消防 工程 费 m ? ? ? ? <num> <num> <num>
+0	主体 公共 部位 精装饰 工程 费 m ? ? ? ? <num> <num> <num>
+0	外立面 门窗 工程 m ? ? ? ? <num> <num> <num>
+0	电梯 工程 m ? ? ? ? <num> <num> <num>
+0	<num> 基础 设施 费 m ? ? ? ? <num> <num> <num>
+0	<num> 道路 、 场地 硬化 及 景观 绿化 工程 m ? ? ? ? <num> <num> <num>
+0	<num> 供电 费用 m ? ? ? ? <num> <num> <num>
+0	<num> 室外 供水 工程 ( 含 设备 ) m ? ? ? ? <num> <num> <num>
+0	<num> 室外 排水 工程 ( 含 雨 污水 ) m ? ? ? ? <num> <num> <num>
+0	<num> 正式 用水 开口 费用 m ? ? ? ? <num> <num> <num>
+0	安防 通信 及 智能化 工程 m ? ? ? ? <num> <num> <num>
+0	<num> 夜景 工程 m ? ? ? ? <num> <num> <num>
+0	<num> 标识 系统 m ? ? ? ? <num> <num> <num>
+0	<num> 公共 配套 设施 费 m ? ? ? ? <num> <num> <num>
+0	<num> 开发 间接 费用 m ? ? ? ? <num> <num> <num>
+0	<num> 监理 费 m ? ? ? ? <num> <num> <num>
+0	<num> 造价 咨询 费 m ? ? ? ? <num> <num> <num>
+0	<num> 造价 咨询 费
+0	( 优化 <per> 后 第 <num> 次 ) m ? ? ? ? <num> <num> <num>
+0	<num> 基本 预备 费 m ? ? ? ? <num> <num> <num>
+0	<num> 其他 m ? ? ? ? <num> <num> <num>
+0	<num> 销售 费用 m ? ? ? ? <num> <num> <num>
+0	<num> 管理 费用 m ? ? ? ? <num> <num> <num>
+0	<num> 财务 费用 m ? ? ? ? <num> <num> <num>
+0	合计 总 投资       <num>
+0	注 : 总 投资 预算 表 中 不 包含 土地 增值税 、 所得税 和 营业税 及 附加 等 税费 。
+0	( <num> ) 总 投资 预算 说明 :
+0	<num> ) 土地 费用 : 叙述 土地 原始 取得 成本 ( 指 土地 出让 合同 记载 的 价格 ) 和 实际 支付 成本 ( 指 股权 支付 价格 、 拆迁 和 补偿 金额 等 ) 及 费用 构成 、 可 核实 的 费用 发票 数额 ,
+0	是否 按 土地 评估 值 入账 、 分期 开发 项目 的 土地 费用 分摊 原则 等 。
+0	可 与 同 类型 近期 公开 市场 价格 加以 对比 ,

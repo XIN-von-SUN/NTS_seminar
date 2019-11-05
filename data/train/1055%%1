@@ -1,0 +1,90 @@
+0	固定 资产 及 存货 大幅 的 增加 。
+0	<num> 损益表 ( 单位 : <num> 元 )
+1	科目 集团 本部 说明
+1	<tim> 期 <tim> 期 <tim> 期 <tim> 期 <tim> 期 <tim> 期 <num>
+1	营业 收入 <num> <num> <num> <num> <num> <num> <num> 由于 企业 订单 销售 有所 增加
+0	营业 成本 <num> <num> <num> <num> <num> <num> <num>
+0	营业 税金 及
+0	附加 <num> <num> <num> <num> <num> <num>
+0	销售 费用 <num> <num> <num> <num> <num> <num>
+0	管理 费用 <num> <num> <num> <num> <num> <num> <num>
+0	财务 费用 <num> <num> <num> <num> <num> <num> <num>
+0	资产 减值 损失 <num> <num> <num> <num> <num> <num>
+0	投资 收益 <num> <num> <num> <num> <num> <num>
+0	营业 利润 <tim> <num> <num> <num> <num> <num> <num>
+0	营业 外 收入 <num> <num> <num> <num> <num> <num> <num> 贴息 款
+0	营业 外 支出 <num> <num> <num> <num> <num> <num>
+0	利润 总额 <tim> <num> <num> <num> <num> <num> <num>
+0	净利润 <tim> <num> <num> <num> <tim> <num> <num>
+0	销售 利润率 <num> <num> <num> <num> <num> <num> <num>
+0	益 表 来 看 ,
+1	<tim> ,
+1	申请 人 实现 营业 收入 <num> 元 ,
+1	较 上年 增长 <num> ,
+1	实现 净利润 <num> 元 ,
+1	较 上年 增长 <num> 。
+1	总体 来 说 企业 <tim> 的 运营 状况 良好 。
+0	企业 账户 的 流水 明细 : ( <org> ) 单位 : <num> 元
+0	<num> 月 <num> 月 <num> 月 <num> 月 <num> 月 <num>
+0	<num> <num> <num> <tim> <tim> <tim>
+0	<num> 月 <num> 月 <num> 月 <num> 月 <num> 月 <num> 月 总计
+0	<num> <num> <num> <num> <num> <num>
+0	企业 账户 的 流水 明细 : ( 民生 ) 单位 : <num> 元
+0	<num> 月 <num> 月 <num> 月 <num> 月 <num> 月 <num>
+0	<num> <num> <num> <num>
+0	<num> 月 <num> 月 <num> 月 <num> 月 <num> 月 <num> 月 总计
+0	<tim> <num> <num> <num> <tim>
+0	企业 实际 控制 人 a 名下 的 流水 明细 : ( <org> ) 单位 : <num> 元
+0	<num> 月 <num> 月 <num> 月 <num> 月 <num> 月 <num>
+0	<num> <num> <num> <num> <num> <num>
+0	<num> 月 <num> 月 <num> 月 <num> 月 <num> 月 <num> 月 总计
+0	<num> <num> <num> <num>
+0	企业 财务 人员 ( 邹 某 ) 名下 的 流水 明细 : ( <org> ) 单位 : <num> 元
+0	<num> 月 <num> 月 <num> 月 <num> 月 <num> 月 <num>
+0	<num> <num> <num> <num> <num>
+0	<num> 月 <num> 月 <num> 月 <num> 月 <num> 月 <num> 月 总计
+0	<num> <num> <num> <tim> <tim> <tim> <num>
+0	帐 外 个人 流水 的 造成 : 丑 <num> 港口 有 就地 采购 及 免税 权 ,
+0	故 有 大宗 的 粮食 采购 可以 个人 名义 购销 ,
+0	可 不 提供 发票 ,
+0	资金 可 直接 进入 个人 账户 。
+0	通过 对 申请 人 财务 报表 的 分析 ,
+0	企业 资金 大部 用于 粮食 收储 与 加工 、 收储 场地 建设 及 加工 设备 更新 维护 ,
+0	<per> 粮食 加工 企业 的 经营 特点 。
+0	其 应收 账款 数额 较 大 ,
+0	则 销售 回 款 速度 较 慢 ,
+2	但 回 款 保障 度高 ,
+2	坏账 风险 小 ,
+0	故 有 融资 需求
+0	<num> 现金流 量表 ( 单位 : <num> 元 )
+1	项目 合并 本部
+1	<tim> 期 <tim> 期 <tim> 期 <tim> 期 <tim> 期 <tim> 期
+1	<num> 、 经营 活动 现金 流量 :
+0	销售 商品 、 提供 劳务 收到 的 现金 <num> <num> <num> <num> <num> <num>
+0	收到 的 其它 与 经营 活动 有关 的 现金 <num> <tim> <num> <num> <tim> <num>
+0	现金 流入 小计 <num> <num> <num> <num> <num> <num>
+0	购买 商品 、 接受 劳务 支付 的 现金 <num> <num> <num> <num> <num> <num>
+0	支付 的 其它 与 经营 活动 有关 的 现金 <tim> <num> <tim> <num> <num> <num>
+0	现金 流出 小计 <num> <num> <num> <num> <num> <num>
+1	经营 活动 现金 流量 净额 - <num> <num> - <num> <num> - <tim> - <num>
+1	<num> 、 投资 活动 现金 流量 :
+0	取得 投资 收益 所 收到 的 现金 <num> <num> <num> <num> <num>
+0	现金 流入 小计 <num> <num> <num> <num> <num>
+0	购建 固定 资产 等 所 支付 的 现金 <num> <num> <tim> <num> <num> <tim>
+0	投资 所 支付 的 现金 <num> <num> <num> <num> <num>
+0	现金 流出 小计 <num> <num> <tim> <num> <num> <tim>
+1	投资 活动 现金 流量 净额 - <num> - <num> - <tim> <num> - <num> - <tim>
+1	<num> 、 筹资 活动 现金 流量 :
+0	吸收 投资 所 收到 的 现金 <num> <num> <num> <num> <num>
+0	借款 所 收到 的 现金 <tim> <num> <num> <num> <num> <num>
+0	现金 流入 小计 <tim> <num> <num> <num> <num> <num>
+0	偿还 债务 支付 的 现金 <num> <tim> <num> <num> <num> <num>
+0	分配 股利 或 利润 支付 的 现金 <num> <num> <num> <num> <num> <num>
+0	现金 流出 小计 <num> <tim> <num> <num> <num> <num>
+1	筹资 活动 现金 流量 净额 <tim> <tim> <num> <num> <num> <num>
+1	<num> 、 现金 及其 等价物 净 增加 额 <tim> <tim> - <num> <num> <tim> - <tim>
+0	备注 : 经营 现金流 为 负 ,
+0	主要 是 因为 收买 来 的 粮食 未 进行 销售 ,
+0	而是 进行 仓储 ,
+0	这 是 造成 现金流 为 负 的 主要 原因 。
+0	<num> 、 信用 评级 与 限额 分析

@@ -1,0 +1,74 @@
+0	科目 <tim> <tim> <tim> <tim>
+0	本部 | 合并 本部 本部 本部 本部
+0	年报 是否 审计 是 是 否
+0	资产 负债 简 表 <num> 总资产 合计 <num> <num> <num> <num>
+0	流动 资产 合计 <num> <num> <num> <num>
+0	货币 资金 <num> <num> <num> <num> , <num>
+0	应收 账款 <num> <num> <num> <num> , <num>
+0	预付 账款 <num> <num> <num>
+0	其他 应收款 <num> <num> <num> <num>
+0	存货 <num> <num> <num> <num>
+0	长期 股权 投资 <num> <num> <num> <num>
+0	投资 性 房地产 <num> <num> <num>
+0	固定 资产 净值 <num> <num> <num> <num>
+0	负债 合计 <num> <num> <num> <num>
+0	流动 负债 合计 <num> <num> <num> <num>
+0	短期 借款 <num> <num> <num>
+0	应付 账款 <num> <num> <num> <num>
+0	预 收 账款 <num> <num> <num>
+0	其他 应付款 <num> <tim> <num> <num>
+0	长期 借款 <num> <num> <num> <num>
+0	所有者 权益 <num> <num> <num> <num>
+0	实收 资本 <num> <num> <num> <num>
+0	未 分配 利润 <num> <num> <num> <tim>
+0	损益表 简 表 主营 业务 收入 <num> <num> <num> <tim>
+0	主营 业务 利润 <num> <num> <num> <num>
+0	营业 费用 <num> <num> <num>
+0	管理 费用 <tim> <tim> <tim> <num>
+0	财务 费用 <num> <num> <num> <num>
+0	投资 收益 - <num> - <tim> <num>
+0	营业 外 收入 <num> <num> <num>
+0	净利润 <num> <num> <num> <num>
+0	现金 流量 简 表 经营 活动 现金 流入 量 <num> <num> -
+0	经营 活动 现金 净 流量 <num> <num> -
+0	投资 活动 现金 流入 量 <num> <tim> -
+0	投资 活动 现金 净 流量 - <num> <tim> -
+0	筹资 活动 现金 流入 量 <num> <num> -
+0	筹资 活动 现金 净 流量 <num> - <num> -
+0	<num> 、 偿债 能力 分析
+0	授信 客户 <tim> 及 即期 主要 偿债 能力 指标 表
+0	项目 <tim> <tim> <tim> <tim>
+0	短期 偿债 指标 流动 比率 <num> <num> <num> <num>
+0	速 动比率 <num> <num> <num> <num>
+0	现金 流量 比率 <num> <num> <num> <num>
+0	长期 偿债 指标 资产 负债率 <num> <num> <num> <num>
+0	利息 保障 倍数 <num> <num> <num> <num>
+0	<num> 、 盈利 能力 分析
+0	授信 客户 <tim> 及 即期 主要 盈利 能力 指标 表
+0	指标 <tim> <tim> <tim> <tim>
+1	主营 业务 增长率 <num> - <num> - <num>
+1	主营 业务 毛利率 <num> <num> <num> <num>
+1	销售 净 利率 <num> <num> <num> <num>
+1	净资产 收益率 <num> <num> <num> <num>
+0	<num> 、 运营 能力 分析
+0	授信 客户 <tim> 及 即期 主要 营运 能力 指标 表
+0	项目 <tim> <tim> <tim> <tim>
+1	总资产 周转率 <num> <num> <num> <num>
+1	应收 账款 周转率 <num> <num> <num> <num>
+1	存货 周转率 <num> <num> <num> <num>
+0	根据 以上 各 表格 的 数据 ,
+0	综合 分析 该 保证 人 公司 在 财务 方面 具有 以下 的 表现 :
+1	<num> 、 公司 作为 国有 独资 企业 ,
+1	规模 较 大 ,
+1	信誉 良好 。
+1	<num> 、 在 偿债 指标 中 ,
+1	短期 偿债 能力 尚 可 ,
+1	资产 负债率 较 低 。
+1	<num> 、 公司 的 规模 较 大 ,
+1	盈利 能力 较 好 。
+1	<num> 、 公司 的 运营 能力 的 指标 较为 理想 。
+0	作为 保证 人 ,
+2	公司 担保 能力 较强 ,
+2	且 公司 为 国有 独资 ,
+2	信誉 良好 ,
+2	自身 及 对外 担保 均未 有 逾期 记录 。

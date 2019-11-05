@@ -1,0 +1,90 @@
+0	" <num> 、 财务 分析 ( 报表 单位 : <num> 元 )
+0	提示 :
+0	以下 分析 所 选取 的 <tim> 、 <tim> 、 <tim> 财务 报表 。
+0	单位 : <num> 元
+0	( <num> ) 损益 分析
+1	科目 <tim> <tim> <num> <tim> <num> <tim>
+1	主营 收入 <tim> <num> <num> <num> <num> <num>
+0	主营 成本 <tim> <num> <num> <num> <num> <num>
+0	主营 利润 <num> <num> <num> <num> <num> <num>
+0	投资 收益
+0	营业 利润 <num> <tim> <num> <num> <num> <num>
+0	利润 总额 <num> <tim> <num> <num> <num> <num>
+1	毛利率 <num> <num> <num> <num> <num> <num>
+1	营业 利润率 <num> <num> <num> <num> <num> <num>
+1	利润率 <num> <num> <num> <num> <num> <num>
+0	投资 收益率
+1	<tim> 年末 及 <tim> ,
+1	公司 营业 收入 分别 为 <num> 元 、 <num> 元 、 <num> 元 和 <num> 元 。
+0	<tim> ,
+0	该 公司 营业 收入 每年 都 有 较 大 幅度 增长 ,
+0	主要 因为 <tim> 公司 刚 成立 ,
+0	随着 公司 业务 的 健康 发展 ,
+0	导致 公司 营业 收入 快速 提升 。
+0	该 公司 利润率 从 成立 至今 保持 在 较 高 水平 ,
+0	并 呈现 上升 趋势 。
+0	总体 来 看 ,
+2	公司 成立 至今 规模 不断 扩大 ,
+2	公司 盈利 能力 正常 ,
+2	并 随着 该 公司 进一步 发展 ,
+2	盈利 能力 将 进一步 提升 。
+0	( <num> ) 资产 负债 分析
+1	科目 <tim> <tim> <tim> <tim> 明细 及 变化 说明
+1	权益 结构 资产 总额 <num> <num> <num> <num>
+1	净资产 <num> <num> <num> <num>
+0	实收 资本 <num> <num> <num> <num>
+0	资本 公 积
+0	未 分配 利润 <num> <num> <num> <num>
+0	资产 类 流动 资产 <num> <num> <num> <num>
+0	货币 资金 <num> <num> <num> <num>
+1	应收 账款 <tim>
+0	应收 票据
+0	预付 账款
+0	其他 应收款 <num> <num> <num> <num>
+0	存货
+0	长期 投资
+0	固定 资产 <num> <num> <num> <num>
+0	负债 类 流动 负债   <num> <num> <num>
+0	短期 借款   <tim> <num> <num>
+0	应付 票据     <num>
+1	应付 账款   <num> <num> <tim>
+0	预 收 账款
+0	其他 应付款
+0	长期 借款   <num> <num> <num>
+1	财务 比率 <tim> <tim> <tim> <tim> 明细 及 变化 说明
+1	资产 负债率 <num> <num> <num> <num>
+1	净资产 借款 率 <num> <num> <num> <num>
+0	资本 固定 化 率 <num> <num> <num> <num>
+1	流动 比率 <num> <num> <num>
+1	速 动比率 <num> <num> <num>
+0	应收 账款 周转 天数
+0	存货 周转 天数
+0	应付 帐款 周转 天数
+0	<tim> 主要 会计 科目 明细 如下 :
+0	货币 资金 余额 较多 为 <num> 元 ,
+0	其中 银行 存款 <num> 元 ,
+0	其他 货币 资金 <num> 元 ,
+0	现金 <num> 元 ;
+0	其他 应收款 <num> 元 ,
+0	主要 是 与 财政局 和 母 公司 间 的 往来 款 ,
+0	明细 如下 :
+0	公司 名称 金额
+0	某某 市 某某 区 财政局 某 分局 <num> 元
+0	<org> <num> 元
+0	合计 <num> 元
+0	在 建 工程 <num> 元 ,
+0	主要 为 :
+0	工程 名称 金额
+0	某某 西路 南北 两侧 <num> 元
+0	某某 片区 <num> 元
+0	某某 地块 <num> 元
+0	某某 地块 <num> 元
+0	某某 市场 <num> 元
+0	某某 地块 <num> 元
+0	某某 地块 <num> 元
+0	合计 <num> 元
+0	( <num> ) 负债 类 科目 分析
+0	应付 账款 <num> 元 ,
+0	某某 市 某某 项目 管理 有限 公司 <num> 元 管理费 。
+0	短期 借款 <num> 元 ,
+0	分别 为 :

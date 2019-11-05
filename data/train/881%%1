@@ -1,0 +1,57 @@
+0	付款 对象 包括 <org> 等 项目 的 工程 承包 公司 ;
+0	<num> 、 其他 应付款 包括 戊 集团 <num> 元 ,
+0	陈 <num> 元 ;
+0	应交 税费 - <num> - <num> , <num> - <num> <num>
+0	应付 帐款 <num> - <num> , <num> - <num> <num>
+0	预收款 项 <num> <num> <num>
+0	其他 应付款 - <num> <num> - <num> <num>
+0	流动 负债 合计 <num> <num> - <num> <num>
+0	长期 借款 <num> <num> <num> 银行 长期 借款 ,
+0	其中 我 行 <num> 、 东亚 银行 <num> ,
+0	<org> 委 贷 <num> 。
+0	非 流动 负债 合计 <num> <num> <num> <num> , <num>
+0	负债 总计 <num> <num> <num> <num>
+0	实收 资本 ( 股本 ) <num> <num> <num> <num> 已 验资 实收 资本 <num> 元 人民币 ,
+0	已经 <org> 验资 厦 诚 会 内 验 ( <tim> ) y - <tim> 号 验资 报告 验证 。
+0	资本 公 积 <num> <num> <num>
+0	未 分配 利润 - <num> - <num> - <num> , <num> - <num> , <num>
+1	所有者 权益 合计 <num> <num> <num> <num> <num> 、 公司 资产 负债率 ,
+1	由于 预收款 项 为 销售 回 款 尚未 进行 结转 ,
+1	因此 资产 负债率 较 高 。
+1	<num> 、 <tim> 公司 流动 比率 变化 正常 ,
+2	公司 资产 流动性 较 好 ;
+1	<num> 、 速 动比率 逐年 提升 ,
+2	说明 公司 存货 控制 好 ,
+2	管理 成熟 ;
+0	负债 及 所有者 权益 总计 <num> <num> <num> <num>
+0	资产 负债率 ( <num> ) <num> <num> <num> <num>
+0	流动 比率 <num> - <num> <num>
+0	速 动比率 <num> - <num> - <num>
+0	负债 及 所有者 权益 总计 <num> <num> <num> <num> , <num>
+0	资产 负债率 ( <num> ) <num> <num> <num> <num>
+0	流动 比率 <num> - <num> <num>
+0	速 动比率 <num> - <num> - <num>
+0	项 目 <num> <tim> 年度 <tim> 年度 <tim> 年度 财务 数据 说明
+0	营业 收入 - <num> 年 ,
+0	丙 <num> 期 “ 乙 丁 城市 广场 ” <num> # 、 <num> # 楼 取得 预售 许可证 并 开始 销售 ,
+0	各项 费用 开始 增加 ,
+0	销售 收入 列入 资产 负债表 中 的 预收款 项 ;
+0	<tim> ,
+0	“ 乙 丁 城市 广场 ” <num> # 、 <num> # 楼 取得 预售 许可证 并 开始 销售 ,
+0	销售 收入 列入 资产 负债表 中 的 预收款 项 ;
+0	<tim> ,
+0	丙 二期 “ 学府 花园 ” ,
+0	所以 营业 利润 为 负数 。
+0	<num> 年 预售 销售 收入 较 上 期末 比 增加 约 <num> 。
+0	减 : 营业 成本
+0	营业 税金 及 附加
+0	销售 费用 <num> <num> <num> <num>
+0	管理 费用 <num> <num> <num> <num>
+0	财务 费用 - <num> - <num> <num> - <num>
+0	投资 收益 <num> <num> - <num> <num>
+0	营业 利润 - <num> - <num> - <num> , <num> - <num>
+0	加 : 营业 外 收入 <num> <num> <num> <num>
+0	减 : 营业 外 支出 <num> <num> <num> <num>
+0	利润 总额 - <num> - <num> - <num> - <num>
+0	减 : 所得税 费用
+0	净利润 - <num> - <num> - <num> - <num>

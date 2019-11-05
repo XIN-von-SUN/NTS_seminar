@@ -1,0 +1,14 @@
+0	<num> <org> <num> <num> <num>
+0	<num> 某某 有限 公司 <num> <num> <num>
+0	<num> 某某 有限 公司 <num> <num> <num>
+0	<num> 某某 有限 责任 公司 <num> <num> <num>
+0	合计 <tim> <num>
+0	( <num> ) 生产
+0	截至 <tim> 末 ,
+0	公司 共 拥有 水泥 熟料 生产线 <num> 条 和 <num> 个 粉 磨 站 ,
+0	其中 日产 <num> 吨 以上 的 水泥 熟料 生产线 <num> 条 ;
+0	公司 具备 年产 <num> 吨 熟料 、 <num> 吨 水泥 的 生产 能力 。
+0	公司 水泥 产 能 分布 情况 如下 表 :
+0	<tim> <num> 期 水泥 熟料 产 能 利用率 情况 表
+0	单位 : <num> 吨 ;
+0	<tim> <tim> <tim>

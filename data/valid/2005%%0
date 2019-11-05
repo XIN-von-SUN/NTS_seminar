@@ -1,0 +1,90 @@
+0	" ( <num> ) 财务 情况
+0	<num> 财务 报表 数据 及 真实性 、 可信度
+0	授信 客户 <tim> 及 即期 财务 情况 表 ( 适用 于 非 企业 法人 )
+0	单位 : <num> 元
+0	项目 <tim> <tim> <tim> <tim> <tim>
+0	年报 是否 审计
+1	资产 负债 简 表 总资产 <num> <num> <num> <num>
+0	流动 资产 <num> <num> <num> <num>
+0	货币 资金 <num> <num> <num> <num>
+1	总 负债 <num> <num> <num> <num>
+1	净资产 <num> <num> <num> <num>
+0	事业 基金 <num> <num> <num> <num>
+0	主要 资产 结构 应收 账款 <num> <num> <num>
+0	其他 应收款 <num> <num> <num> <num>
+0	预付 账款 <num> <num> <num> <num>
+0	存货 <num> <num> <num>
+0	固定 资产 净值 <num> <num> <num> <num>
+0	在 建 工程 <num> <num> <num>
+0	财政 返还 额度
+1	主要 负债 结构 应付 账款 <num> <num> <num>
+0	应付 票据 <num> <num> <num>
+0	其他 应付款 <num> <num> <num> <num>
+0	预 收 账款 <num> <num> <num>
+0	应缴 预算 款 <num> <num> <num>
+0	应缴 财政 专户 款 <num> <num> <num>
+0	银行 融资 总 融资 <num> <num> <num> <num>
+0	其中 : 短期 借款
+0	长期 借款
+0	我 行 融资 <num> <num> <num> <num>
+0	其中 : 短期 借款 <num> <num> <num>
+0	长期 借款 <num> <num> <num> <num>
+1	收支 简 表 总 收入 <num> <num> <num> <num>
+0	其中 : 事业 收入 <num> <num> <num>
+0	经营 收入 <num> <num> <num>
+0	拨入 专款 <num> <num> <num>
+0	附属 单位 缴款 <num> <num> <num>
+0	基建 拨款 <num> <num> <num>
+0	各项 补助 收入 <num> <num> <num> <num>
+0	总 支出 <num> <num> <num> <num>
+0	其中 : 事业 支出 <num> <num> <num> <num>
+0	经营 支出 <num> <num> <num>
+0	拨出 专款 <num> <num> <num>
+0	结转 自筹 基建 <num> <num> <num>
+0	修 购 基金 增减 <num> <num> <num>
+0	收支 结余 <num> <num> <num> <num>
+0	其中 : 经营性 结余 <num> <num> <num>
+0	事业 性 结余 <num> <num> <num> <num>
+0	或 有 负债 <num> <num> <num>
+0	<num> 主要 财务 报表 科目 明细 分析
+0	( <num> ) 货币 资金   <num>   <num> 元 ,
+0	主要 为 某某 行 <num> 元 ,
+0	某某 行 <num> ,
+0	某某 社 <num> 元 ,
+0	某某 银行 <num> 元 ,
+0	某某 行 <num> 元 ,
+0	某某 行 <num> 元 ,
+0	某某 银行 <num> 元 ,
+0	某某 银行 <num> 元 ,
+0	其他 股份制 商业 银行 约 <num> 元 。
+0	其中 竞拍 保证金 <num> 元 、 用地 保证金 <num> 元 、 拆迁 保证金 <num> 元 。
+0	( <num> ) 应收 账款   <num>   <num> 元 ,
+0	比上 年末 增 / 减幅 ,
+0	账 龄 分析 : <num> 年 以内 的 占     <num> ,
+0	<num> 至 <num> 年 占     <num> ,
+0	二至 <num> 年 占     <num> ,
+0	<num> 年 以上 的 占 <num> ,
+0	并 说明 账 龄 是否 合理 ,
+0	应收 款项 是否 易 收回 ,
+0	对于 账 龄 较长 的 应收 账款 ,
+0	需 说明 原因 ,
+0	并 分析 收回 的 可能性 。
+0	( <num> ) 预付 账款   <tim>   <num> 元 ,
+0	比上 年末 增 / 减幅 ,
+0	主要 构成 如下 :
+0	单位 : <num> 元
+0	企业 名称 金额
+0	甲 市 张 <num> 有限 公司 <tim>
+0	甲 市 张 <num> 投资 有限 公司 <num>
+0	甲 市 张 <num> 有限 公司 <num>
+0	( <num> ) 其他 应收款   <num>   <num> 元 ,
+0	主要 构成 如下 :
+0	单位 : <num> 元
+0	企业 名称 金额
+0	甲 城建 指挥部 <num>
+0	<org> <num>
+0	( <num> ) 存货   <num>   <num> 元 ,
+0	比上 年末 增 / 减幅 ,
+0	其中 原材料     <num> 元 ,
+0	在 产品     <num> 元 ,
+0	产 成品     <num> 元 。

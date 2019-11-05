@@ -1,0 +1,90 @@
+0	" ( <num> ) 主营 业务 收入 情况
+0	近年 来 ,
+0	申请 人 凭借 店面 的 增加 、 产品 的 创新 和 服务 的 提升 等 经营 优势 ,
+0	主营 业务 收入 稳定 增长 。
+1	<tim> ,
+1	申请 人 实现 营业 收入 <num> 元 ,
+1	利润 总额 <num> 元 ;
+1	<tim> 实现 营业 收入 <num> 元 ,
+1	利润 总额 <num> 元 ;
+1	截至 <tim> ,
+1	申请 人 实现 营业 收入 <num> 元 ,
+1	利润 总额 <num> 元 。
+0	近年 营业 收入 情况 如下 表 所示 :
+0	单位 : <num> 元
+0	店名 <num> <num> <num>
+0	金额 占 比 金额 占 比 金额 占 比
+0	甲 店 <num> <num> <num> <num> <num> <num>
+0	乙 店 <num> <num> <num> <num> <num> <num>
+0	丙 店 <num> <num> <num> <num> <num> <num>
+0	丁 <num> <num> <num> <num> <num> <num>
+0	戊 店 <num> <num> <num> <num> <num> <num>
+0	己 店 <num> <num> <num> <num> <num> <num>
+0	庚 总店 — — — <num> <num> <num> <num>
+0	庚 分店 — — — —
+0	辛 分店 — — — — — — —
+0	合计 <num> <num> <num> <num> <num> <num>
+0	<num> 、 财务 情况 分析
+1	截至 <tim> ,
+1	申请 人 总资产 <num> 元 ,
+1	总 负债 <num> 元 ,
+1	所有者 权益 <num> 元 。
+1	资产 负债率 <num> ,
+1	流动 比率 <num> ,
+1	速 动比率 <num> 。
+0	资产 负债表 单位 : <num> 元
+1	资产 <num> <num> 增减 负债 及 所有者 权益 <num> <num> 增减
+0	货币 资金 <num> <num> - <num> 短期 借款 <num> <num>
+1	应收 账款 <num> <num> <num> 应付 账款 <num> <num> - <num>
+0	预付 款项 <num> <num> <num> 预 收 账款 <num> <num> <num>
+0	其他 应收款 <num> <num> <num> 应交 税金 <num> <num>
+0	存货 <num> <num> <num> 其他 应付款 - <num> - <num> <num>
+0	待 摊 费用 <num> <num> <num> 预 提 费用 <num> <num> - <num>
+0	流动 资产 合计 <num> <num> <num> 流动 负债 合计 <num> <num> <num>
+0	长期 投资 <num> <num> <num> 长期 借款 <num> <num> <num> - <num>
+0	固定 资产 <num> <num> <num> 负债 合计 <num> <num> <num>
+0	在 建 工程 <num> <num> <num> 实收 资本 <num> <num>
+0	无形 资产 <num> <num> <num> 盈余 公积金 <num> <num>
+0	长期 待 摊 费用 <num> <num> <num> 未 分配 利润 <num> <num> <num>
+0	非 流动 资产 合计 <num> <num> <num> 所有者 权益 合计 <num> <num> <num>
+1	资产 总计 : <num> <num> <num> 负债 所有者 权益 合计 <num> <num> <num>
+0	经 对 申请 人 当期 财务 报表 审核 ,
+0	主要 科目 分析 如下 :
+0	( <num> ) 资产 类 : <num> 元 。
+0	<num> 、 流动 资产 : <num> 元 ,
+0	占 总资产 的 <num> 。
+0	( <num> ) 货币 资金 : <num> 元 ,
+0	占 流动 资产 的 <num> ,
+0	主要 是 申请 人 的 现金 和 银行 存款 。
+0	( <num> ) 应收 账款 : <num> 元 ,
+0	占 流动 资产 的 <num> ,
+0	全部 为 <num> 年 以内 申请 人 应收 某某 <org> 和 新加坡 某某 有 很 公司 的 美容 产品 及 仪器 的 押金 。
+0	( <num> ) 预付 账款 : <num> 元 ,
+0	占 流动 资产 的 <num> ,
+0	均 为 <num> 年 以内 申请 人 预付 的 美容 产品 款项 。
+0	具体 情况 如下 :
+0	单位 : <num> 元
+0	主要 债务 人 金额 备注
+0	德国 某 公司 <num> 美容 产品
+0	<org> <num> 美容 产品
+0	<org> <num> 美容 产品
+0	<org> <num> 美容 产品
+0	<org> <num> 美容 产品
+0	合计 <num>
+0	( <num> ) 存货 : <num> 元 ,
+0	占 流动 资产 的 <num> ,
+0	主要 为 库存 的 美容 产品 等 。
+0	( <num> ) 待 摊 费用 : <num> 元 ,
+0	占 流动 资产 <num> ,
+0	全部 为 各 店面 的 房租 和 装修 改造 款 。
+0	具体 情况 如下 :
+0	单位 : <num> 元
+0	名称 金额 备注
+0	乙 店 <num> ,
+0	<num> 装修 款
+0	戊 店 <num> 装修 款
+0	己 店 <num> 装修 款
+0	辛 分店 <num> 装修 款
+0	庚 分店 <num> 装修 款
+0	各 营业 店面 <num> 房租
+0	合计 <num>

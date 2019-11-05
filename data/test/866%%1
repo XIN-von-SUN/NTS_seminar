@@ -1,0 +1,90 @@
+0	公司 主要 的 合作 伙伴 关系 稳定 融洽 。
+0	<num> 、 上 下游 企业 情况
+0	( <num> ) 申请 人 目前 主要 的 供应商 如下 :
+0	由于 申请 人 主要 以 建筑 装饰 、 房地产 为主 的 经营 模式 ,
+0	工程 项目 近 至 子 甲 甲 当地 ,
+0	远 到 子 戊子 等 地 ,
+0	原材料 无法 固定 采购 ,
+0	项目 均 采用 就近 采购 原则 ,
+0	故 申请 人 上游 企业 跟着 项目 走 ,
+0	且 较为 分散 。
+1	供应商 名称 供应 产品 合作 年限 <tim> 采购 总额 ( <num> 元 ) 占 上年 主营 业务 成本 比例 <num> 结算 方式 上年 应付 账款 ( <num> 元 )
+0	子 甲 卯 子 戊 丑 有限 公司 钢材 、 木材 等 <num> <num> <num> 承兑 或 银行 汇款 方式 <tim>
+0	<org> 混凝土 <num> <num> <num> 承兑 或 银行 汇款 方式 <num>
+0	子 甲乙 省 子 戊 卯
+0	有限 公司 电料 、 陶瓷 <num> <tim> <num> 承兑 或 银行 汇款 方式 <num>
+0	子 己 甲
+0	<org> 木材 、 模板 及 其他 材料 <num> <tim> <num> 承兑 或 银行 汇款 方式 <tim>
+0	子 丙丁 市 子 己 <org> 商 混 <num> <num> <num> 承兑 或 银行 汇款 方式 <tim>
+1	合计 <num> <num> <num>
+0	( <num> ) 申请 人 目前 主要 工程 情况 如下 :
+1	申请 人 主要 承接 政府 项目 、 安置 项目 、 商场 、 学校 、 医院 等 工程 以及 开发商 工程 为主 ,
+1	建筑 施 子 丁己业 特点 决定 <num> 个 单位 不可能 连年 建造 有 建筑 项目 ,
+1	故 无 固定 销售商 ,
+1	下表 为 部分 工程 :
+1	销售商 名称 供应 产品 合作 年限 <tim> 销售
+1	总额 ( <num> 元 ) 占 上年 主营 业务 收入 比例 <num> 结算 方式 上年 应收 账款 ( <num> 元 )
+0	子 甲 庚 房地产 开
+0	<org> 子 乙 辛 、 子 甲 甲 、 子 乙卯 子 乙 戊 <num> <num> <num> 承兑 或 银行 汇款 方式 <num>
+0	子 乙 <per> 己 丙 有限 公司 媒体 中心
+0	及 知音 路 <num> <num> <num> 承兑 或 银行 汇款 方式 <tim>
+0	子 甲 甲 县 <num> 中 <org> <num> <num> <num> 承兑 或 银行 汇款 方式 <tim>
+0	子 丙丁 市 子 丙 戊 区 住房 和 城乡 建设局 <org> <num> <num> <num> 承兑 或 银行 汇款 方式
+0	子 甲 甲 县 中医院 商品房 <num> <num> <num> 承兑 或 银行 汇款 方式
+0	合计 / / <num> <num> <num>
+0	<num> 、 目前 企业 具体 施工 明细 如下 : 单位 ( <num> 元 )
+0	序号 签订 单位 对方 签订 单位 合同 类型 合同 价格 目前 进度
+0	<num> <org> 子 甲 庚 房地产 开发 公司 施工 合同 <num> <num>
+0	<num> <org> 子 甲 卯 市 子 己 <org> 施工 合同 <num> <num>
+0	<num> <org> 子 甲乙 子 己 戊 开发 有限 公司 施工 合同 <num> <num>
+0	<num> <org> 子 己 己 开发 有限 公司 施工 合同 <num> <num>
+0	<num> <org> 子 甲乙 子 己 庚 公司 施工 合同 <num> <num>
+0	<num> <org> 子 甲乙 子 己 <org> 施工 合同 <num> <num>
+0	<num> <org> 子 乙卯 县 体育 运动 中心 施工 合同 <num> <num>
+0	<num> <org> 子 己 <org> 施工 合同 <tim> <num>
+0	<num> <org> 子 己 <org> 施工 合同 <tim> <num>
+0	<num> <org> 子 己 <org> 施工 合同 <num> <num>
+0	<num> <org> 子 己 壬 集团 子 壬 壬 分公司 施工 合同 <num> <num>
+0	<num> <org> 子 己 子 有限 公司 施工 合同 <num> <num>
+0	<num> <org> <org> 施工 合同 <num> <num>
+0	<num> <org> <org> 施工 合同 <num> <num>
+0	<num> <org> <org> 施工 合同 <num> <num>
+0	<num> <org> <org> 施工 合同 <num> <num>
+0	<num> <org> 子 乙卯 县 体育 运动 中心 补充 协议 <num> <num>
+0	<num> <org> 子 庚 甲 社区 施工 合同 <num> <num>
+0	<num> <org> 子 乙 己 <org> 施工 合同 <num> <num>
+0	<num> <org> <org> 施工 合同 <num> <num>
+0	<num> <org> <org> 施工 合同 <num> <num>
+0	<num> <org> 子 甲 庚 装饰 公司 装饰 合同 <num> <num>
+0	<num> <org> 子 甲乙 子 己 丁 公司 施工 合同 <num> <num>
+0	<num> <org> <org> 供应 合同 <num> <num>
+0	<num> <org> 子 甲 甲 县 子 庚 戊 镇 人民 政府 施工 合同 <num> <num>
+0	<num> <org> 子 甲乙 子 庚 己 公司 施工 合同 <num> <num>
+0	<num> <org> 子 甲 庚 房地产 开发 公司 施工 合同 <num> <num>
+0	<num> <org> 子 庚 庚 两河 治理 改造 指挥部 补充 协议 <num> <num>
+0	<num> <org> 子 庚 庚 城市 资产 经营 有限 公司 工程 合同 <num> <num>
+0	<num> <org> 子 庚 庚 城市 资产 经营 有限 公司 工程 合同 <num> <num>
+0	<num> <org> 子 庚 辛市子 庚 癸 开发 公司 工程 合同 <num> <num>
+0	<num> <org> <org> 工程 合同 <num> <num>
+0	<num> <org> <org> 工程 合同 <num> <num>
+0	<num> <org> 子 庚子 街道 办事处 工程 合同 <num> <num>
+0	<num> <org> <org> 工程 合同 <num> <num>
+0	<num> <org> <org> 工程 合同 <num> <num>
+0	<num> <org> <org> 工程 合同 <tim> <num>
+0	<num> <org> <org> 工程 合同 <num> <num>
+0	<num> <org> <org> 工程 合同 <num> <num>
+0	<num> <org> <org> 工程 合同 <num> <num>
+0	<num> <org> <org> 工程 合同 <num> <num>
+0	<num> <org> <org> 工程 合同 <num> <num>
+0	<num> <org> 子 庚 辛市子 <org> 工程 合同 <num> <num>
+0	<num> <org> <org> 工程 合同 <num> <num>
+0	<num> <org> 子 甲乙 子 己 戊 开发 有限 公司 工程 合同 <num> <num>
+0	<num> <org> <org> 工程 合同 <tim> <num>
+0	<num> <org> 子 甲乙 子 <org> 工程 合同 <num> <num>
+0	<num> <org> 子 辛 己 开发 有限 公司 工程 合同 <num> <num>
+0	<num> <org> 子 <per> 合作 协议 <num> <num>
+0	合计 <num>
+0	备注 表 内 所示 为 集团 正在 施工 的 大额 项目 ,
+0	现场 抽查 子 甲 庚 建设 股份 有限 公司 的 合同 时 ,
+0	指定 企业 提供 部分 施工 合同 ,
+0	故 表 信息 真实 可信

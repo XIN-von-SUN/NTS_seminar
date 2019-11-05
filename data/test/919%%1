@@ -1,0 +1,90 @@
+0	一般 工程款 <num> ,
+0	质量 保证金 <num> ,
+0	工程 保证金 <num>
+0	预 收 账款 <num> <num> <num> <num> <num> 较 年初 增加 <num> 元 ,
+0	其中 <org> <num> ,
+0	戊 <num> ,
+0	戊 <num> 。
+0	企业 通过 戊 <num> 获得 <num> 元 预付款 融资 ,
+0	同时 很 大量 的 钢材 通过 戊 <num> 销售 ,
+0	原 下游 经销商 的 预付款 有所 下降
+0	应付 职工 薪酬       <num> <tim>
+0	应交 税费 - <num> - <num> - <num> - <num> - <num>
+0	其他 应付款 <num> <tim> <num> <tim> <num> 较 年初 增加 <num> 元 ,
+0	向 乙 <num> 财务 公司 借款 <num> 元
+0	流动 负债 合计 <num> <num> <num> <num> <num> 较 年初 增加 <num> 元 ,
+0	主要 是 内部 借款 增加
+0	负债 合计 <num> <num> <num> <num> <num> 企业 无 长期 负债
+0	实收 资本 ( 或 股本 ) <num> <num> <num> <num> <num> 无 变化
+0	资本 公 积 <num> <num> <num> <num> <num>
+0	盈余 公 积 <num> <num> <tim> <num> <tim>
+0	未 分配 利润 <num> <num> <num> <num> <num> <tim> <tim> 盈利 ,
+0	未 分配 利润 累计 增加
+0	所有者 权益 <num> <num> <num> <num> <num> 逐年 增加
+0	营业 收入 <num> <num> <num> <num> <num> 较 <tim> 同期 减少 <num> ,
+0	主要 是 ( <num> ) <tim> 燃气 供应 不 正常 ,
+0	虽然 已经 在 <tim> 解决 ,
+0	但是 导致 高炉 <num> 、 <tim> 未 能 正常 生产 ,
+0	产量 下降 以致 销售 减少 ,
+0	<tim> 高炉 已 恢复 正常 。
+0	( <num> ) <tim> ,
+0	其中 <num> 个 高炉 因 焦炭 质量 不佳 导致 生产 不 畅 ,
+0	导致 <tim> <tim> 的 产销量 有所 下降 。
+0	其中 : 主营 业务 收入 <num> <num> <num>
+0	营业 成本 <num> <num> <num> <num> <num> 较 <tim> 同期 也 减少 了 <num>
+0	其中 : 主营 业务 成本 <num> <num> <num>
+0	销售 费用 <num> <num> <num> <num> <tim> 较 <tim> 同期 下降 <num>
+0	管理 费用 <num> <num> <num> <num> <num> 较 <tim> 同期 下降 <num>
+0	财务 费用 <num> <num> <num> <num> <num> 较 <tim> 同期 增加 <num>
+0	资产 减值 损失 <num>
+0	营业 利润 <num> <tim> <num> <num> <num>
+0	加 : 营业 外 收入 <num> <num> <tim> <tim> <num>
+0	减 : 营业 外 支出 <num>   <num>  
+0	利润 总额 <num> <tim> <num> <num> <num>
+0	减 : 所得税 <tim> <num> <tim> <tim> <tim>
+0	净利润 <num> <tim> <num> <num> <num> 较 <tim> 同期 下降 <num> ,
+0	由于 高炉 <per> 出现 状况 ,
+0	产量 销量 较 同期 低 ,
+0	导致 费用 增加 ,
+0	利润 降低 。
+0	经营 活动 现金 流入 小计 <num> <num> <num> <num> <num>
+0	经营 活动 现金 流出 小计 <num> <num> <num> <num> <num>
+0	经营 活动 产生 的 现金 流量 净额 <num> - <num> - <num> - <num> <num> 经营 活动 现金流 转为 正
+0	投资 活动 产生 的 现金 流量 净额 - <num> - <num> - <num> - <num> - <num> 较 <tim> 同期 大 幅度 减少 ,
+0	申请 人 <tim> 正式 投产 ,
+0	<tim> 小 规模 的 追加 投资 每年 都 有 一些 ,
+0	主要 是 配套 设备 和 工程 投入 。
+0	筹资 活动 产生 的 现金 流量 净额 <num> - <num> <num> <num> - <num>
+0	现金 及 现金 等价物 净 增加 额 <tim> - <num> - <num> - <num> - <num> 总体 净 现金 流量 <tim> 净 流出 ,
+0	显示 企业 现金流 进一步 降低 ,
+0	现金流 情况 不 理想 ,
+0	需 关注 现金流 变化 对 偿还 融资 的 影响 。
+0	<tim> <tim> <tim> <num>
+0	资产 负债率 <num> <num> <num> <num> <num> 资产 负债率 维持 在 <num> 左右 ,
+0	整体 处于 中等 偏 高 水平
+0	现金 流动 负债 比 <num> - <num> - <num> - <num> <num>
+0	利息 保障 倍数 <num> <num> <num> <num> <num>
+0	流动 比率 <num> <num> <num> <num> <num> 流动 比率 、 速 动比率 偏低 ,
+0	主要 是 企业 将 向 管理 企业 的 借款 计入 其他 应付款 ,
+0	实质 应为 长期 占用 ,
+0	挂 长期 应付款 较为 合理 。
+0	速 动比率 <num> <num> <num> <num> <num>
+0	应收 帐款 周转 天数 <num> <num> <num> <num> <num>
+0	存货 周转 天数 <num> <num> <num> <num> <num> 本期 存货 周转 天数 较 年初 增加 <num> 天 ,
+0	原材料 备货 增加 所致
+0	预付 账款 周转 天数 <num> <num> <num> <num> <num> 对 上游 预付款 增加 ,
+0	周转 天数 变 长
+0	应付 账款 周转 天数 <num> <num> <num> <num> <num> 应付 账款 进一步 减少
+0	预 收 账款 周转 天数 <num> <num> <num> <num> <num> 预 收 账款 增加
+0	营运 资金 周转 天数 <num> - <num> - <num> - <num> <num> 存货 及 预付 增加 ,
+0	导致 周转 天数 变 长
+0	资产 周转 天数 <num> <num> <num> <num> <num>
+0	销售 毛利率 <num> <num> <num> <num> <num> 毛利率 反而 较 <tim> 同期 有所 提升 ,
+0	主要 是 钢材 价格 下降 ,
+0	同时 <tim> 原料 价格 降幅 更 大 。
+0	销售 利润率 <num> <num> <num> <num> <num>
+0	销售 净 利率 <num> <num> <num> <num> <num> 产量 缩减 ,
+0	费用 摊销 相对 增大 ,
+0	净 利率 下降
+0	总资产 收益率 <num> <num> <num> <num> <num>
+0	净资产 收益率 <num> <num> <num> <num> <num>

@@ -1,0 +1,90 @@
+0	" 申请 人 财务 情况
+0	损益表 单位 : <num> 元
+1	科目 <tim> <tim> <tim> <tim>
+1	主营 收入 <num> <num> <num> <num>
+1	主营 利润 <num> <num> <num> <num>
+0	营业 利润 <num> <num> <tim> <num>
+0	投资 收益 <num> <num> <num>
+0	利润 总额 <num> <num> <tim> <num>
+1	净利润 <num> <num> <num> <num>
+1	毛利率 <num> <num> <num> <num>
+1	销售 利润率 <num> <num> <num> <num>
+1	净利润率 <num> <num> <num> <num>
+0	<tim> — <tim> ,
+0	借款 人 实现 主营 收入 分别 为 <num> 元 、 <num> 元 、 <num> 元 ,
+0	借款 人 主要 职能 是 负责 某 市 某 区域 内 保障 房 建设 ,
+0	近年 来 国家 加大 对 保障 房 建设 的 力 度 ,
+0	借款 人 收入 来源 有 保障 ,
+0	且 逐年 增加 。
+2	借款 人 <tim> 主营 业务 毛利率 基本 维持 在 <num> 以上 ,
+2	盈利 能力 较强 。
+0	<tim> 借款 人 销售 利润率 和 净利润率 出现 明显 下滑 ,
+0	主要 是 <tim> 利息 支出 <num> 元 ,
+0	较 <tim> 增加 <num> 元 ,
+0	<num> 方面 借款 人 融资 逐年 增加 ,
+0	导致 利息 支出 增加 ,
+0	另 <num> 方面 借款 人 出于 税务 统筹 考虑 ,
+0	将 利息 支出 直接 列入 当期 损益 ,
+0	而 未 进行 资本 化 处理 。
+0	借款 人 <num> 项 费用 中 主要 为 财务 费用 支出 较 大 ,
+0	无 营业 费用 。
+0	财务 费用 为 借款 人 融资 利息 支出 ,
+0	借款 人 承担 的 保障 房 建设 任务 重 ,
+0	融资 逐年 增加 ,
+0	导致 利息 支出 增加 较快 。
+0	管理 费用 主要 为 借款 人 日常 运营 费用 ,
+0	费用 支出 合理 。
+0	借款 人 利润 主要 来源 于 经营性 业务 利润 ,
+0	政府 补贴 收入 不高 ,
+0	<tim> 、 <tim> 分别 收到 政府 补贴 <num> 元 、 <num> 元 。
+2	借款 人 作为 某 市 某 区 保障 房 建设 主体 ,
+2	主营 业务 清晰 ,
+2	费用 支出 合理 ,
+2	利润 主要 来源 于 经营性 收入 。
+2	但 其 业务 主要 来自 地方 政府 下达 的 保障 房 建设 任务 ,
+2	所以 借款 人 的 持续 盈利 能力 仍然 依赖 地方 政府 的 支持 。
+1	截至 <tim> <num> 月末 ,
+1	申请 人 资产 总额 为 <num> 元 ,
+1	负债 总额 为 <num> 元 ,
+1	所有者 权益 为 <num> 元 ,
+1	资产 负债率 <num> ,
+1	流动 比 <num> ,
+1	速 动 比 <num> 。
+0	资产 负债表 单位 : <num> 元
+1	年份 <tim> <tim> <tim> <tim>
+0	流动 资产 <num> <num> <num> <num>
+0	货币 资金 <num> <num> <num> <num>
+0	短期 投资 <num> <num> <num> <num>
+0	应收 票据 <num> <num> <tim>
+1	应收 账款 <num> <num> <num>
+0	其他 应收款 <num> <num> <num> <num>
+0	预付 账款 <num> <num> <tim>
+0	存货 <num> <num> <num> <num>
+0	长期 投资 <num> <num> <num> <num>
+0	固定 资产 <num> <num> <num> <num>
+0	无形 资产 <num> <num> <num>
+1	总资产 <num> <num> <num> <num>
+0	流动 负债 <num> <num> <num> <num>
+0	短期 借款 <num> <num> <num> <tim>
+0	应付 票据 <num> <num> <num>
+1	应付 账款 <num> <num> <num>
+0	预 收 账款 <num> <num> <num>
+0	其他 应付款 <num> <num> <num> <num>
+0	长期 负债 <num> <num> <num> <num>
+0	长期 借款 <num> <num> <num> <num>
+1	总 负债 <num> <num> <num> <num>
+0	股东 权益 <num> <num> <num> <num>
+0	股本 <num> <num> <num> <num>
+0	未 分配 利润 <num> <num> <num> <num>
+1	资产 负债率 <num> <num> <num> <num>
+1	流动 比 <num> <num> <num> <num>
+1	速 动 比 <num> <num> <num> <num>
+0	<tim> 的 主要 财务 情况 为 :
+0	( <num> ) 货币 资金 <num> 元 ,
+0	其中 可 支配 银行 存款 和 现金 为 <num> 元 ,
+0	保证金 存款 <num> 元 。
+0	( <num> ) 其他 应收款 <num> 元 ,
+0	其中 某 市 某 区政府 <num> 元 ,
+0	某 市 <org> <num> 元 ,
+0	工程 押金 <num> 元 。
+0	( <num> ) 存货 <num> 元 ,

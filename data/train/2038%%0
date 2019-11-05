@@ -1,0 +1,7 @@
+1	" 还款 计划表
+0	建设 期 运行 期
+0	<num> <num> <num> <num>
+1	年度 <tim> <tim> <tim> <tim> <tim>
+1	期初 借款 金额 <num> <num> <num> <num> <num>
+1	每年 还本 <num> <num> <tim> <tim> <num>
+1	期末 借款 金额 <num> <num> <num> <num>

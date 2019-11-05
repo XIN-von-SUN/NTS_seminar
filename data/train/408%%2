@@ -1,0 +1,90 @@
+0	如 法律 手续 不全 、 停产 或 半 停产 、 设备 严重 老化 、 涉及 重组 的 资产 等等
+0	第 <num> 还款 来源 分析
+0	借款 人 总体 评价
+2	借款 人 的 客户 经理 模型 评级 c 客户 经理 认为 合理 的 借款 人 评级 结果
+0	借款 人 财务 分析 总结
+0	根据 企业 的 财务 结构 、 财务 指标 和 主要 资产 质量 ,
+0	客户 经理 主要 从 以下 几 个 方面 进行 总结 :
+0	<num> 、 企业 规模 的 分析 ;
+0	<num> 、 盈利 能力 和 营运 能力 分析 ;
+0	<num> 、 流动性 分析 ;
+0	<num> 、 资本 结构 分析 和 长期 偿债 能力 分析 ;
+0	<num> 、 现金流 分析 ;
+0	<num> 、 发展 趋势 分析 ;
+0	<num> 、 资产 质量 分析 ;
+0	<num> 、 企业 信用 等级 评定 是否 合理 ,
+0	不 合理 的 原因 ;
+0	通过 以上 分析 ,
+0	分析 判断 目前 财务 状况 好坏 。
+0	( 具体 可 参见 《 授信 调查 报告 财务 分析 说明书 》 ) 。
+0	由于 甲乙 丙丁 财务 报表 的 编制 未 能 有效 按照 会计 准则 进行 编制 ,
+0	由于 历史 财务 资料 的 缺失 ,
+0	在 <tim> ,
+0	某 会计师 事务所 对 甲乙 丙丁 进行 清 产 核 资 后 ,
+0	也 发表 了 无法 真实 公允 反映 资产 负债 情况 的 报表 ,
+0	从 目前 的 情况 来 看 ,
+0	近年 来 企业 为 配合 银行 融资 ,
+0	近年 来 提供 各 行 的 报表 均 是 经过 技术 处理 的 报表 ,
+0	数据 失实 ,
+0	误导 各 行 授信 态度 。
+0	甲乙 丙丁 其 提供 的 财务 数据 缺乏 真实性 。
+0	现 根据 <org> 的 日常 监管 获得 的 经营 数据 ,
+0	对 甲乙 丙丁 财务 状况 予以 分析 :
+0	<num> 、 甲乙 丙丁 <tim> - <tim> 的 经营 情况
+0	<tim> 甲乙 丙丁 累计 进口 煤炭 <num> 船 <num> 吨 ,
+0	其中 越南 煤 <num> 船 <num> 吨 ,
+0	印尼 煤 <num> 船 <num> 吨 ;
+0	内贸 船运 采购 煤炭 <num> 船 <num> 吨 ,
+0	内贸 场地 采购 煤炭 <num> 批 <num> 吨 。
+0	截止 至 <tim> 库存 为 <num> 吨 ,
+0	<tim> 共 采购 入库 <num> 吨 ,
+0	销售 出库 <num> 吨 ,
+0	<tim> 累计 销售 <num> 吨 ,
+0	金额 <num> 元 ,
+0	收回 资金 <num> 元 ,
+0	<tim> 共 支付 经营性 费用 <num> 元 。
+0	按照 采购 成本 合同 项 下 框 算 ,
+0	毛利 约 为 <num> 元 / 吨 ,
+0	<tim> 毛利 约 为 <num> 元 ,
+0	财务 费用 约 为 <num> 元 ,
+0	管理 费用 约 为 <num> 元 ,
+0	利润 总额 约 为 - <num> 元 。
+0	<tim> <num> - <tim> 甲乙 丙丁 累计 销售 <num> 吨 ,
+0	金额 <num> 元 ,
+0	收回 资金 <num> 元 ,
+0	共 支付 经营性 费用 <num> 元 ,
+0	毛利 约 <num> 元 / 吨 ,
+0	毛利 约 <num> 元 ,
+0	财务 费用 <num> 元 ,
+0	管理 费用 <num> 元 ,
+0	利润 总额 约 - <num> 元 。
+1	进货 吨数 ( <num> 吨 ) 销售 吨数 ( <num> 吨 ) 销售 收入 ( <num> 元 ) 库存 存货 ( <num> 吨 ) 存款 ( <num> 元 ) 应收 账款 ( <num> 元 ) 销售 利润 ( <num> 元 ) 利润 总额 ( <num> 元 )
+0	<tim> <num> <num> <num> <num> <num> <num> <tim> - <tim>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <num>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <tim>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <num>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <num>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <num>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <num>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <num>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <tim>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <num>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <num>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <num>
+0	<tim> <num> <num> <num> <num> <tim> <num> <num> - <num>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <num>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <num>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <num>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <tim>
+0	<tim> <num> <num> <num> <num> <num> <num> <num> - <num>
+0	就 目前 公司 经营 情况 看 ,
+0	甲乙 丙丁 面临 内外 危机 两重 危机 ,
+0	<num> 是 内部 管理层 行业 经营 能力 不足 ,
+0	原有 管理层 的 总经理 张 某某 和 主管 销售 的 副 总经理 林 某某 已 离职 ,
+0	部分 员工 也 出现 辞职 的 情况 ,
+0	经营 团队 人员 人心 不 稳 且 股东 的 经营 管理 能力 有限 ,
+0	<num> 是 目前 我国 煤炭 库存量 价 高 ,
+0	产 能 严重 过剩 ,
+0	价格 不断 下滑 ,
+0	进口 煤炭 在 国内 已 无 优势 ,
+0	甲乙 丙丁 再 加上 每月 <per> <tim> 多 <num> 的 银团 贷款 财务 费用 ,

@@ -1,0 +1,27 @@
+0	" 经营性 物业 抵押 贷款 情况
+0	<num> 、 租金 归集 情况
+0	<num> 授信 申报 时 计划 年 租金 收入 <num> ( <num> 元 ) 租金 交纳 方式 □ 按 年 ■ 按季 □ 按 月
+0	<num> 租金 归集 账户 账号 :
+0	归集 起始 时间 <tim> 归集 终止 时间 <tim>
+0	序号 企业 名称 交易 时间 币种 借 贷 账户 余额 对方 户名 对方 账号 摘要
+0	<num> <org> <tim> 人民币 <num> <num> 张 <num> 公司 <num> 同城 !
+0	<num> <org> <tim> 人民币 <num> <num> 收费
+0	<num> <org> <tim> 人民币 <num> <num> 收费
+0	<num> <org> <tim> 人民币 <num> <num> 上海 张 <num> 公司 超市 <org> <num> 租赁 费
+0	<num> <org> <tim> 人民币 <num> <num> 上海 张 <num> 公司 超市 <org> <num> 物业 管理 费
+0	<num> <org> <tim> 人民币 <num> <num> 还 息 [ 借据 号 = <num> ]
+0	<num> <org> <tim> 人民币 <num> <num> 还 息 [ 借据 号 = <num> ]
+0	<num> <org> <tim> 人民币 <num> <num> 结 息
+0	<num> <org> <tim> 人民币 <num> <num> 张 <num> 公司 <num> 同城 !
+0	<num> <org> <tim> 人民币 <num> <num> 贷款 还款 <num>
+0	<num> <org> <tim> 人民币 <num> <num> 同城 !
+0	<num> <org> <tim> 人民币 <num> <num> 同城 !
+0	<num> <org> <tim> 人民币 <num> <num> 上海 张 <num> 公司 超市 <org> <num> 房租
+0	<num> <org> <tim> 人民币 <num> <num> 上海 张 <num> 公司 超市 <org> <num> 租赁 费
+0	<num> <org> <tim> 人民币 <num> <num> 还 息 [ 借据 号 = <num> ]
+0	<num> <org> <tim> 人民币 <num> <num> 还 息 [ 借据 号 = <num> ]
+0	<num> <org> <tim> 人民币 <num> <num> 结 息
+0	<num> <org> <tim> 人民币 <num> <num> 同城 !
+0	<num> <org> <tim> 人民币 <num> <num> 同城 !
+0	<num> <org> <tim> 人民币 <num> <num> 上海 张 <num> 公司 超市 <org> <num> 租赁 费
+0	<num> <org> <tim> 人民币 <num> <num> 上海 张 <num> 公司 超市 <org> <num> 物业 管理 费

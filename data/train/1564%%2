@@ -1,0 +1,90 @@
+0	( <num> 元 ) <num> 币种 人民币
+0	企业 规模 ( 按 国家 标准 ) 小 成立 时间 <tim>
+0	主营 业务 :
+0	是否 我 行 股东
+0	是否 已 被 我 行列 为 风险 预警 客户 否 是否 合格 风险 缓 释 工具
+0	是否 上市 公司
+0	保证 人 的 前 <num> 大 股东
+0	币种 : 人民币
+0	编号 出资 人 名称 组织 机构 代码 出资 方式 出资 金额
+0	( <num> 元 ) 占 比
+0	( <num> ) 出资 时间
+0	<num> 张 某某 现金 <num> <num>
+0	<num> 叶 某某 现金 <num> <num>
+0	保证 人 的 股权 投资 情况 ( 合并 报表 范围 之 内 )
+0	币种 : 人民币
+0	编号 被 投资 企业 名称 组织 机构 代码 投资 金额 ( <num> 元 ) 持股 比例 ( <num> )
+0	保证 人 在 我 行 授信 情况
+0	授信 方式 授信 品种 币种 批复 金额
+0	( <num> 元 ) 合同 金额
+0	( <num> 元 ) 合同 余额
+0	( <num> 元 ) 转让 余额
+0	( <num> 元 ) 保证金 比例 <num> 最近 到期 日 担保 方式 <num> 级 分类
+0	公开 授信 额度 人民币 <num> <num> <num> <num> 混合
+0	单 笔 单 批 流动 资金 贷款 人民币 <num> <num> <num> <num> <num> <tim> 混合 关注 <num> 级
+0	合计 人民币 <num> <num> <num> <num> 授信 敞口 ( <num> 元 )
+0	保证 人 在 他 行 未 结清 授信 情况
+0	币种 : 人民币
+0	行 名 品种 授信 额度 余额 起始 日 到期 日 担保 方式 <num> 级 分类
+0	农 商行 流动 资金 贷款 <num> <num> <tim> <tim> 连带 责任 保证 正常
+0	<org> 流动 资金 贷款 <num> <num> <tim> <tim> 连带 责任 保证 关注
+0	某 行 流动 资金 贷款 <num> <num> <tim> <tim> 混合 关注
+0	某 行 流动 资金 贷款 <num> <num> <tim> <tim> 混合 关注
+0	某 行 流动 资金 贷款 <num> <num> <tim> <tim> 混合 关注
+0	某 行 流动 资金 贷款 <num> <num> <tim> <tim> 混合 关注
+0	某 行 流动 资金 贷款 <num> <num> <tim> <tim> 混合 关注
+0	合计 <num> <num>
+0	保证 人 在 我 行 的 对外 担保 情况
+0	被 担保 企业 币种 担保 合同
+0	金额 担保 合同
+0	余额 担保 方式 合同 到期 日 <num> 级 分类
+0	<org> 人民币 <num> <num> 其他 企业 保证 <tim> 关注 <num> 级
+0	<org> 人民币 <num> <num> 其他 企业 保证 <tim>
+0	<org> 人民币 <num> <num> 其他 企业 保证 <tim>
+0	<org> 人民币 <num> <num> 其他 企业 保证 <tim> 关注 <num> 级
+0	<org> 人民币 <num> <num> 其他 企业 保证 <tim>
+0	<org> 人民币 <num> <num> 其他 企业 保证 <tim>
+0	<org> 人民币 <num> <num> 其他 企业 保证 <tim> 关注 <num> 级
+0	合计 人民币 <num> <num>
+0	保证 人 在 他 行 的 对外 担保 情况
+0	行 名 被 担保 企业 币种 担保 金额 担保 到期 日 主 债权
+0	<num> 级 分类
+0	<org> <org> <num> 正常
+0	某 行 <org> <num> 正常
+0	某 行 <org> <num> 正常
+0	合计 人民币 <num>
+0	第 <num> 还款 来源 分析
+0	保证 人 经营 ,
+0	管理 能力 分析
+0	职 务 姓 名 年 龄 身份证 号码 加入 公司 时间 相关 行业 从业 年限 担任 该 职务 年限 持有 本 公司 股份 情况
+0	法人 代表 张 某某 <num> <num> <tim> <num>
+0	叶 某某 <num> <num> <tim>
+0	第 <num> 还款 来源 分析
+0	保证 人 财务 分析 ( <num> ) - 财务 简 表
+0	资产 负债 简 表 结构 和 对比
+0	项目 <tim> <tim> <tim>
+0	数值 ( <num> 元 ) <num> 数值 ( <num> 元 ) <num> 同 行业 比例 数值 ( <num> 元 ) <num> 同 行业 比例
+0	报表 口径 本部 本部 本部
+0	是否 已 审计 否 否
+0	审计 意见
+0	审计 事务所 名称
+0	总资产 <num> <num> <num> <num> <num> <num>
+0	流动 资产 <num> <num> <num> <num> <num> <num> <num> <num>
+0	货币 资金 <num> <num> <num> <num> <num> <num> <num> <num>
+0	应收 帐款 <num> <num> <num> <num> <num> <num> <num> <num>
+0	其他 应收款 <num> <num> <num> <num> <num> <num> <num> <num>
+0	存货 <num> <num> <num> <num> <num> <num> <num> <num>
+0	长期 投资 <num> <num> <num> <num> <num> <num> <num> <num>
+0	固定 资产 净值 <num> <num> <num> <num> <num> <num> <num> <num>
+0	无形 资产 <num> <num> <num> <num> <num> <num> <num> <num>
+0	流动 负债 <num> <num> <num> <num> <num> <num> <num> <num>
+0	短期 借款 及 <num> 年 内 到期 的 长期 借款 <num> <num> <num> <num> <num> <num> <num> <num>
+0	应付 票据 <num> <num> <num> <num> <num> <num> <num> <num>
+0	应付 帐款 <num> <num> <num> <num> <num> <num> <num> <num>
+0	长期 借款 合计 <num> <num> <num> <num> <num> <num> <num> <num>
+0	所有者 权益 合计 <num> <num> <num> <num> <num> <num> <num> <num>
+0	实收 资本 <num> <num> <num> <num> <num> <num> <num> <num>
+0	未 分配 利润 和 盈余 公 积 <num> <num> <num> <num> <num> <num> <num> <num>
+0	损益表 结构 和 对比
+0	项目 <tim> <tim> <tim>
+0	数值 ( <num> 元 ) <num> 数值 ( <num> 元 ) <num> 同 行业 比例 数值 ( <num> 元 ) <num> 同 行业 比例

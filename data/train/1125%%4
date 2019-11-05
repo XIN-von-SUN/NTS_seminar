@@ -1,0 +1,90 @@
+0	商场 客流量 和 市场 人气 较 高 ,
+0	消费者 满意度 高 ,
+0	<org> 口碑 良好 。
+0	由于 某 商场 较 高 的 人气 和 良好 的 市场 形象 ,
+0	使 其 对外 租赁 已 呈现 “ <num> 柜 难求 ” 的 经营 局面 。
+0	( <num> ) 保证 人 财务 报表 情况 评价
+0	<num> 、 财务 报表 情况
+0	期数 报表 周期 报表 口径 是否 审计 审计 机构 审计 意见
+0	<tim> / <num> 年报 本部 否 无 保留 意见
+0	<tim> / <num> 年报 本部 是 <org> 无 保留 意见
+0	<tim> / <num> 月报 本部 否 无 保留 意见
+0	<tim> / <num> 月报 本部 否 无 保留 意见
+0	报表 口径 不 一致 说明 :
+0	报表 口径 一致 。
+0	其中 <tim> 报表 审计 机构 为 <org> ,
+0	因 我 行 集中 评级 时 ,
+0	借款 人 报表 还 未 审计 完成 ,
+0	故 录入 时 未 填写 审计 机构 ,
+0	评级 完 报表 锁定 ,
+0	无法 重新 录入 ,
+0	故 没有 录入 审计 机构 ,
+0	但 系统 中 的 报表 与 审计 报告 的 数据 一致 。
+0	非 无 保留 意见 说明 :
+0	无 保留 意见 。
+0	<num> 、 资产 负债表 情况
+0	( <num> ) 资产 负债表 单位 : <num> 元
+0	项目 \ 日期 <tim> / <num> <tim> / <num> <tim> / <num> <tim> / <num> <tim> / <num>
+0	资产 总计 <num> <num> <num> <num> <num> <num> <num> <num>
+0	流动 资产 合计 <tim> <tim> - <num> <num> <num> <num> <num> <num>
+0	货币 资金 <num> <num> <num> <tim> <num> <tim> <tim> <num>
+0	短期 投资 <num> <num> <num> <num> <num> <num> <num> <num>
+0	应收 票据 <num> <num> <num> <num> <num> <num> <num> <num>
+0	应收 帐款 <num> <num> <num> <num> <num> <num> <num> <num>
+0	预付 帐款 <num> <num> <num> <num> <num> <num> <num> <num>
+0	其他 应收款 <num> <num> - <num> <tim> <num> <num> <tim> <num>
+0	存货 净额 <tim> <num> - <num> <tim> <num> <tim> <tim> <num>
+0	长期 投资 合计 <num> <num> <num> <num> <num> <num> <num> <num>
+0	长期 投资 <num> <num> <num> <num> <num> <num> <num> <num>
+0	固定 资产 合计 <num> <num> <num> <num> - <num> <num> <num> - <num>
+0	固定 资产 净值 <num> <num> <num> <num> - <num> <num> <num> - <num>
+0	在 建 工程 <num> <num> <num> <num> <num> <num> <num> <num>
+0	工程 物资 <num> <num> <num> <num> <num> <num> <num> <num>
+0	无形 及 递延 资产 合计 <num> <num> <num> <num> <num> <num> <num> <num>
+0	负债 合计 <num> <num> - <num> <num> <num> <num> <num> <num>
+0	短期 借款 <num> <num> <num> <num> <num> <num> <num> <num>
+0	应付 票据 <num> <num> <num> <num> <num> <num> <num> <num>
+0	应付 帐款 <num> <num> <num> <num> - <num> <num> <num> <num>
+0	预 收 账款 <num> <num> <num> <num> <num> <num> <num> <num>
+0	其他 应付款 <num> <num> - <num> <num> <num> <num> <num> <num>
+0	预 提 费用 <num> <num> <num> <num> <num> <num> <num> <num>
+0	长期 借款 <num> <num> - <num> <num> <num> <num> <num> <num>
+0	长期 应付款 <num> <num> - <num> <num> - <num> <num> <num> - <num>
+0	所有者 权益 合计 <num> <num> <num> <num> <num> <num> <num> <num>
+0	实收 资本 <num> <num> <num> <num> <num> <num> <num> <num>
+0	资本 公 积 <num> <num> <num> <num> <num> <num> <num> <num>
+0	盈余 公 积 <num> <num> <num> <num> <num> <num> <num> <num>
+0	未 分配 利润 <num> <num> <num> <num> <num> <num> <num> <num>
+0	( <num> ) <tim> 报表 科目 需要 说明 的 情况
+0	① 货币 资金 ( 单位 : <num> 元 )
+0	货币 资金 与其 资产 规模 、 收 付款 结算 方式 以及 现金 流量 相 匹配 。
+0	银行 存款 主要 分布 在 我 行 、 <org> 、 <org> 。
+0	注 : 说明 货币 资金 是否 与 客户 资产 规模 、 付款 、 收款 方式 以及 现金 流量 相 匹配 。
+0	② 应收 账款
+0	应收 账款 账 龄 分析 表 ( 单位 : <num> 元 、 <num> )
+0	大额 应收 账款 明细表 ( 单位 : <num> 元 、 月 )
+0	注 : 表 中 所 列 应收 账款 需 按 年 金额 从 大 到 小 排列 ,
+0	所 列 应收 账款 合计 需 达到 客户 全部 应收 账款 的 <num> 以上 ( 含 ) ;
+0	若 欠款 单位 较为 分散 ,
+0	可 只 列 示 前 <num> 大 欠款 单位 。
+0	应收 账款 说明 :
+0	注 : 从 应收 账款 的 账 龄 、 主要 欠款 人 的 信用 情况 、 大额 长期 应收 账款 的 形成 原因 、 坏账 准备 的 计 提 等 方面 进行 分析 评价 ,
+0	说明 应收 账款 质量 如何 ,
+0	有 无 坏账 风险 。
+0	该 公司 应收 帐款 金额 较小 ,
+0	且 多 是 常年 往来 客户 ( 自营 部分 的 应收 账款 ) ,
+0	坏帐 风险 很 小 。
+0	③ 预付 账款 ( 单位 : <num> 元 、 月 )
+0	④ 其他 应收 账款 ( 单位 : <num> 元 、 月 )
+0	注 : 表 中 所 列 应收 账款 需 按 年 金额 从 大 到 小 排列 ,
+0	所 列 应收 账款 合计 需 达到 客户 全部 应收 账款 的 <num> 以上 ( 含 ) ;
+0	若 欠款 单位 较为 分散 ,
+0	可 只 列 示 前 <num> 大 欠款 单位 。
+0	其他 应收 账款 说明 :
+0	注 : 对 大额 或 长期 的 其他 应收款 应 主要 分析 欠款 时间 及 原因 ,
+0	对于 用于 投资 的 资金 ,
+0	应 分析 被 投资 企业 的 经营 情况 ,
+0	对于 关联 人 借款 ,
+0	应 分析 关联 人 借款 原因 以及 收回 的 可能性 。
+0	其他 应收 账款 燕赵 保险 为 预留 保证金 。
+0	三顺 建筑 材料 和 泰和 嘉实 科技 为 对 借款 人 的 借款 ,

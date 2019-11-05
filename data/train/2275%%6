@@ -1,0 +1,90 @@
+0	<org> <num>
+0	<org> <num>
+0	<org> - <num>
+0	<org> <num>
+0	<org> <num>
+0	<org> <num>
+0	<org> <num>
+0	xx 资本 怎 § 股 有限 公司 <num>
+0	<org> <num>
+0	<org> <num>
+0	<org> <num>
+0	<org> <num>
+0	<org> <num>
+0	<org> <num> j
+0	<org> <num>
+0	<org> <num> j
+0	<org> <tim>
+0	⑨ 投资 性 房地产 : <num> 方元 ,
+0	占 非 流动 资产 的 <num> ,
+0	全部 为 房屋 及 建筑物 。
+0	⑩ 固定 资产 : <num> 元 ,
+0	占 非 流动 资产 的 <num> ,
+0	主要 为 保证 人 及其 子公司 飞行 器材 ,
+0	其中 飞行 器材 <num> 元 ,
+0	占 固定 资产 的 <num> 。
+0	? ? ? ? 在 建 工程 : <num> 元 ,
+0	占 非 流动 资产 的 <num> ,
+0	主要 为 飞机 预付款 ,
+0	其中 飞机 预付款 <num> 元 ,
+0	占 在 建 工程 的 <num> 。
+0	? ? ? ? 商誉 : <num> 元 ,
+0	占 非 流动 资产 的 <num> ,
+0	具体 明细 如下 :
+0	被 投资 单位 金额 ( <num> 元 )
+0	<org> <num>
+0	<org> <num>
+0	<org> <num>
+0	<org> <num>
+0	<org> <num>
+0	<num> 、 负债 类 : <num> 元 。
+0	( <num> ) 流动 负债 : <num> 元 <num> 占 负债 的 <num> ;
+0	? ? ? ? 短期 借款 : <num> 元 ,
+0	占 流动 负债 的 <num> 。
+0	为 在 金融 机构 <num> 年 内 ( 含 ) 的 借款 。
+0	具体 明细 如下 :
+0	项目 金额 ( <num> 元 )
+0	质押 借款 <num>
+0	抵押 借款 <num>
+0	槪 借款 <num>
+0	储备 借款 <num>
+0	合计 <num>
+0	? ? ? ? 应付 票据 : <num> 元 ,
+0	占 流动 负债 的 <num> 全部 为 未到 斯 的 银行 承兑 汇票 和 商业 承兑 汇票 ,
+0	其中 银行 承兑 汇票 <num> 元 、 商业 承兑 汇票 <num> 元 。
+0	主要 银行 承兑 汇票 明细 如下 :
+0	出票 人 出票 行 银 承 出票 金额 ( <num> 元 ) |
+0	<org> <org> ' <num>
+0	<org> <org> <num>
+0	<org> <org> <num> <num>
+0	<org> <org> <num> |
+0	<org> <org> <num>
+0	<org> xx 农 商行 <num>
+0	<org> <org> <num>
+0	<org> <org> <num>
+0	<org> <org> <num>
+0	<org> <org> <num>
+0	<org> <org> <num>
+0	<org> <org> <num>
+0	<org> <org> <num> j
+0	<org> <org> <num> j
+0	<org> <org> <num> <num>
+0	<org> <org> <num>
+0	<org> <org> <num>
+0	<org> <org> <num>
+0	<org> <org> <num>
+0	<org> <org> <num>
+0	? ? ? ? 应付 账款 : <num> 元 ,
+0	占 流动 负债 的 <num> 。
+0	主要 为 保证 人 应收 旅游团 款 、 第 三方 机票 代理 销售 款 、 机票 款 、 包机 款 等 。
+0	? ? ? ? 预 收 账款 : <num> 元 ,
+0	占 流动 负债 的 <num> ,
+0	主要 为 账 龄 在 <num> 年 以内 预 收 的 机票 款 及 会议 费 等 款项 。
+0	? ? ? ? 其他 应付款 : <num> 元 ,
+0	占 流动 负债 的 <num> 。
+0	主要 为 账 龄 为 <num> 年 以内 的 基建 费 、 包机 押金 等 。
+0	具体 情况 如下 :
+0	主要 债权 人 ;
+0	客户 名称 内容 金额 ( <num> 元 ) 占 比 账 龄
+0	<org> 基建 费 <num> <num> <num> 军 内
+0	<org> 包机 押金 <num> <num> <num> 年 内

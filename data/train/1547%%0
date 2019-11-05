@@ -1,0 +1,47 @@
+0	" 借款 人 基本 财务 指标
+1	主营 业务 利润率 <num> <num> <num> <num> <num> <num>
+1	息 税前 营业 利润率 <num> <num> <num> <num> <num> <num>
+1	总资产 收益率 <num> <num> <num> <num> <num> <num>
+1	净资产 收益率 <num> <num> <num> <num> <num> <num>
+0	存货 周转 天数 ( 天 ) <num> <num> <num> <num> <num> <num>
+0	应收 账款 周转 天数 ( 天 ) <num> <num> <num> <num> <num> <num>
+0	应付 账款 周转 天数 ( 天 ) <num> <num> <num> <num> <num> <num>
+1	总资产 周转率 <num> <num> <num> <num> <num> <num>
+1	盈余 现金 保障 倍数 <num> <num> <num> <num> <num> <num>
+0	留存 现金流 与 总 资本 支出 比 <num> <num> <num> <num> <num> <num>
+1	长期 资产 适合 率 ( 倍 ) <num> <num> <num> <num> <num> <num>
+1	息 税前 利润 利息 保障 倍数 <num> <num> <num> <num> <num> <num>
+1	流动 比率 ( 倍 ) <num> <num> <num> <num> <num> <num>
+1	速 动比率 ( 倍 ) <num> <num> <num> <num> <num> <num>
+1	资产 负债率 <num> <num> <num> <num> <num> <num>
+1	调整 后 的 资产 负债率 <num> <num> <num> <num> <num> <num>
+0	总 有 息 债务 / 留存 现金流 ( 倍 ) <num> <num> - <num> - <num> - <num> - <num>
+1	财务 分析 截止 <tim> 底 ,
+1	某某 市 甲乙 丙丁 有限 公司 总资产 为 <num> 元 ,
+1	总 负债 为 <num> 元 ,
+1	所有者 权益 为 <num> 元 ,
+1	实现 销售 收入 为 <num> 元 ,
+1	净利润 为 <num> 元 。
+0	<tim> 较 年初 总资产 增加 <num> 元 ,
+0	其中 流动 资产 增加 <num> 元 。
+0	流动 资产 中 货币 资金 增加 <num> 元 ,
+0	为 保证金 存款 增加 所致 ,
+0	应付 票据 较 年初 增加 <num> 元 。
+0	应收 票据 增加 <num> 元 ,
+0	应收 账款 增加 <num> 元 ,
+0	预 收 账款 减少 <num> 元 ,
+0	为 正常 业务 往来 所致 。
+0	负债 方面 : 短期 借款 增加 <num> 元 ,
+0	应付 票据 增加 <num> 元 ,
+0	长期 借款 增加 <num> 元 ,
+0	企业 从 银行 融资 增加 。
+0	经 人行 征信 系统 查询 ,
+0	企业 目前 贷款 逾期 <num> 元 ,
+0	主要 原因 为 企业 害怕 银行 抽 贷 ,
+0	正在 和 金融 机构 洽谈 续 作 。
+0	其他 基本 财务 指标 变化 不大 ,
+0	存货 周转 天数 为 <num> 天 ,
+0	应收 账款 周转 天数 为 <num> 天 ,
+0	应付 账款 周转 天数 为 <num> 天 。
+2	目前 企业 经营 正常 ,
+2	财务 各项 指标 基本 稳定 。

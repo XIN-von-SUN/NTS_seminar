@@ -1,0 +1,90 @@
+0	" <num> 、 企业 客户 财务 信息
+0	基本 报表 信息
+0	客户 规模 报表 期 次 报表 口径 报表 周期 审计 状态 审计 意见 审计 机构 显示 单位
+0	小型 企业 <tim> / <num> 本部 半年报 否 <num> 元
+0	财务 数据 信息
+1	财务 指标 当期 财务 状况
+1	( <tim> / <num> ) <tim> 年报
+1	( <tim> / <num> ) 前 两年 年报
+1	( <tim> / <num> ) <tim> 年报
+1	( <tim> / <num> ) 比上 年 同期 的 增减 比例
+0	( <tim> / <num> ) 我 行 均值
+0	( <tim> / <num> ) <org> 指标 均值
+0	( <tim> / <num> ) 上市 公司 均值
+0	( <tim> / <num> )
+0	总资产 <num>
+0	<num> <num>
+0	<num> <num>
+0	<num> <num>
+0	<num> <num>
+0	货币 资金 <num> <num> <num> <num> - <num>
+0	应收 账款 <num> <num>
+0	<num> <num>
+0	<num> <num>
+0	<num> <num>
+0	其他 应收 账款 <num>
+0	<num> <num>
+0	<num> <num> <num> <num>
+0	存货 <num>
+0	<num> <num>
+0	<num> <num>
+0	<num> <num>
+0	<num> - <num>
+0	长期 投资 <num>
+0	<num> <num> <num> <num> - <num>
+0	总 负债 <num>
+0	<num> <num>
+0	<num> <num>
+0	<num> <num>
+0	<num> <num>
+0	短期 借款 <num> <num> <num> <num> <num>
+0	应付 票据 <num> <num> <num> <num> <num>
+0	应付 账款 <num> <num> <num> <num> <num>
+0	长期 借款 <num>
+0	<num> <num>
+0	<num> <num>
+0	<num> <num>
+0	<num> - <num>
+0	净资产 <num>
+0	<num> <num>
+0	<num> <num>
+0	<num> <num>
+0	<num> <num>
+0	销售 收入 <num> <num> <num> <num> <num>
+0	利润 总额 - <num> <num> <num> <num> - <num>
+0	净利润 - <num> <num> <num> <num> - <num>
+0	净 现金流 <num> <num> <num>
+0	<num> - <num>
+0	<num> - <num>
+0	经营 活动 净 现金流 <num> - <num>
+0	<num> - <num>
+0	<num> - <num>
+0	<num> <num>
+0	投资 活动 净 现金流 <num> - <num>
+0	<num> - <num> - <num>
+0	<num> <num>
+0	筹资 活动 净 现金流 <num> <num>
+0	<num> <num>
+0	<num> <num>
+0	<num> <num>
+1	流动 比率 <num> <num> <num> <num> <num>
+1	速 动比率 <num> <num> <num> <num> <num>
+1	资产 负债率 <num> <num> <num> <num> - <num>
+1	利息 保障 倍数 <num> <num> <num> <num> <num>
+1	应收 账款 周转率 <num> <num> <num> <num> <num>
+1	存货 周转率 <num> <num> <num> <num> <num>
+1	销售 利润率 - <num> <num> <num> <num> - <num>
+1	净资产 收益率 <num> <num> <num> <num> - <num>
+0	( <num> ) 企业 法人 财务 信息
+0	<num> 法人 企业 名称 : <org>
+0	( <num> ) 基本 报表 信息
+0	客户 规模 报表 期 次 报表 口径 报表 周期 审计 状态 审计 意见 审计 机构 显示 单位
+0	大型 企业 <tim> / <num> 本部 半年报 否
+0	( <num> ) 其他 财务 报表 模板
+1	财务 指标 当期 财务 状况
+1	( <tim> / <num> ) <tim> 年报
+1	( <tim> / <num> ) 前 两年 年报
+1	( <tim> / <num> ) <tim> 年报
+0	( <tim> / <num> ) 我 行 均值
+0	( <tim> / <num> ) <org> 指标 均值
+0	( <tim> / <num> ) 上市 公司 均值

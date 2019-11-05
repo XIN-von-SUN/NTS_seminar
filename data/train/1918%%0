@@ -1,0 +1,88 @@
+1	" 科目 <tim> <tim> 增长率 <tim> 增长率 <num>
+1	主营 收入 <num> <num> <num> <num> <num> <num>
+1	主营 利润 <num> <num> <num> <num> <num> <num>
+0	营业 利润 - <num> <num> <num> <num> <num> <num>
+0	利润 总额 - <num> <num> <num> <num> <num> <num>
+1	毛利率 <num> <num> <num> <num> <num> <num>
+1	营业 利润率 - <num> <num> <num> <num> <num> <num>
+1	利润率 - <num> <num> <num> <num> <num> <num>
+0	公司 主营 收入 每年 呈 上升 趋势 ,
+0	且 增长 幅度 较 大 ,
+1	截止 <tim> ,
+1	公司 实现 销售 收入 <num> 元 ,
+1	净利润 <num> 元 。
+0	企业 主营 利润 <tim> 较 上年 有所 上升 ,
+0	据 调查 了解 。
+0	<tim> ,
+0	企业 净利润 已 超过 <tim> 全年 ,
+0	达到 历史 新高 ,
+0	相信 企业 <tim> 主营 将 会 有 较 大 幅度 的 提高
+1	截至 <tim> 末 ,
+1	申请 人 资产 总额 为 <num> 元 ,
+1	负债 总额 为 <num> 元 ,
+1	所有者 权益 为 <num> 元 ,
+1	资产 负债率 <num> ,
+1	流动 比 <num> ,
+1	速 动 比 <num> 。
+0	资产 负债表 单位 : <num> 元
+1	科   目 <num> <num> <num> <num>
+1	结构 资产 总额 <num> <num> <num> <num>
+1	净资产 <num> <num> <num> <num>
+0	实收 资本 <num> <num> <num> <num>
+0	资本 公 积 <num> <num> <num>
+0	未 分配 利润 - <num> <num> <tim> <num>
+0	资产 类 流动 资产 <tim> <num> <num> <num>
+0	货币 资金 <tim> <num> <tim> <num>
+0	短期 投资 <num> <num> <num>
+1	应收 帐款 <num> <tim> <num> <num>
+0	应收 票据 <num> <num> <num>
+0	预付 帐款 <num> <num> <num>
+0	其他 应收款 <num> <num> <num>
+0	存 货 <num> <tim> <tim> <num>
+0	长期 投资 <num> <num> <num>
+0	长期 待 摊 费用 <num> <num> <num>
+0	固定 资产 净值 <num> <num> <num> <num>
+0	负债 类 总 负债 <num> <num> <num> <num>
+0	流动 负债 <num> <num> <tim> <num>
+0	短期 借款 <num> <tim> <num> <num>
+0	应付 票据 <num> <num> <num> <num>
+1	应付 账款 <num> <tim> <tim> <tim>
+0	预 收 帐款 <num> <num> <num>
+0	其他 应付款 <num> <num> <num>
+0	长期 借款 <num> <num> <num> <num>
+1	财务 比率 <num> <num> <num> <num>
+1	资产 负债率 <num> <num> <num> <num>
+0	净资产 借款 率 - - <num> <num> <num>
+0	资本 固定 化 率 <num> <num> <num> <num>
+1	流动 比率 <num> <num> <num> <num>
+1	速 动比率 <num> <num> <num> <num>
+0	应收 账款 周转 天数 - - <num> <num> <num>
+0	存货 周转 天数 - - <num> <num> <num>
+0	应付 帐款 周转 天数 - - <num> <num> <num>
+0	<tim> 的 主要 财务 情况 为 :
+0	( <num> ) 货币 资金 <num> 元 ,
+0	主要 为 保证金 <num> 元 及 银行 存款 。
+0	( <num> ) 应收 账款 <num> 元 ,
+0	较 上 年末 增加 约 <num> 元 ,
+0	应收 账款 主要 是 货款 ,
+0	欠款 时间 在 <num> 年 以内 ,
+0	欠款 单位 都 是 常年 合作 的 业务 单位 ,
+0	信誉 较 好 ,
+0	到期 付款 有 一定 的 保障 。
+0	( <num> ) 存货 <num> 元 ,
+0	较 上 年末 增加 约 为 <num> 元 。
+0	( <num> ) 固定 资产 原值 <num> 元 ,
+0	主要 为 大棚 、 农具 等 农业 配套 设施 。
+0	( <num> ) 应付 票据 <num> 元 。
+0	( <num> ) 应付 账款 <num> 元 ,
+0	比 年初 增加 <num> 元 ,
+0	主要 为 农药 、 农具 款 。
+0	( <num> ) 长期 借款 为 <num> 元 ,
+0	为 申请 人 在 <org> 的 长期 贷款 。
+0	企业 银行 融资 增加 ,
+0	流动 负债 增加 ,
+0	各项 短期 偿债 指标 基本 处于 合理 区间 ,
+0	短期 偿债 能力 合理 ;
+0	因 以 企业 对外 融资 金额 增加 使 公司 资产 负债率 有 上升 趋势 ,
+0	导致 企业 长期 偿债 能力 下降 ,
+0	但 企业 的 财务 负债 水平 仍 处在 合理 水平 。

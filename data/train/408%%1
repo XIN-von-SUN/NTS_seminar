@@ -1,0 +1,90 @@
+0	借款 人 财务 分析 ( <num> ) - 财务 指标
+1	内容 指标 名称 <tim> 合并 <tim> 合并 <tim> 合并 平均值
+0	企业 行业
+0	中 位 值 企业 行业
+0	中 位 值 企业 行业
+0	中 位 值 企业 行业
+1	盈利 能力 主营 业务 利润率 ( <num> ) <num> <num> <num> <num> <num> <num> <num> <num>
+1	息 税前 营业 利润率 ( <num> ) - <num> <num> - <num> <num> <num> <num> - <num> <num>
+1	总资产 收益率 ( <num> ) - <num> <num> - <num> <num> <num> <num> - <num> <num>
+1	净资产 收益率 ( <num> ) - <num> <num> - <num> <num> <num> <num> - <num> <num>
+0	经营 效率 存货 周转 天数 ( 天 ) <num> <num> <num> <num>
+0	应收 账款 周转 天数 ( 天 ) <num> <num> <num> <num>
+0	应付 账款 周转 天数 ( 天 ) - <num> <num> <num> <num>
+1	总资产 周转率 ( <num> ) <num> <num> <num> <num> <num> <num> <num> <num>
+0	流动性 和 短期 偿债 能力 盈余 现金 保障 倍数 <num> <num> <num> <num>
+0	留存 现金流 与 总 资本 支出 比 <num> - <num> <num> <num>
+1	长期 资产 适合 率 ( 倍 ) <num> <num> <num> <num>
+0	息 税前 利润 利息 保障 倍数 - <num> - <num> <num> <num>
+1	流动 比率 ( 倍 ) <num> <num> <num> <num>
+1	速 动比率 ( 倍 ) <num> <num> <num> <num>
+1	长期 偿债 能力 资产 负债率 ( <num> ) <num> <num> <num> <num> <num> <num> <num> <num>
+1	调整 后 的 资产 负债率 ( <num> ) <num> <num> <num> <num> <num> <num> <num> <num>
+1	总 有 息 债务 / 留存 现金流 ( 倍 ) - <num> - <num> <num> - <num>
+1	内容 指标 名称 <tim> 本部 <tim> 本部 <tim> 本部 平均值
+0	企业 行业
+0	中 位 值 企业 行业
+0	中 位 值 企业 行业
+0	中 位 值 企业 行业
+1	盈利 能力 主营 业务 利润率 ( <num> ) <num> <num> <num> <num> <num> <num> <num> <num>
+1	息 税前 营业 利润率 ( <num> ) <num> <num> <num> <num> <num> <num> <num> <num>
+1	总资产 收益率 ( <num> ) <num> <num> <num> <num> <num> <num> <num> <num>
+1	净资产 收益率 ( <num> ) <num> <num> <num> <num> <num> <num> <num> <num>
+0	经营 效率 存货 周转 天数 ( 天 ) <num> <num> <num> <num>
+0	应收 账款 周转 天数 ( 天 ) <num> <num> <num> <num>
+0	应付 账款 周转 天数 ( 天 ) <num> <num> <num> <num>
+1	总资产 周转率 ( <num> ) <num> <num> <num> <num> <num> <num> <num> <num>
+1	流动性 和 短期 偿债 能力 盈余 现金 保障 倍数 <num> <num> <num> <num>
+0	留存 现金流 与 总 资本 支出 比 <num> <num> <num> <num>
+1	长期 资产 适合 率 ( 倍 ) <num> <num> <num> <num>
+0	息 税前 利润 利息 保障 倍数 <num> <num> <num> <num>
+1	流动 比率 ( 倍 ) <num> <num> <num> <num>
+1	速 动比率 ( 倍 ) <num> <num> <num> <num>
+1	长期 偿债 能力 资产 负债率 ( <num> ) <num> <num> <num> <num> <num> <num> <num> <num>
+1	调整 后 的 资产 负债率 ( <num> ) <num> <num> <num> <num> <num> <num> <num> <num>
+1	总 有 息 债务 / 留存 现金流 ( 倍 ) <num> - <num> <num> - <num>
+0	( <num> ) 财务 分析 - 主要 资产 质量 ( <num> ) 币种 : 人民币
+0	单位 : <num> 元 单位 : <num> 元
+0	( <num> ) 应收 帐款 分析
+1	帐 龄 分析 <num> 年 ( 含 ) 以下 <num> - <num> 年 ( 含 ) <num> 年 以上 合计
+1	金额 ( <num> 元 ) <num> 金额 ( <num> 元 ) <num> 金额 ( <num> 元 ) <num> 金额 ( <num> 元 )
+0	应收 帐款 <num> <num> <num> <num> <num> <num> <num> <num>
+0	其他 应收款 <num> <num> <num> <num> <num> <num> <num> <num>
+0	应收 帐款 大 客户 名称 金额 ( <num> 元 ) <num> 资金 占用 / 变动 原因 与 本 企业 关系
+0	<num> 、 广州 某 热 电厂 <num> <num> 货款 未 回笼 下游 客户
+0	<num> 、 盐城 某 物资 贸易 有限 公司 <num> <num> 货款 未 回笼 下游 客户
+0	<num> 、 <org> <num> <num> 货款 未 回笼 下游 客户
+0	其他 应收款 <num> 、 <org> <num> <num> 借款 关联 公司
+0	<num> 、 <org> <num> <num> 借款 异地 分公司
+0	<num> 、 饶平县 某 船货 代理 有限 公司 <num> <num> 借款 非 关联 企业
+0	( <num> ) 存货 分析
+0	金额 ( <num> 元 ) <num> 存货 是否 正常
+0	产 成品 <num> <num> 正常
+0	在 产品
+0	原材料
+0	合计 <num> <num>
+0	( <num> ) 固定 资产 分析
+0	金额 ( <num> 元 ) <num> 折旧 方法 综合 成 新 率
+0	房屋 建筑物 <num> <num> 直线 折旧 法 计算
+0	机器 设备 <num> <num> 直线 折旧 法 计算
+0	运输 工具 <num> <num> 直线 折旧 法 计算
+0	其他 <num> <num> 直线 折旧 法 计算
+0	合计 <num> <num>
+0	( <num> ) 无形 资产 分析
+0	主要 内容 入帐 价值 ( <num> 元 ) <num> 评估 方法
+0	<org> <num> <num>
+0	土地 使用权 <num> <num>
+0	合计 <num> <num>
+0	( <num> ) 对外 担保 和 或 有 负债 分析
+0	对外 担保 被 担保 人 担保 金额 ( <num> 元 ) 担保 到期 日
+0	合计 <num>
+0	其他 或 有 负债 主要 内容 金额 ( <num> 元 ) 期限
+0	合计 <num>
+0	或 有 负债 总计
+0	情况 资产 抵押 、 质押 情况 应 调查 企业 以往 贷款 时 将 哪些 资产 做 了 抵押 或 质押 ,
+0	这些 资产 的 帐面 价值 和 评估 价值 是 多少 ,
+0	包括 货币 资金 、 存货 、 固定 资产 、 无形 资产
+0	甲乙 丙丁 名下 持有 的 位于 广州市 海珠区 阅 江 中路 xxx 号 的 办公楼 ,
+0	已 于 <tim> 抵押 给 银团 贷款 ,
+0	由 潮州 某 行 作为 牵头 行 办理 了 代理 抵押 。
+0	情况 对 其他 数额 较 大 、 存在 风险 或 不能 正常 运营 的 资产 情况 进行 说明 ,

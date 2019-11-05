@@ -1,0 +1,69 @@
+0	其中 : 短期 借款 <num> 元 ,
+0	长期 借款 <num> 元 ,
+0	银行 承兑 汇票   <num>   <num> 元 ,
+0	保函   <num>   <num> 元 ,
+0	其他 融资 <num> 元 等等 ;
+0	他 行 融资 <num> 元 。
+0	具体 融资 明细 如下 :
+0	保证 客户 最新 授信 情况 表
+0	单位 : <num> 元 、 <num>
+0	银行 名称 授信 品种 授信 总额 授信 总额 余额 ( 含 保证金 ) 授信 敞口 余额 单 笔 贷款 期限 ( 起止 日 ) 贷款 利率 担保 方式
+0	国家 开行 项目 贷款 <num> <num>
+0	<num> <tim> - <num>
+0	<num> - <num> 土地 抵押
+0	<org> 流 贷 <num> <num> <tim> - <tim> 存单 质押
+0	<org> 流 贷 <num> <num>
+0	<num> <tim> - <tim>
+0	<tim> - <tim> 沿海 开发 担保 、 存单 质押
+0	<org> 流 贷 <num> <num> <num> - <num> 某 省 甲乙 集团 公司 保证
+0	<org> 信托 贷款 <num> <num> <num> - <num> 保证
+0	<org> 项目 贷款 <num> <num> <num> - <num> 土地 抵押
+0	<org> 开发区 支行 项目 贷款 <num> <num> <num> - <num> 土地 抵押
+0	<org> 项目 贷款 <num> <num>
+0	<num>
+0	<num> <tim> - <num>
+0	<num> - <num>
+0	<num> - <num> 土地 及 房产 抵押
+0	<org> 项目 贷款 <num> <num> <num> - <num> 房屋 征收 保证金 质押
+0	<org> 委 贷 <num> <num> <num> - <num> <org> 担保
+0	某 市 <org> 委 贷 <num> <num> <tim> - <tim> <org> 担保
+0	<org> 信托 <num> <num> <num> - <num>
+0	<num> - <num>
+0	<tim> - <tim> 张 <num> 控股 担保
+0	某 <org> 信托 <num> <num> <num> - <num> 张 <num> 控股 担保
+0	<org> 信托 <num> <num> <tim> - <num> 张 <num> 控股 担保
+0	<per> 某 融资 租赁 有限 公司 融资 租赁 <num> <num> <num> - <num> 信用
+0	<org> 信托 <num> <num> <num> - <num> 张 <num> 控股 担保
+0	<org> 信托 <num> <num> <num> - <num> 张 <num> 控股 担保
+0	<org> 项目 贷款 <num> <num> 信用
+0	<org> 银 承 <tim> <tim> <num> - <num> <num> <org> 担保
+0	<org> 开支 银 承 <num> <num> <tim> - <tim> 质押
+0	企业 债 <num> <num>
+0	<num> <tim> - <tim>
+0	<num> - <num>
+0	<org> 私募 <num> <num>
+0	<num> <num> - <num>
+0	<tim> - <tim>
+0	<org> 私募 <num> <num> <num> - <num>
+0	<num> <num>
+0	截至 <tim> 年 <tim> <num> 日 ,
+0	保证 人 共有 实际 对外 担保 合同 金额 <num> 元 ,
+0	其中 有 保证 贷款 <num> ,
+0	抵押 贷款 <num> 元 ,
+0	所 担保 主 业务 余额 为 <num> ,
+0	因 有 额度 未 用 足 现象 ,
+0	故 实际 担保 金额 与 担保 额度 有 差异 。
+0	其 主要 担保 明细 如下 :
+0	单位 : <num> 元
+0	被 担保 人 名称 担保 额度 担保 品种
+0	<org> <num> 贷款
+0	<org> <num> 贷款
+0	某 省 张 <num> <num> 贷款
+0	张 <num> 建设 投资 <num> 贷款
+0	张 <num> 水务 <num> 贷款
+0	<per> 张 <num> 酒店 <num> 贷款
+0	<org> <num> 贷款
+0	<org> <tim> 贷款
+0	某 省 某 省 <per> 八 商业 管理 <num> 贷款
+0	<org> <num> 贷款
+0	<org> <tim> 贷款

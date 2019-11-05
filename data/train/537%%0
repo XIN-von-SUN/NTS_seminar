@@ -1,0 +1,90 @@
+0	" <num> 、 财务 报表 情况
+0	期数 报表 周期 报表 口径 是否 审计 审计 机构 审计 意见
+0	<tim> / <num> 年报 本部 是 <org> 无 保留 意见
+0	<tim> / <num> 年报 本部 否 无 保留 意见
+0	<tim> / <num> 年报 本部 是 <org> 无 保留 意见
+0	报表 口径 不 一致 说明 :
+0	报表 口径 一致 。
+0	其中 <tim> 报表 审计 机构 为 <org> ,
+0	因 我 行 集中 评级 时 ,
+0	借款 人 报表 还 未 审计 完成 ,
+0	故 录入 时 未 填写 审计 机构 ,
+0	评级 完 报表 锁定 ,
+0	无法 重新 录入 ,
+0	故 没有 录入 审计 机构 ,
+0	但 系统 中 的 报表 与 审计 报告 的 数据 一致 。
+0	非 无 保留 意见 说明 :
+0	无 保留 意见 。
+0	<num> 、 资产 负债表 情况
+0	( <num> ) 资产 负债表 单位 : <num> 元
+1	项目 \ 日期 <tim> / <num> <tim> / <num> <tim> / <num> <tim> / <num> <tim> / <num>
+1	资产 总计 <num> <num> <num> <num> <num> <num> <num> <num>
+0	流动 资产 合计 <tim> <num> <num> <num> <num> <num> <num> <num>
+0	货币 资金 <num> <tim> <num> <tim> <num> <tim> <tim> - <num>
+0	短期 投资 <num> <num> <num> <num> <num> <num> <num> <num>
+0	应收 票据 <num> <num> <num> <num> <num> <num> <num> <num>
+1	应收 帐款 <num> <num> <num> <num> <num> <num> <num> <num>
+0	预付 帐款 <num> <num> <num> <num> <num> <num> <num> <num>
+0	其他 应收款 <num> <tim> <num> <num> <num> <tim> <num> <num>
+0	存货 净额 <num> <tim> <num> <tim> <num> <tim> <tim> <num>
+0	长期 投资 合计 <num> <num> <num> <num> - <num> <num> <num> - <num>
+0	长期 投资 <num> <num> <num> <num> - <num> <num> <num> - <num>
+0	固定 资产 合计 <num> <num> - <num> <num> - <num> <num> <num> - <num>
+0	固定 资产 净值 <num> <num> - <num> <num> - <num> <num> <num> - <num>
+0	在 建 工程 <num> <num> <num> <num> <num> <num> <num> <num>
+0	工程 物资 <num> <num> <num> <num> <num> <num> <num> <num>
+0	无形 及 递延 资产 合计 <num> <num> <num> <num> <num> <num> <num> <num>
+0	负债 合计 <num> <num> <num> <num> - <num> <num> <num> - <num>
+0	短期 借款 <num> <num> <num> <num> <num> <num> <num> <num>
+0	应付 票据 <num> <num> <num> <num> <num> <num> <num> <num>
+1	应付 帐款 <num> <num> - <num> <num> - <num> <num> <num> - <num>
+0	预 收 账款 <num> <num> <num> <num> <num> <num> <num> <num>
+0	其他 应付款 <num> <num> <num> <num> - <num> <num> <num> - <num>
+0	预 提 费用 <num> <num> <num> <num> <num> <num> <num> <num>
+0	长期 借款 <num> <num> <num> <num> - <num> <num> <num> - <num>
+0	长期 应付款 <num> <num> - <num> <num> - <num> <num> <num> - <num>
+1	所有者 权益 合计 <num> <num> <num> <num> <num> <num> <num> <num>
+0	实收 资本 <num> <num> <num> <num> <num> <num> <num> <num>
+0	资本 公 积 <num> <num> <num> <num> <num> <num> <num> <num>
+0	盈余 公 积 <num> <num> <num> <num> <num> <num> <num> <num>
+0	未 分配 利润 <num> <num> <num> <num> <num> <num> <num> <num>
+0	( <num> ) <tim> 报表 科目 需要 说明 的 情况
+0	<num> 、 货币 资金 ( 单位 : <num> 元 )
+0	<num> 、 应收 账款
+1	应收 账款 账 龄 分析 表 ( 单位 : <num> 元 、 <num> )
+1	账 龄 金额 占 比 计 提 的 坏账 准备
+0	<num> ~ <tim> <num> <num>
+0	<num> ~ <tim>
+0	<num> ~ <num> 年
+0	<num> 年 以上
+0	合计 <num>
+0	大额 应收 账款 明细表 ( 单位 : <num> 元 、 月 )
+0	应收 账款 说明 :
+0	该 公司 应收 帐款 金额 较小 ,
+0	且 多 是 常年 往来 客户 ( 自营 部分 的 应收 账款 ) ,
+0	坏帐 风险 很 小 。
+0	<num> 、 预付 账款 ( 单位 : <num> 元 、 月 )
+0	预付 账款 金额 <num> 元 ,
+0	为 支付 的 自营 部分 货款 。
+0	<num> 、 其他 应收 账款 ( 单位 : <num> 元 、 月 )
+0	其他 应收 账款 说明 :
+0	庚 辛 保险 为 入股 时 所 交 的 保证金 ,
+0	仍 未 归还 ;
+0	<org> 为 借款 ;
+0	剩余 为 周转金 和 东南 西北 二期 装修 未 开票 部分 。
+0	<num> 、 存货 ( 单位 : <num> 元 、 <num> )
+0	存货 <num> 元 。
+0	存货 说明 :
+0	主要 是 自营 部分 库存 商品 ,
+0	不 存在 积压 贬值 情况 。
+0	<num> 、 固定 资产 ( 单位 : <num> 元 )
+0	固定 资产 及 在 建 工程 说明 :
+0	固定 资产 主要 是 东南 西北 商场 房屋 大楼 和 运输 工具 、 电梯 设备 等 。
+0	<num> 、 长期 投资 ( 单位 : <num> 元 、 <num> )
+0	长期 投资 说明 :
+0	被 投资 单位 <org> 、 戊戌 市 <org> 和 东南 西北 旅行社 目前 均未 经营 。
+0	信用社 投资 不 分红 ,
+0	每年 直接 将 投资 收益 转 股 。
+0	<org> 被 投资 单位 中 有 <num> 家 房地产 公司 — — <org> ,
+0	投资 金额 <num> 元 ,
+0	该 房地产 公司 是 为 建设 商场 <num> 期 、 二期 而 成立 的 ,

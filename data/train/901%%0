@@ -1,0 +1,65 @@
+0	" <num> 、 本部 贷款卡 查询 信息
+0	查询 日期 <num> 贷款 卡号 : <num> 密码 : <num>
+1	贷款 查询 汇总 贷款 余额 <num> 元 、 贸易 融资 <num> 元 、 票据 贴现 <num> 元 、 银票 承兑 <num> 元 、 信用证 <num> 元 、 保函 <num> 元 、 对外 担保 <num> 元 、 被 担保 <num> 元 。
+0	银行 贷款 明细 品种 借款 金额 期限 ( 起止 日期 ) 担保 方式
+0	流 贷 <num> 元 <tim> - <tim> 抵押 合同 <num>
+0	流 贷 <num> 元 <tim> - <tim> 保证 合同 <num>
+0	流 贷 <num> 元 <tim> - <tim> 保证 合同 <num>
+0	流 贷 <num> 元 <tim> - <tim> 保证 合同 <num>
+0	流 贷 <num> 元 <tim> - <tim> 抵押 合同 <num>
+0	流 贷 <num> 元 <tim> - <tim> 抵押 合同 <num>
+0	流 贷 <num> 元 <tim> - <tim> 抵押 合同 <num>
+0	流 贷 <num> 元 <tim> - <tim> 保证 合同 <num>
+0	流 贷 <num> 元 <tim> - <tim> 抵押 合同 <num>
+0	流 贷 <num> 元 <tim> - <tim> 保证 合同 <num> + 抵押 合同 <num>
+0	流 贷 <num> 元 <tim> - <tim> 质押 合同 <num>
+0	流 贷 <num> 元 <tim> - <tim> 保证 合同 <num> + 抵押 合同 <num>
+0	流 贷 <num> 元 <tim> - <tim> 委托 贷款
+0	抵 质押 担保 明细 被 担保 企业 金额 抵 质押 物
+0	某 市 丁 己丑 有限 公司 <num> 元 股权 / 股票
+0	对外 担保 明细 被 担保 企业 金额 说明
+0	某 己 <org> <num>
+0	某 市 金润 丑 转运 有限 公司 <num> 元
+0	某甲 物流 有限 公司 <num> 元
+0	某 <org> <num> 元
+0	<org> <num> 元
+0	某 己 甲 有限 公司 <num> 元
+0	某 市 寅 <org> <num> 元
+0	某 市 丁 己丑 有限 公司 <num> 元
+0	<org> <num> 元
+0	某 县 己 <org> <num> 元
+0	某甲 己 房地产 有限 公司 <num> 元
+0	某 己 丙 有限 公司 <num> 元
+0	<num> 级 分类 情况 分类 均 为 正常 。
+1	贷款卡 状态 正常 ,
+1	无 不良 、 无 欠 息 、 无 垫款 。
+0	<num> 、 控制 企业 银行 负债 情况 查询 日 : 单位 : <num> 元
+0	企业 名称 贷款 卡号 贷款 余额 保理 余额 贸易 融资 余额 票据 贴现 承兑 汇票 信用证 余额 保函 余额
+0	某 己 <org> <num> <num> <num> <num> <num> <num> <num>
+0	某 己 <org> <num> <num> <num> <num> <num> <num> <num>
+0	某 己 <org> <num> <num> <num> <num> <num> <num> <num>
+0	某 己 <org> 无 贷款卡
+0	某 市 <per> 丑 有限 公司 <num> <num> <num> <num> <num> <num> <tim>
+0	某 市 寅 区 戊 运 贸 有限 公司 <num> <num> <num> <num> <num> <num> <num>
+0	某 市 金润 丑 转运 有限 公司 <num> <num> <num> <num> <num> <num> <num>
+0	某甲 物流 有限 公司 <num> <num> <num> <num> <num> <num> <num>
+0	某 丙寅 航运 有限 公司 <num> <num> <num> <num> <num> <num> <num>
+0	某甲 己 房地产 有限 公司 <num> <num> <num> <num> <num> <num> <num>
+0	某 <org> <num> <num> <num> <num> <num> <num> <num>
+0	<org> <num> <num> <num> <num> <num> <num> <num>
+0	某 市 寅 碧海 <org> <num> <num> <num> <num> <num> <num> <num>
+0	某 <org> <num> <num> <num> <num> <num> <num> <num>
+0	某 <org> <num> <num> <num> <num> <num> <num> <num>
+0	某 丙 房地产 有限 公司 <num> <num> <num> <num> <num> <num> <num>
+0	某甲 卯 房地产 有限 公司 <num> <num> <num> <num> <num> <num> <num>
+0	<org> <num> <num> <num> <num> , <num> <num> <tim> <num>
+0	某 己 <org> <num> <num> <num> <num> <num> <num> <num>
+0	<org> <num> <num> <num> <num> <num> <num> <num>
+0	某 佩 秋 书画 艺术 有限 公司 无 贷款卡
+0	某 省 丙 <org> <num> <num> <num> <num> <num> <num> <num>
+0	某 <org> <num> <num> <num> <num> <num> <num> <num>
+0	某 <org> <num> <num> <num> <num> <num> <num> <num>
+0	某 <org> <num> <num> <num> <num> <num> <num> <num>
+0	某 <org> 无 贷款卡
+0	某 <org> <num> <num> <num> <num> <num> <num> <num>
+0	某 <org> 无 贷款卡

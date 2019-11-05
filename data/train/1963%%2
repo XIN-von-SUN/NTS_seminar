@@ -1,0 +1,90 @@
+0	<num> 、 授信 申请 情况 分析
+0	( <num> ) 授信 用途
+1	张 <num> 公司 此次 申请 <num> 元 授信 额度 ,
+1	品种 为 项目 贷款 ,
+1	期限 <num> 年 。
+1	其中 <num> 元 授信 额度 用于 公司 某某某 单元 边界线 以东 地块 前期 基础性 开发 建设 ;
+1	另 <num> 元 授信 额度 用于 公司 某某 单元 某某 路 以西 地块 前期 基础性 开发 建设 。
+0	( <num> ) 还款 来源 及 偿债 评估 分析
+0	本次 项目 贷款 还款 资金 来源 为 张 <num> 工业区 土地 出让金 收益 的 留存 部分 及 税收 补贴 。
+0	随着 借款 人 业务 的 不断 发展 ,
+0	其 自身 实力 日益 增强 ,
+0	经营 效益 逐步 提升 ,
+0	具有 较 好 的 现金 流量 和 还款 能力 ,
+0	加上 有 某某 张 <num> 城市 建设 投资 有限 公司 保证 担保 ,
+0	其 偿债 能力 得到 了 进一步 增强 。
+0	借款 人 <tim> 土地 出让 与 配套 费 收入 明细表
+0	单位 : <num> 元
+0	<tim> <tim> <tim> <tim> <tim>
+0	出让 面积 ( 亩 ) <num> <num> <num> <num> <num>
+0	出让金 收入 <num> <num> <tim> <num> <tim>
+0	配套 费 收入 <num> <num> <num> <tim> <tim>
+0	收入 总计 <num> <num> <num> <num> <num>
+0	<tim> <num> 工区 体制 改革 ,
+0	由 原来 的 镇 级 管理 改为 区政府 直接 管理 ,
+0	区域 有 原来 的 <num> 工区 加上 某某 物流 产业 园区 、 科委 孵化 基地 合并 组建 新 的 第 <num> 工业区 。
+0	为了 在 现有 有限 的 存量 土地 上 ,
+0	园区 今后 能 有 更 好 的 发展 ,
+0	区政府 连同 园区 对 招商 入驻 企业 提出 了 更 高 的 要求 : 招 入 企业 必须 为 世界 五百强 、 化工 行业 龙头 、 大型 国有 企业 。
+0	<tim> 公司 受 体制 改革 、 招商 变化 等 因素 影响 ,
+0	全年 出让金 及 配套 费用 收入 有所 下降 。
+0	借款 人 <tim> 土地 出让 与 配套 费 收入 明细表
+0	序号 项目 <tim> <tim> <tim> <tim> <tim> <tim> 合计
+0	<num> 工业 用地 出让 面积 ( 亩 ) ( <num> ) <num> <num> <num> <num> <num> <num> <num>
+0	<num> 单价 ( <num> 元 / 亩 ) ( <num> ) <num> <num> <num> <num> <num> <num>
+0	<num> 工业 用地 出让 金额 ( <num> 元 ) ( <num> ) = ( <num> ) * ( <num> ) <num> <num> <num> <num> <num> <num> <num>
+0	<num> 工业区 实 得 收入 按 出让金 <num> 计算 ( <num> 元 ) ( <num> ) = ( <num> ) * <num> <num> <num> <num> <num> <num> <num> <num>
+0	<num> 配套 费 收入 <num> <num> <num> <num> <num> <num> <num>
+0	<num> 收入 合计 式 ( <num> ) = ( ( <num> ) + ( <num> ) <num> <num> <num> <num> <num> <num> <num>
+0	根据 《 某某 府 办 [ <tim> ] <num> 号 》 文 ,
+0	区级 土地 出让 收入 为 工业 用地 出让 价款 的 <num> ;
+0	由上 可见 ,
+0	<tim> - <tim> ,
+0	公司 合计 收入 将 达 <num> 元 ,
+0	完全 能 覆盖 所有 银行 贷款 及 利息 支出 。
+0	公司 尚 有 不 定期 政府 拨款 ,
+0	如 <tim> ,
+0	市政府 为 <num> 年 环保 计划 拨款 <num> 元 ,
+0	实 到 公司 <num> 元 。
+0	张 <num> 区 税收 、 产值 汇总表
+0	单位 : <num> 元
+0	序号 年份 投产 企业 数 产值 税收 总额 比上 年 增长率 <num> 实 得 财力
+0	<num> <tim> <num> <num> <num> <num>
+0	<num> <tim> <num> <num> <num> <num> <num>
+0	<num> <tim> <num> <num> <num> <num> <num>
+0	<num> <tim> <num> <num> <num> <num> <num>
+0	<num> <tim> <num> <num> <num> <num> <num>
+0	<num> <tim> <num> <num> <num> <num> <num>
+0	<num> <tim> <num> <num> <num> <num> <num>
+0	<num> <tim> <num> <num> <num> <num> <num>
+0	合 计 <num> <num> <num>
+0	由上 可见 ,
+0	今后 每年 公司 返 税 将不 低于 <num> 元 ,
+0	且 呈 逐年 大幅 上升 趋势 ( 该项 不 含 于 主营 收入 ,
+0	为 公司 净收入 ,
+0	目前 公司 尚未 与 区 财政 结算 ,
+0	故 报表 上 未 加 显示 )
+0	( <num> ) 偿债 能力 评估
+0	借款 人 <tim> 土地 出让 与 配套 费 收入 明细表
+0	序号 项目 <tim> <tim> <tim> <tim> <tim> <tim> 合计
+0	<num> 工业 用地 出让 面积 ( 亩 ) ( <num> ) <num> <num> <num> <num> <num> <num> <num>
+0	<num> 单价 ( <num> 元 / 亩 ) ( <num> ) <num> <num> <num> <num> <num> <num>
+0	<num> 工业 用地 出让 金额
+0	( <num> 元 ) ( <num> ) = ( <num> ) * ( <num> ) <num> <num> <num> <num> <num> <num> <num>
+0	<num> 工业区 实 得 收入 按 出让金 <num> 计算 ( <num> 元 ) ( <num> ) = ( <num> ) * <num> <num> <num> <num> <num> <num> <num> <num>
+0	<num> 配套 费 收入 <num> <num> <num> <num> <num> <num> <num>
+0	<num> 收入 合计 式 ( <num> ) = ( ( <num> ) + ( <num> ) <num> <num> <num> <num> <num> <num> <num>
+0	偿债 测算 表
+0	单位 : <num> 元
+0	项目 建设 期 运行 期
+0	借款 <num> <num> <num> <num>
+0	期初 借款 金额 <num> <num> <num> <num> <num>
+0	当期 还本 付息 <num> <num> <tim> <tim> <num>
+0	其中 : 还本 <num> <num> <tim> <tim> <num>
+0	付息 <num> <num> <num> <num> <num>
+0	期末 借款 金额 <num> <num> <num> <num>
+0	( <num> ) 偿债 能力 评估
+0	借款 人 <tim> 土地 出让 与 配套 费 收入 明细表
+0	序号 项目 <tim> <tim> <tim> <tim> <tim> <tim> 合计
+0	<num> 工业 用地 出让 面积 ( 亩 ) ( <num> ) <num> <num> <num> <num> <num> <num> <num>
+0	<num> 单价 ( <num> 元 / 亩 ) ( <num> ) <num> <num> <num> <num> <num> <num>

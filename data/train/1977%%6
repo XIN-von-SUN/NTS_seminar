@@ -1,0 +1,90 @@
+0	x5 ( 进口 ) <num> ~ <num>
+0	x6 ( 进口 ) <num> ~ <num>
+0	z4 系 z4 敞篷 跑车 ( 进口 ) <num> ~ <num>
+0	m 系 m3 四 门 轿车 ( 进口 ) <num>
+0	m3 双 门 轿 跑车 ( 进口 ) <num>
+0	m3 敞篷 轿 跑车 ( 进口 ) <num>
+0	m5 ( 进口 ) <num>
+0	m6 ( 进口 ) <num>
+0	经营 业绩 :
+0	某某 <tim> 、 <tim> 下游 客户 情况
+0	年度 商品 名称 客户 车型 数量 ( 台 ) 金额 ( <num> 元 )
+0	<tim> 合资 零散 客户 <num> 系 <num> <num>
+0	零散 客户 <num> 系 <num> <num>
+0	零散 客户 x1 <num> <tim>
+0	小计 <num> <num>
+0	进口 零散 客户 <num> 系 <num> <tim>
+0	零散 客户 <num> 系 <num> <tim>
+0	零散 客户 <num> 系 <num> <num>
+0	零散 客户 <num> 系 <num> <tim>
+0	零散 客户 <num> 系 gt <num> <num>
+0	零散 客户 <num> 系 <num> <tim>
+0	零散 客户 <num> 系 <num> <num>
+0	零散 客户 x1 <num> <tim>
+0	零散 客户 x3 <num> <tim>
+0	零散 客户 x5 <num> <num>
+0	零散 客户 x6 <num> <tim>
+0	零散 客户 mini <num> <num>
+0	零散 客户 z 系 <num> <num>
+0	小计 <num> <num>
+0	整车 合计 <tim> <num>
+0	配件 及 维修 收入 <num>
+0	总计 <num>
+0	<tim> 合资 零散 客户 <num> 系 <num> <num>
+0	零散 客户 x1 系 <num> <num>
+0	零散 客户 <num> 系 <num> <num>
+0	小计 <num> <num>
+0	进口 零散 客户 <num> 系 <num> <tim>
+0	零散 客户 <num> 系 <num> <num>
+0	零散 客户 <num> 系 <num> <num>
+0	零散 客户 <num> 系 <num> <num>
+0	零散 客户 <num> 系 <num> <num>
+0	零散 客户 <num> 系 <num> <num>
+0	零散 客户 x1 <num> <num>
+0	零散 客户 x3 <num> <tim>
+0	零散 客户 x5 <num> <num>
+0	零散 客户 x6 <num> <num>
+0	零散 客户 mini <num> <num>
+0	小计 <num> <num>
+0	整车 合计 <tim> <num>
+0	配件 及 维修 收入 零散 客户 <num>
+0	总计 <num>
+0	由 企业 经营 数据 可以 看出 ,
+0	<tim> ,
+0	企业 总 销售 车辆 <tim> 部 ,
+0	整车 实现 销售 收入 <num> 元 ,
+0	配件 及 维修 收入 为 <num> 元 ,
+0	实现 总 销售 收入 <num> 元 : 其中 合资 畅销 车型 为 <num> 系 ,
+0	销售 <num> 部 ;
+0	进口 畅销 车型 为 <num> 系 <num> 部 ,
+0	x1 车型 <num> 部 ,
+0	x5 车型 <num> 部 。
+0	<tim> ,
+0	企业 总 销售 车辆 <tim> 部 ,
+0	较 <tim> 增加 销售 <num> 部 ,
+0	实现 整车 实 销售 收入 <num> 元 ,
+0	配件 及 维修 收入 为 <num> 元 ,
+0	实现 总 销售 收入 <num> 元 : 其中 合资 畅销 车型 为 <num> 系 ,
+0	销售 <num> 部 ,
+0	销售 <num> 部 ;
+0	进口 畅销 车型 为 <num> 系 <num> 部 ,
+0	mini <num> 部 ,
+0	<num> 系 <num> 部 ,
+0	x3 车型 <num> 部 ,
+0	<org> 。
+0	上述 进口 车型 主要 向 <org> 采购 ,
+0	合资 车型 主要 向 <org> 采购 。
+0	从 <tim> 开始 ,
+0	李 某某 集团 调整 经营 结构 ,
+0	汽车 板块 - 各个 <num> s 店 对 厂家 的 结算 逐步 由 李 某某 <org> 进行 整体 运作 ,
+0	李 某某 <org> 成立 于 <num> ,
+0	为 李 某某 集团 汽车 板块 的 结算 中心 。
+0	销售 渠道 分析
+0	前 <num> 名 销售商 ( 按 金额 大小 排名 ) 金额 ( <num> 元 ) 占 全部 销售 比率 <num>
+0	<num> 进口车 零售 <num> <num>
+0	<num> 国产车 零售 <num> <num>
+0	<num> 售后 及 维修 <num> <num>
+0	销售商 总体 评价 从 销售 价格 、 稳定性 、 付款 条件 等 方面 对 销售商 进行 描述 。
+0	下游 销售 方式 主要 是 零售 经营 ,
+0	以 现汇 付款 为主 。
+0	<num> <num>

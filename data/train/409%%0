@@ -1,0 +1,49 @@
+0	" ( <num> ) 财务 状况
+1	会计 科目 本期 ( <tim> / <num> ) 上年 年末 ( <tim> / <num> ) 增减 幅度 ( <num> ) 上年 同期 ( <tim> / <num> ) 增减 幅度 ( <num> )
+1	资产 总额 <num> <num> <num> <num> <num>
+0	应收 票据 <num> <num> - <num> <num> - <num>
+1	应收 账款 <num> <num> - <num> <num> <num>
+0	预付 账款 <num> <num> - <num>
+0	其他 应收款 <num> <num> <num> <num> <num>
+0	存货 <num> <num> - <num> <num> - <num>
+0	负债 总额 <num> <num> - <num> <num> - <num>
+0	流动 负债 <num> <num> - <num> <num> - <num>
+0	短期 借款 <num> <num> <num> <num> - <num>
+0	长期 借款 <num> <num> - <num>
+0	应付 票据 <num> <num> - <num>
+1	应付 账款 <num> <num> - <num>
+0	预 收 账款 <num> <num> - <num>
+0	其他 应付款 <num> <num> - <num> <num> - <num>
+0	净资产 <num> <num> <num> <num> <num>
+0	实收 资本 <num> <num> <num> <num> <num>
+1	主营 业务 收入 <num> <num> - <num> <num> - <num>
+1	净利润 <num> <num> - <num> <num> - <num>
+1	经营 活动 产生 的 现金 流量 净额 <num> <num> - <num> <num> - <num>
+1	投资 活动 产生 的 现金 流量 净额 <num> <num> - <num>
+1	筹资 活动 产生 的 现金 净 流量 <num> - <num> - <num> - <num> - <num>
+1	财务 指标 本期 ( <tim> / <num> ) 上年 年末 ( <tim> / <num> ) 增减 幅度 ( <num> ) 上年 同期 ( <tim> / <num> ) 增减 幅度 ( <num> )
+1	资产 负债率 <num> <num> - <num> <num> - <num>
+1	速 动比率 <num> <num> - <num> <num> - <num>
+1	流动 比率 <num> <num> <num> <num> <num>
+1	销售 利润率 <num> <num> - <num> <num> - <num>
+1	存货 周转率 <num> <num> - <num> <num> - <num>
+1	利息 保障 倍数 <num> <num> - <num> <num> - <num>
+1	应收 账款 周转率 <num> <num> - <num> <num> - <num>
+0	长期 债务 与 营运 资金 比率 <num> <num> - <num>
+1	借款 人 销售 收入 主要 包括 轮胎 销售 、 货物 运输 和 仓储 、 水 碴 等 辅料 销售 等 ,
+1	受 <num> 特大 暴雨 影响 ,
+1	借款 人 的 物流 园 中 <num> 大 煤炭 仓储 客户 的 煤场 被 雨水 冲 走 ,
+1	并 造成 伤亡 <num> 人 ,
+1	园区 目前 没有 租户 ,
+1	借款 人 的 物流 园 丧失 租金 收入 ,
+1	造成 重大 损失 ;
+1	另 受 洪灾 影响 通往 山西 的 两条 主干道 被 水 冲垮 断交 ,
+1	造成 物流 无法 正常 运营 。
+1	借款 人 另 <num> 主要 收入 来源 轮胎 销售 市场 形势 不好 ,
+1	轮胎 价格 大幅 下降 ,
+1	收入 停滞 。
+2	综上 所 述 ,
+2	借款 人 目前 经营 周转 困难 ,
+2	资金 紧张 ,
+2	无法 按时 归还 我 行 贷款 ,
+2	预计 将 影响 我 行 贷款 本金 的 归还 。

@@ -1,0 +1,73 @@
+0	" 经营 计划
+0	随着 贸易 公司 资源 整合 ,
+0	<tim> 年度 承接 了 张 <num> 公司 板 锭 业务 ,
+1	<tim> 年度 预计 可 实现 销售 收入 人民币 <num> 元 ,
+1	其中 国内 贸易 <num> 元 ,
+1	转口 贸易 <num> 元 ,
+1	计划 取得 利润 人民币 <num> 元 。
+0	<num> 、 主要 产品 情况 及 购销 渠道
+0	经营 场所 吴淞路 经营 场所 租赁
+0	主要 设备 / 主营 业务 构成 铝 、 锌 、 电解铜 的 国内 及 转口 贸易
+0	主要 产品 生产 工艺 流程 产品 优势 / 劣势 产品 单价 市场 供需 状况
+0	铝锭 / / <num> 良好
+0	产品 名称 经营 年限 上 年度 销售 收入 预计 当年 销售 收入
+0	金额 ( <num> 元 ) 占 比 ( <num> ) 金额 ( <num> 元 ) 占 比 ( <num> )
+0	铝锭 <num> <num> ,
+0	<num> <num> <num> ,
+0	<num> <num>
+0	电解铜 <num> <num> ,
+0	<num> <num> <num> ,
+0	<num> <num>
+0	扁 锭 <num> <num> ,
+0	<num> <num> <num> ,
+0	<num> <num>
+0	锌锭 <num> <num> ,
+0	<num> <num> <num> ,
+0	<num> <num>
+0	镍 <num> <num> ,
+0	<num> <num> <num> ,
+0	<num> <num>
+0	铝板 铝 卷 <num> <num> ,
+0	<num> <num> <num> ,
+0	<num> <num>
+0	阴极铜 <num> <num> ,
+0	<num> <num> <num> ,
+0	<num> <num>
+0	合计 <num> ,
+0	<num> <num> <num> ,
+0	<num> <num>
+0	前 <num> 大 供应商 企业 名称 合作 年限 结算 方式 供应 产品 上 年度 采购 量 ( <num> 元 ) 平均 采购 单价 ( 元 ) 占 上 年度 总 采购 量 的 比重
+0	张 <num> 公司 <num> 汇款 ,
+0	承兑 电解铜 、 铝锭 <num> ,
+0	<num> 电解铜 <num>
+0	铝锭 <num> <num>
+0	张 <num> 公司 <num> 汇款 ,
+0	承兑 电解铜 、 铝锭 <num> ,
+0	<num> 电解铜 <num>
+0	铝锭 <num> <num>
+0	张 <num> 公司 <num> 汇款 电解铜 <num> ,
+0	<num> <num> <num>
+0	张 <num> 公司 <num> 汇款 ,
+0	承兑 铝板 、 铝 卷 <num> ,
+0	<num> <num> <num>
+0	张 <num> 公司 <num> 汇款 铝锭 <num> ,
+0	<num> <num> <num>
+0	合计 <num> ,
+0	<num> <num>
+0	前 <num> 大 下游 客户 企业 名称 合作 年限 结算 方式 供应 产品 上 年度 销售量 ( <num> 元 ) 平均 销售 单价 ( 元 ) 占 上 年度 总 销售量 的 比重
+0	张 <num> 公司 <num> 汇款 铝锭 ,
+0	电解铜 、 阴极铜 <num> ,
+0	<num> 铝锭 <num>
+0	电解铜 <num>
+0	阴极铜 <num> <num>
+0	张 <num> 公司 <num> 汇款 电解铜 <num> ,
+0	<num> <num> <num>
+0	张 <num> 公司 <num> 汇款 ,
+0	承兑 铝锭 <num> ,
+0	<num> <num> <num>
+0	张 <num> 公司 <num> 汇款 阴极铜 <num> ,
+0	<num> <num> <num>
+0	<org> <num> 汇款 电解铜 <num> ,
+0	<num> <num> <num>
+0	合计 <num> ,
+0	<num> <num>
